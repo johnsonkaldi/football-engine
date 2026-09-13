@@ -151,5 +151,14 @@
     "away_team": "吉尔维森特",
     "half_home_score": 1,
     "half_away_score": 1
+  },
+  {
+    "match_id": "2026-09-13_周日018",
+    "home_score": 4,
+    "away_score": 1,
+    "home_team": "埃因霍温",
+    "away_team": "鹿特丹斯巴达",
+    "half_home_score": 2,
+    "half_away_score": 1
   }
 ]

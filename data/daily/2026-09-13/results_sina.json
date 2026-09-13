@@ -423,5 +423,30 @@
     "red_home": "0",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3748426",
+    "match_no": "周日018",
+    "home_team": "埃因霍温",
+    "away_team": "鹿特丹斯巴达",
+    "home_score": 4,
+    "away_score": 1,
+    "half_home_score": 2,
+    "half_away_score": 1,
+    "league": "荷甲",
+    "match_time": "2026-09-14 02:00:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 0.0,
+    "odds_draw": 0.0,
+    "odds_away": 0.0,
+    "corner_home": "9",
+    "corner_away": "5",
+    "yellow_home": "1",
+    "yellow_away": "1",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]

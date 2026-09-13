@@ -2,7 +2,7 @@
   "挪超": {
     "base_goals": 1.55,
     "home_adv_weight": 1.1,
-    "market_blend_weight": 0.11999999999999998,
+    "market_blend_weight": 0.1,
     "xg_calibration": 1.13,
     "draw_baseline": 0.12,
     "draw_predictions": 0,
@@ -150,8 +150,8 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 36,
-    "total_hits": 23,
+    "total_predictions": 37,
+    "total_hits": 24,
     "avg_overround": 0.0,
     "last_updated": "2026-09-13"
   },

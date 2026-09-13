@@ -3296,10 +3296,10 @@
     "rest_days": 3
   },
   "埃因霍温": {
-    "elo": 1779.3,
-    "attack": 1.2478,
-    "defense": 0.7378,
-    "form": 0.801,
+    "elo": 1783.8,
+    "attack": 1.2669,
+    "defense": 0.701,
+    "form": 0.8607,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3344,10 +3344,10 @@
     "rest_days": 3
   },
   "鹿特丹斯巴达": {
-    "elo": 1346.6,
-    "attack": 0.8449,
-    "defense": 1.1832,
-    "form": -0.5473,
+    "elo": 1342.1,
+    "attack": 0.7977,
+    "defense": 1.2086,
+    "form": -0.6831,
     "injury": 0.0,
     "rest_days": 3
   },

@@ -1,13 +1,13 @@
 {
   "date": "2026-09-13",
-  "n_matches": 17,
-  "hit_rate": 0.4706,
-  "hits": 8,
+  "n_matches": 18,
+  "hit_rate": 0.5,
+  "hits": 9,
   "source_brier": {
-    "model": 0.5599,
+    "model": 0.5373,
     "market": 0.63,
     "djyy": null,
-    "final": 0.5691
+    "final": 0.5456
   },
   "by_league": {
     "日职": {
@@ -41,10 +41,10 @@
       "avg_brier": 0.8062
     },
     "荷甲": {
-      "n": 1,
-      "hit_rate": 0.0,
-      "wilson_lower": 0.0,
-      "avg_brier": 1.0899
+      "n": 2,
+      "hit_rate": 0.5,
+      "wilson_lower": 0.0945,
+      "avg_brier": 0.6176
     },
     "意甲": {
       "n": 2,
@@ -91,10 +91,10 @@
       "avg_brier": 0.6504
     },
     "high": {
-      "n": 10,
-      "hit_rate": 0.6,
-      "wilson_lower": 0.3127,
-      "avg_brier": 0.5056
+      "n": 11,
+      "hit_rate": 0.6364,
+      "wilson_lower": 0.3538,
+      "avg_brier": 0.4729
     },
     "low": {
       "n": 2,
@@ -117,10 +117,10 @@
       "avg_brier": 0.669
     },
     "1.0-1.5": {
-      "n": 8,
-      "hit_rate": 0.75,
-      "wilson_lower": 0.4093,
-      "avg_brier": 0.3914
+      "n": 9,
+      "hit_rate": 0.7778,
+      "wilson_lower": 0.4526,
+      "avg_brier": 0.3641
     }
   },
   "score_stats": {
@@ -148,16 +148,16 @@
     }
   },
   "market_signal_stats": {
-    "n": 17,
-    "hits": 5
+    "n": 18,
+    "hits": 6
   },
   "layered": {
-    "log_loss_final": 0.9516,
-    "rps_final": 0.1528,
+    "log_loss_final": 0.9194,
+    "rps_final": 0.1476,
     "rps_market": 0.1525,
     "goal_framework": {
-      "n": 17,
-      "hits": 11
+      "n": 18,
+      "hits": 12
     },
     "prob_bands": {
       "40-50%": {
@@ -169,8 +169,8 @@
         "hit_rate": 0.3333
       },
       "60%+": {
-        "n": 8,
-        "hit_rate": 0.75
+        "n": 9,
+        "hit_rate": 0.7778
       },
       "<40%": {
         "n": 2,
@@ -183,8 +183,8 @@
         "hit_rate": 0.5
       },
       "watch": {
-        "n": 7,
-        "hit_rate": 0.4286
+        "n": 8,
+        "hit_rate": 0.5
       }
     }
   },
@@ -193,15 +193,15 @@
       "dimension": "outcome",
       "key": "all",
       "outcome": "draw",
-      "predicted_avg": 0.2368,
-      "actual_rate": 0.4118,
-      "gap": -0.1749,
-      "n": 17,
+      "predicted_avg": 0.2328,
+      "actual_rate": 0.3889,
+      "gap": -0.1561,
+      "n": 18,
       "severity": "warn",
       "suggested_action": "reduce draw_bias"
     }
   ],
   "total_pnl": 0.0,
-  "generated_at": "2026-09-13T18:58:09.425471",
-  "sha256": "c82b99ba3f0125f86545039ee9d75624"
+  "generated_at": "2026-09-13T20:10:43.723611",
+  "sha256": "b630c976decc40c843254ee4da488e98"
 }
