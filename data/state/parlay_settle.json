@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T16:40:04.098475+00:00",
+  "generated_at": "2026-09-13T17:52:46.602262+00:00",
   "parlay": {
     "n_tickets": 90,
     "n_pending": 0,
@@ -59,8 +59,8 @@
         "roi": -1.0
       }
     },
-    "leg_hit_rate": 0.1117,
-    "n_legs_settled": 358
+    "leg_hit_rate": 0.1105,
+    "n_legs_settled": 362
   },
   "tickets": {
     "parlay": [
@@ -9614,7 +9614,7 @@
         "pending": true,
         "leg_results": [
           null,
-          null
+          false
         ],
         "return": 0.0,
         "legs": [
@@ -9634,7 +9634,7 @@
             "sel": null,
             "score": "0-1",
             "odds": 25.0,
-            "hit": null
+            "hit": false
           }
         ]
       },
@@ -9685,7 +9685,7 @@
         "won": false,
         "pending": true,
         "leg_results": [
-          null,
+          false,
           null
         ],
         "return": 0.0,
@@ -9697,7 +9697,7 @@
             "sel": null,
             "score": "0-1",
             "odds": 25.0,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-09-13_周日024",
@@ -9722,7 +9722,7 @@
         "pending": true,
         "leg_results": [
           null,
-          null,
+          false,
           null
         ],
         "return": 0.0,
@@ -9743,7 +9743,7 @@
             "sel": null,
             "score": "0-1",
             "odds": 25.0,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-09-13_周日024",
@@ -9768,7 +9768,7 @@
         "pending": true,
         "leg_results": [
           null,
-          null,
+          false,
           null
         ],
         "return": 0.0,
@@ -9789,7 +9789,7 @@
             "sel": null,
             "score": "0-1",
             "odds": 25.0,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-09-13_周日024",
@@ -21668,8 +21668,8 @@
           "roi": null,
           "avg_odds": null,
           "by_type": {},
-          "leg_hit_rate": null,
-          "n_legs_settled": 0
+          "leg_hit_rate": 0.0,
+          "n_legs_settled": 4
         },
         "tickets": [
           {
@@ -21684,7 +21684,7 @@
             "pending": true,
             "leg_results": [
               null,
-              null
+              false
             ],
             "return": 0.0,
             "legs": [
@@ -21704,7 +21704,7 @@
                 "sel": null,
                 "score": "0-1",
                 "odds": 25.0,
-                "hit": null
+                "hit": false
               }
             ]
           },
@@ -21755,7 +21755,7 @@
             "won": false,
             "pending": true,
             "leg_results": [
-              null,
+              false,
               null
             ],
             "return": 0.0,
@@ -21767,7 +21767,7 @@
                 "sel": null,
                 "score": "0-1",
                 "odds": 25.0,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-09-13_周日024",
@@ -21792,7 +21792,7 @@
             "pending": true,
             "leg_results": [
               null,
-              null,
+              false,
               null
             ],
             "return": 0.0,
@@ -21813,7 +21813,7 @@
                 "sel": null,
                 "score": "0-1",
                 "odds": 25.0,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-09-13_周日024",
@@ -21838,7 +21838,7 @@
             "pending": true,
             "leg_results": [
               null,
-              null,
+              false,
               null
             ],
             "return": 0.0,
@@ -21859,7 +21859,7 @@
                 "sel": null,
                 "score": "0-1",
                 "odds": 25.0,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-09-13_周日024",

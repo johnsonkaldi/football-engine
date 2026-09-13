@@ -5203,7 +5203,22 @@
     "play_ev": {
       "ttg": 0.1518
     },
-    "kelly_edge": -0.0961
+    "kelly_edge": -0.0961,
+    "pnl": 0.0,
+    "actual_result": "1-5",
+    "actual_home_score": 1,
+    "actual_away_score": 5,
+    "direction_correct": true,
+    "predicted_score": "0-0",
+    "score_correct": false,
+    "score_rank": 0,
+    "score_top3_hit": false,
+    "score_top5_hit": false,
+    "score_top8_hit": false,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 0,
+    "market_signal_dir": "away",
+    "market_signal_hit": true
   },
   {
     "match_id": "2026-09-13_周日012",
@@ -5665,7 +5680,22 @@
       "recommended": false
     },
     "prob_band_60_risk": true,
-    "kelly_edge": -0.0948
+    "kelly_edge": -0.0948,
+    "pnl": 0.0,
+    "actual_result": "2-2",
+    "actual_home_score": 2,
+    "actual_away_score": 2,
+    "direction_correct": false,
+    "predicted_score": "0-1",
+    "score_correct": false,
+    "score_rank": 0,
+    "score_top3_hit": false,
+    "score_top5_hit": false,
+    "score_top8_hit": false,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 0,
+    "market_signal_dir": "home",
+    "market_signal_hit": false
   },
   {
     "match_id": "2026-09-13_周日013",
@@ -6126,7 +6156,22 @@
       "best_edge": -0.0855,
       "recommended": false
     },
-    "kelly_edge": -0.0906
+    "kelly_edge": -0.0906,
+    "pnl": 0.0,
+    "actual_result": "0-1",
+    "actual_home_score": 0,
+    "actual_away_score": 1,
+    "direction_correct": true,
+    "predicted_score": "0-0",
+    "score_correct": false,
+    "score_rank": 2,
+    "score_top3_hit": true,
+    "score_top5_hit": true,
+    "score_top8_hit": true,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 2,
+    "market_signal_dir": "draw",
+    "market_signal_hit": false
   },
   {
     "match_id": "2026-09-13_周日014",
@@ -6570,7 +6615,22 @@
     "play_ev": {
       "hafu": 0.0926
     },
-    "kelly_edge": -0.0453
+    "kelly_edge": -0.0453,
+    "pnl": 0.0,
+    "actual_result": "1-2",
+    "actual_home_score": 1,
+    "actual_away_score": 2,
+    "direction_correct": true,
+    "predicted_score": "0-1",
+    "score_correct": false,
+    "score_rank": 6,
+    "score_top3_hit": false,
+    "score_top5_hit": false,
+    "score_top8_hit": true,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 6,
+    "market_signal_dir": "away",
+    "market_signal_hit": true
   },
   {
     "match_id": "2026-09-13_周日015",

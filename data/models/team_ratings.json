@@ -1056,10 +1056,10 @@
     "rest_days": 3
   },
   "莫尔德": {
-    "elo": 1717.3,
-    "attack": 1.1356,
-    "defense": 0.7754,
-    "form": 0.5251,
+    "elo": 1737.4,
+    "attack": 1.2008,
+    "defense": 0.735,
+    "form": 0.6676,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1352,10 +1352,10 @@
     "rest_days": 3
   },
   "朗斯": {
-    "elo": 1790.6,
-    "attack": 1.283,
-    "defense": 0.7948,
-    "form": 0.1708,
+    "elo": 1781.5,
+    "attack": 1.2283,
+    "defense": 0.7877,
+    "form": 0.1196,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1513,9 +1513,9 @@
   },
   "拜仁慕尼黑": {
     "elo": 2200.0,
-    "attack": 0.9151,
-    "defense": 0.2995,
-    "form": 0.7899,
+    "attack": 0.8962,
+    "defense": 0.3055,
+    "form": 0.8529,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4600,10 +4600,10 @@
     "rest_days": 3
   },
   "曼联": {
-    "elo": 1839.1,
-    "attack": 1.3301,
-    "defense": 0.7903,
-    "form": 0.3858,
+    "elo": 1819.0,
+    "attack": 1.2004,
+    "defense": 0.7484,
+    "form": -0.0299,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6360,10 +6360,10 @@
     "rest_days": 3
   },
   "曼城": {
-    "elo": 1813.1,
-    "attack": 1.1402,
-    "defense": 0.6512,
-    "form": 0.7858,
+    "elo": 1833.2,
+    "attack": 1.0642,
+    "defense": 0.5877,
+    "form": 0.8501,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6904,10 +6904,10 @@
     "rest_days": 3
   },
   "汉坎": {
-    "elo": 1394.6,
-    "attack": 0.2122,
-    "defense": 0.5849,
-    "form": -0.4957,
+    "elo": 1374.5,
+    "attack": 0.2267,
+    "defense": 0.7038,
+    "form": -0.647,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10440,10 +10440,10 @@
     "rest_days": 3
   },
   "埃弗斯堡": {
-    "elo": 1548.9,
-    "attack": 1.0506,
-    "defense": 0.9836,
-    "form": 0.51,
+    "elo": 1547.8,
+    "attack": 0.9834,
+    "defense": 0.9581,
+    "form": 0.057,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10580,6 +10580,14 @@
     "attack": 0.9377,
     "defense": 1.0081,
     "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "勒芒": {
+    "elo": 1509.1,
+    "attack": 0.9729,
+    "defense": 0.9729,
+    "form": 0.0,
     "injury": 0.0,
     "rest_days": 3
   }

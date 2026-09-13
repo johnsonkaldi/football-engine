@@ -2,15 +2,15 @@
   "挪超": {
     "base_goals": 1.55,
     "home_adv_weight": 1.1,
-    "market_blend_weight": 0.22,
+    "market_blend_weight": 0.16999999999999998,
     "xg_calibration": 1.13,
     "draw_baseline": 0.12,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 20,
-    "total_hits": 12,
+    "total_predictions": 21,
+    "total_hits": 13,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-12"
+    "last_updated": "2026-09-13"
   },
   "欧冠": {
     "base_goals": 1.4,
@@ -371,7 +371,7 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 21,
+    "total_predictions": 22,
     "total_hits": 12,
     "avg_overround": 0.0,
     "last_updated": "2026-09-13"
@@ -384,10 +384,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 85,
-    "total_hits": 13,
+    "total_predictions": 86,
+    "total_hits": 14,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-12"
+    "last_updated": "2026-09-13"
   },
   "意甲": {
     "base_goals": 1.25,
@@ -436,8 +436,8 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 26,
-    "total_hits": 13,
+    "total_predictions": 27,
+    "total_hits": 14,
     "avg_overround": 0.0,
     "last_updated": "2026-09-13"
   },
