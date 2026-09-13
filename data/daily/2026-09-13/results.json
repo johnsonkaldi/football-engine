@@ -124,5 +124,32 @@
     "away_team": "拜仁慕尼黑",
     "half_home_score": 0,
     "half_away_score": 1
+  },
+  {
+    "match_id": "2026-09-13_周日015",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "那不勒斯",
+    "away_team": "博洛尼亚",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-09-13_周日016",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "赫塔菲",
+    "away_team": "拉科鲁尼亚",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-09-13_周日017",
+    "home_score": 3,
+    "away_score": 1,
+    "home_team": "本菲卡",
+    "away_team": "吉尔维森特",
+    "half_home_score": 1,
+    "half_away_score": 1
   }
 ]

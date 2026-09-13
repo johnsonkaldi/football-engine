@@ -1104,10 +1104,10 @@
     "rest_days": 3
   },
   "本菲卡": {
-    "elo": 1905.4,
-    "attack": 1.2435,
-    "defense": 0.2859,
-    "form": 0.9334,
+    "elo": 1909.8,
+    "attack": 1.2278,
+    "defense": 0.2932,
+    "form": 0.9534,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1792,10 +1792,10 @@
     "rest_days": 3
   },
   "那不勒斯": {
-    "elo": 1742.0,
-    "attack": 0.8849,
-    "defense": 0.6693,
-    "form": -0.4459,
+    "elo": 1749.9,
+    "attack": 0.8338,
+    "defense": 0.604,
+    "form": -0.0121,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4624,10 +4624,10 @@
     "rest_days": 3
   },
   "博洛尼亚": {
-    "elo": 1613.5,
-    "attack": 0.7573,
-    "defense": 0.8783,
-    "form": -0.2827,
+    "elo": 1605.6,
+    "attack": 0.6835,
+    "defense": 0.8279,
+    "form": -0.4979,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9656,10 +9656,10 @@
     "rest_days": 3
   },
   "吉尔维森特": {
-    "elo": 1537.5,
-    "attack": 0.7815,
-    "defense": 0.6634,
-    "form": 0.4599,
+    "elo": 1533.1,
+    "attack": 0.7405,
+    "defense": 0.7043,
+    "form": 0.0219,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10152,10 +10152,10 @@
     "rest_days": 3
   },
   "赫塔菲": {
-    "elo": 1474.2,
-    "attack": 0.7273,
-    "defense": 0.808,
-    "form": -0.1659,
+    "elo": 1475.0,
+    "attack": 0.6916,
+    "defense": 0.7644,
+    "form": -0.1161,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10232,10 +10232,10 @@
     "rest_days": 3
   },
   "拉科鲁尼亚": {
-    "elo": 1557.0,
-    "attack": 0.9188,
-    "defense": 0.8201,
-    "form": 0.51,
+    "elo": 1556.2,
+    "attack": 0.8644,
+    "defense": 0.7753,
+    "form": 0.357,
     "injury": 0.0,
     "rest_days": 3
   },
