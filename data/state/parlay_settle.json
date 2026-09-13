@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-13T10:59:32.943718+00:00",
+  "generated_at": "2026-09-13T12:44:35.409480+00:00",
   "parlay": {
-    "n_tickets": 95,
-    "n_pending": 5,
+    "n_tickets": 90,
+    "n_pending": 0,
     "n_settled": 90,
     "n_won": 25,
     "hit_rate": 0.2778,
     "stake": 474.6,
-    "stake_committed": 496.65,
-    "stake_pending": 22.05,
+    "stake_committed": 474.6,
+    "stake_pending": 0,
     "return": 579.92,
     "roi": 0.2219,
     "avg_odds": 5.78,
@@ -3601,206 +3601,6 @@
             "score": null,
             "odds": 2.03,
             "hit": true
-          }
-        ]
-      },
-      {
-        "date": "2026-09-13",
-        "type": "2串1",
-        "stake": 4.52,
-        "potential": 24.09,
-        "total_odds": 5.33,
-        "odds_source": null,
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-09-13_周日004",
-            "home": "哈马比",
-            "away": "布鲁马波",
-            "sel": "away",
-            "score": null,
-            "odds": 2.09,
-            "hit": null
-          },
-          {
-            "match": "2026-09-13_周日007",
-            "home": "莱切",
-            "away": "蒙扎",
-            "sel": "away",
-            "score": null,
-            "odds": 2.55,
-            "hit": null
-          }
-        ]
-      },
-      {
-        "date": "2026-09-13",
-        "type": "2串1",
-        "stake": 6.0,
-        "potential": 25.58,
-        "total_odds": 4.26,
-        "odds_source": null,
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-09-13_周日004",
-            "home": "哈马比",
-            "away": "布鲁马波",
-            "sel": "away",
-            "score": null,
-            "odds": 2.09,
-            "hit": null
-          },
-          {
-            "match": "2026-09-13_周日005",
-            "home": "库奥皮奥",
-            "away": "赫尔辛基",
-            "sel": "home",
-            "score": null,
-            "odds": 2.04,
-            "hit": null
-          }
-        ]
-      },
-      {
-        "date": "2026-09-13",
-        "type": "2串1",
-        "stake": 4.46,
-        "potential": 23.2,
-        "total_odds": 5.2,
-        "odds_source": null,
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-09-13_周日005",
-            "home": "库奥皮奥",
-            "away": "赫尔辛基",
-            "sel": "home",
-            "score": null,
-            "odds": 2.04,
-            "hit": null
-          },
-          {
-            "match": "2026-09-13_周日007",
-            "home": "莱切",
-            "away": "蒙扎",
-            "sel": "away",
-            "score": null,
-            "odds": 2.55,
-            "hit": null
-          }
-        ]
-      },
-      {
-        "date": "2026-09-13",
-        "type": "3串1",
-        "stake": 3.02,
-        "potential": 32.83,
-        "total_odds": 10.87,
-        "odds_source": null,
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-09-13_周日004",
-            "home": "哈马比",
-            "away": "布鲁马波",
-            "sel": "away",
-            "score": null,
-            "odds": 2.09,
-            "hit": null
-          },
-          {
-            "match": "2026-09-13_周日005",
-            "home": "库奥皮奥",
-            "away": "赫尔辛基",
-            "sel": "home",
-            "score": null,
-            "odds": 2.04,
-            "hit": null
-          },
-          {
-            "match": "2026-09-13_周日007",
-            "home": "莱切",
-            "away": "蒙扎",
-            "sel": "away",
-            "score": null,
-            "odds": 2.55,
-            "hit": null
-          }
-        ]
-      },
-      {
-        "date": "2026-09-13",
-        "type": "3串4",
-        "stake": 4.05,
-        "potential": 25.99,
-        "total_odds": 6.42,
-        "odds_source": null,
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-09-13_周日004",
-            "home": "哈马比",
-            "away": "布鲁马波",
-            "sel": "away",
-            "score": null,
-            "odds": 2.09,
-            "hit": null
-          },
-          {
-            "match": "2026-09-13_周日005",
-            "home": "库奥皮奥",
-            "away": "赫尔辛基",
-            "sel": "home",
-            "score": null,
-            "odds": 2.04,
-            "hit": null
-          },
-          {
-            "match": "2026-09-13_周日007",
-            "home": "莱切",
-            "away": "蒙扎",
-            "sel": "away",
-            "score": null,
-            "odds": 2.55,
-            "hit": null
           }
         ]
       }
@@ -9842,8 +9642,8 @@
         "date": "2026-09-13",
         "type": "比分2串1",
         "stake": 2.0,
-        "potential": 486.0,
-        "total_odds": 243.0,
+        "potential": 504.0,
+        "total_odds": 252.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -9855,12 +9655,12 @@
         "return": 0.0,
         "legs": [
           {
-            "match": "2026-09-13_周日006",
-            "home": "海伦芬",
-            "away": "特尔斯达",
+            "match": "2026-09-13_周日009",
+            "home": "莱红牛",
+            "away": "汉堡",
             "sel": null,
             "score": "1-0",
-            "odds": 13.5,
+            "odds": 14.0,
             "hit": null
           },
           {
@@ -9878,8 +9678,8 @@
         "date": "2026-09-13",
         "type": "比分2串1",
         "stake": 2.0,
-        "potential": 675.0,
-        "total_odds": 337.5,
+        "potential": 700.0,
+        "total_odds": 350.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -9891,12 +9691,12 @@
         "return": 0.0,
         "legs": [
           {
-            "match": "2026-09-13_周日006",
-            "home": "海伦芬",
-            "away": "特尔斯达",
+            "match": "2026-09-13_周日009",
+            "home": "莱红牛",
+            "away": "汉堡",
             "sel": null,
             "score": "1-0",
-            "odds": 13.5,
+            "odds": 14.0,
             "hit": null
           },
           {
@@ -9914,8 +9714,8 @@
         "date": "2026-09-13",
         "type": "比分3串1",
         "stake": 2.0,
-        "potential": 3712.5,
-        "total_odds": 1856.25,
+        "potential": 12600.0,
+        "total_odds": 6300.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -9928,30 +9728,30 @@
         "return": 0.0,
         "legs": [
           {
-            "match": "2026-09-13_周日004",
-            "home": "哈马比",
-            "away": "布鲁马波",
-            "sel": null,
-            "score": "1-0",
-            "odds": 11.0,
-            "hit": null
-          },
-          {
-            "match": "2026-09-13_周日006",
-            "home": "海伦芬",
-            "away": "特尔斯达",
-            "sel": null,
-            "score": "1-0",
-            "odds": 13.5,
-            "hit": null
-          },
-          {
             "match": "2026-09-13_周日009",
             "home": "莱红牛",
             "away": "汉堡",
             "sel": null,
             "score": "1-0",
-            "odds": 12.5,
+            "odds": 14.0,
+            "hit": null
+          },
+          {
+            "match": "2026-09-13_周日018",
+            "home": "埃因霍温",
+            "away": "鹿斯巴达",
+            "sel": null,
+            "score": "1-0",
+            "odds": 18.0,
+            "hit": null
+          },
+          {
+            "match": "2026-09-13_周日014",
+            "home": "埃沃斯堡",
+            "away": "拜仁",
+            "sel": null,
+            "score": "0-1",
+            "odds": 25.0,
             "hit": null
           }
         ]
@@ -9960,8 +9760,8 @@
         "date": "2026-09-13",
         "type": "比分3串4(容错)",
         "stake": 8.0,
-        "potential": 4622.0,
-        "total_odds": 1856.25,
+        "potential": 14704.0,
+        "total_odds": 6300.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -9974,30 +9774,30 @@
         "return": 0.0,
         "legs": [
           {
-            "match": "2026-09-13_周日004",
-            "home": "哈马比",
-            "away": "布鲁马波",
-            "sel": null,
-            "score": "1-0",
-            "odds": 11.0,
-            "hit": null
-          },
-          {
-            "match": "2026-09-13_周日006",
-            "home": "海伦芬",
-            "away": "特尔斯达",
-            "sel": null,
-            "score": "1-0",
-            "odds": 13.5,
-            "hit": null
-          },
-          {
             "match": "2026-09-13_周日009",
             "home": "莱红牛",
             "away": "汉堡",
             "sel": null,
             "score": "1-0",
-            "odds": 12.5,
+            "odds": 14.0,
+            "hit": null
+          },
+          {
+            "match": "2026-09-13_周日018",
+            "home": "埃因霍温",
+            "away": "鹿斯巴达",
+            "sel": null,
+            "score": "1-0",
+            "odds": 18.0,
+            "hit": null
+          },
+          {
+            "match": "2026-09-13_周日014",
+            "home": "埃沃斯堡",
+            "away": "拜仁",
+            "sel": null,
+            "score": "0-1",
+            "odds": 25.0,
             "hit": null
           }
         ]
@@ -21851,222 +21651,8 @@
     },
     "2026-09-13": {
       "parlay": {
-        "stats": {
-          "n_tickets": 5,
-          "n_pending": 5,
-          "n_settled": 0,
-          "n_won": 0,
-          "hit_rate": null,
-          "stake": 0,
-          "stake_committed": 22.05,
-          "stake_pending": 22.05,
-          "return": 0,
-          "roi": null,
-          "avg_odds": null,
-          "by_type": {}
-        },
-        "tickets": [
-          {
-            "date": "2026-09-13",
-            "type": "2串1",
-            "stake": 4.52,
-            "potential": 24.09,
-            "total_odds": 5.33,
-            "odds_source": null,
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-09-13_周日004",
-                "home": "哈马比",
-                "away": "布鲁马波",
-                "sel": "away",
-                "score": null,
-                "odds": 2.09,
-                "hit": null
-              },
-              {
-                "match": "2026-09-13_周日007",
-                "home": "莱切",
-                "away": "蒙扎",
-                "sel": "away",
-                "score": null,
-                "odds": 2.55,
-                "hit": null
-              }
-            ]
-          },
-          {
-            "date": "2026-09-13",
-            "type": "2串1",
-            "stake": 6.0,
-            "potential": 25.58,
-            "total_odds": 4.26,
-            "odds_source": null,
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-09-13_周日004",
-                "home": "哈马比",
-                "away": "布鲁马波",
-                "sel": "away",
-                "score": null,
-                "odds": 2.09,
-                "hit": null
-              },
-              {
-                "match": "2026-09-13_周日005",
-                "home": "库奥皮奥",
-                "away": "赫尔辛基",
-                "sel": "home",
-                "score": null,
-                "odds": 2.04,
-                "hit": null
-              }
-            ]
-          },
-          {
-            "date": "2026-09-13",
-            "type": "2串1",
-            "stake": 4.46,
-            "potential": 23.2,
-            "total_odds": 5.2,
-            "odds_source": null,
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-09-13_周日005",
-                "home": "库奥皮奥",
-                "away": "赫尔辛基",
-                "sel": "home",
-                "score": null,
-                "odds": 2.04,
-                "hit": null
-              },
-              {
-                "match": "2026-09-13_周日007",
-                "home": "莱切",
-                "away": "蒙扎",
-                "sel": "away",
-                "score": null,
-                "odds": 2.55,
-                "hit": null
-              }
-            ]
-          },
-          {
-            "date": "2026-09-13",
-            "type": "3串1",
-            "stake": 3.02,
-            "potential": 32.83,
-            "total_odds": 10.87,
-            "odds_source": null,
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-09-13_周日004",
-                "home": "哈马比",
-                "away": "布鲁马波",
-                "sel": "away",
-                "score": null,
-                "odds": 2.09,
-                "hit": null
-              },
-              {
-                "match": "2026-09-13_周日005",
-                "home": "库奥皮奥",
-                "away": "赫尔辛基",
-                "sel": "home",
-                "score": null,
-                "odds": 2.04,
-                "hit": null
-              },
-              {
-                "match": "2026-09-13_周日007",
-                "home": "莱切",
-                "away": "蒙扎",
-                "sel": "away",
-                "score": null,
-                "odds": 2.55,
-                "hit": null
-              }
-            ]
-          },
-          {
-            "date": "2026-09-13",
-            "type": "3串4",
-            "stake": 4.05,
-            "potential": 25.99,
-            "total_odds": 6.42,
-            "odds_source": null,
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-09-13_周日004",
-                "home": "哈马比",
-                "away": "布鲁马波",
-                "sel": "away",
-                "score": null,
-                "odds": 2.09,
-                "hit": null
-              },
-              {
-                "match": "2026-09-13_周日005",
-                "home": "库奥皮奥",
-                "away": "赫尔辛基",
-                "sel": "home",
-                "score": null,
-                "odds": 2.04,
-                "hit": null
-              },
-              {
-                "match": "2026-09-13_周日007",
-                "home": "莱切",
-                "away": "蒙扎",
-                "sel": "away",
-                "score": null,
-                "odds": 2.55,
-                "hit": null
-              }
-            ]
-          }
-        ]
+        "stats": null,
+        "tickets": []
       },
       "score_parlay": {
         "stats": {
@@ -22126,8 +21712,8 @@
             "date": "2026-09-13",
             "type": "比分2串1",
             "stake": 2.0,
-            "potential": 486.0,
-            "total_odds": 243.0,
+            "potential": 504.0,
+            "total_odds": 252.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -22139,12 +21725,12 @@
             "return": 0.0,
             "legs": [
               {
-                "match": "2026-09-13_周日006",
-                "home": "海伦芬",
-                "away": "特尔斯达",
+                "match": "2026-09-13_周日009",
+                "home": "莱红牛",
+                "away": "汉堡",
                 "sel": null,
                 "score": "1-0",
-                "odds": 13.5,
+                "odds": 14.0,
                 "hit": null
               },
               {
@@ -22162,8 +21748,8 @@
             "date": "2026-09-13",
             "type": "比分2串1",
             "stake": 2.0,
-            "potential": 675.0,
-            "total_odds": 337.5,
+            "potential": 700.0,
+            "total_odds": 350.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -22175,12 +21761,12 @@
             "return": 0.0,
             "legs": [
               {
-                "match": "2026-09-13_周日006",
-                "home": "海伦芬",
-                "away": "特尔斯达",
+                "match": "2026-09-13_周日009",
+                "home": "莱红牛",
+                "away": "汉堡",
                 "sel": null,
                 "score": "1-0",
-                "odds": 13.5,
+                "odds": 14.0,
                 "hit": null
               },
               {
@@ -22198,8 +21784,8 @@
             "date": "2026-09-13",
             "type": "比分3串1",
             "stake": 2.0,
-            "potential": 3712.5,
-            "total_odds": 1856.25,
+            "potential": 12600.0,
+            "total_odds": 6300.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -22212,30 +21798,30 @@
             "return": 0.0,
             "legs": [
               {
-                "match": "2026-09-13_周日004",
-                "home": "哈马比",
-                "away": "布鲁马波",
-                "sel": null,
-                "score": "1-0",
-                "odds": 11.0,
-                "hit": null
-              },
-              {
-                "match": "2026-09-13_周日006",
-                "home": "海伦芬",
-                "away": "特尔斯达",
-                "sel": null,
-                "score": "1-0",
-                "odds": 13.5,
-                "hit": null
-              },
-              {
                 "match": "2026-09-13_周日009",
                 "home": "莱红牛",
                 "away": "汉堡",
                 "sel": null,
                 "score": "1-0",
-                "odds": 12.5,
+                "odds": 14.0,
+                "hit": null
+              },
+              {
+                "match": "2026-09-13_周日018",
+                "home": "埃因霍温",
+                "away": "鹿斯巴达",
+                "sel": null,
+                "score": "1-0",
+                "odds": 18.0,
+                "hit": null
+              },
+              {
+                "match": "2026-09-13_周日014",
+                "home": "埃沃斯堡",
+                "away": "拜仁",
+                "sel": null,
+                "score": "0-1",
+                "odds": 25.0,
                 "hit": null
               }
             ]
@@ -22244,8 +21830,8 @@
             "date": "2026-09-13",
             "type": "比分3串4(容错)",
             "stake": 8.0,
-            "potential": 4622.0,
-            "total_odds": 1856.25,
+            "potential": 14704.0,
+            "total_odds": 6300.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -22258,30 +21844,30 @@
             "return": 0.0,
             "legs": [
               {
-                "match": "2026-09-13_周日004",
-                "home": "哈马比",
-                "away": "布鲁马波",
-                "sel": null,
-                "score": "1-0",
-                "odds": 11.0,
-                "hit": null
-              },
-              {
-                "match": "2026-09-13_周日006",
-                "home": "海伦芬",
-                "away": "特尔斯达",
-                "sel": null,
-                "score": "1-0",
-                "odds": 13.5,
-                "hit": null
-              },
-              {
                 "match": "2026-09-13_周日009",
                 "home": "莱红牛",
                 "away": "汉堡",
                 "sel": null,
                 "score": "1-0",
-                "odds": 12.5,
+                "odds": 14.0,
+                "hit": null
+              },
+              {
+                "match": "2026-09-13_周日018",
+                "home": "埃因霍温",
+                "away": "鹿斯巴达",
+                "sel": null,
+                "score": "1-0",
+                "odds": 18.0,
+                "hit": null
+              },
+              {
+                "match": "2026-09-13_周日014",
+                "home": "埃沃斯堡",
+                "away": "拜仁",
+                "sel": null,
+                "score": "0-1",
+                "odds": 25.0,
                 "hit": null
               }
             ]
