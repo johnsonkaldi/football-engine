@@ -2248,10 +2248,10 @@
     "rest_days": 3
   },
   "皇家社会": {
-    "elo": 1618.2,
-    "attack": 0.9239,
-    "defense": 0.9564,
-    "form": 0.2208,
+    "elo": 1573.3,
+    "attack": 0.8338,
+    "defense": 0.9687,
+    "form": -0.1454,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2344,10 +2344,10 @@
     "rest_days": 3
   },
   "萨索洛": {
-    "elo": 1576.9,
-    "attack": 0.7463,
-    "defense": 0.8812,
-    "form": -0.0837,
+    "elo": 1588.6,
+    "attack": 0.7791,
+    "defense": 0.8657,
+    "form": 0.2414,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3448,10 +3448,10 @@
     "rest_days": 3
   },
   "布雷斯特": {
-    "elo": 1521.7,
-    "attack": 0.8974,
-    "defense": 1.173,
-    "form": -0.0566,
+    "elo": 1507.0,
+    "attack": 0.8099,
+    "defense": 1.0938,
+    "form": -0.3396,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5672,10 +5672,10 @@
     "rest_days": 3
   },
   "马竞": {
-    "elo": 1655.2,
-    "attack": 0.9309,
-    "defense": 0.7314,
-    "form": -0.195,
+    "elo": 1700.1,
+    "attack": 0.9457,
+    "defense": 0.6601,
+    "form": 0.1635,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9896,10 +9896,10 @@
     "rest_days": 3
   },
   "巴黎圣日耳曼": {
-    "elo": 1615.9,
-    "attack": 0.9974,
-    "defense": 0.8039,
-    "form": 0.2649,
+    "elo": 1630.6,
+    "attack": 0.9353,
+    "defense": 0.7255,
+    "form": 0.4854,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10368,10 +10368,10 @@
     "rest_days": 3
   },
   "尤文": {
-    "elo": 1546.5,
-    "attack": 0.8624,
-    "defense": 0.7703,
-    "form": 0.357,
+    "elo": 1534.8,
+    "attack": 0.8487,
+    "defense": 0.8008,
+    "form": -0.0501,
     "injury": 0.0,
     "rest_days": 3
   },

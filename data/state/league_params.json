@@ -319,8 +319,8 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 49,
-    "total_hits": 25,
+    "total_predictions": 50,
+    "total_hits": 26,
     "avg_overround": 0.0,
     "last_updated": "2026-09-13"
   },
@@ -371,8 +371,8 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 22,
-    "total_hits": 12,
+    "total_predictions": 23,
+    "total_hits": 13,
     "avg_overround": 0.0,
     "last_updated": "2026-09-13"
   },
@@ -397,7 +397,7 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 36,
+    "total_predictions": 37,
     "total_hits": 22,
     "avg_overround": 0.0,
     "last_updated": "2026-09-13"
