@@ -368,10 +368,10 @@
     "rest_days": 3
   },
   "弗拉门戈": {
-    "elo": 1761.0,
-    "attack": 0.6249,
-    "defense": 0.233,
-    "form": 0.7605,
+    "elo": 1771.2,
+    "attack": 0.6343,
+    "defense": 0.2455,
+    "form": 0.8323,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -488,10 +488,10 @@
     "rest_days": 3
   },
   "科林蒂安": {
-    "elo": 1693.0,
-    "attack": 0.3722,
-    "defense": 0.1919,
-    "form": 0.2442,
+    "elo": 1682.8,
+    "attack": 0.3711,
+    "defense": 0.2436,
+    "form": -0.1291,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5920,10 +5920,10 @@
     "rest_days": 3
   },
   "法马利康": {
-    "elo": 1568.0,
-    "attack": 0.6743,
-    "defense": 0.6011,
-    "form": -0.2465,
+    "elo": 1565.8,
+    "attack": 0.6437,
+    "defense": 0.5777,
+    "form": -0.1725,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9568,10 +9568,10 @@
     "rest_days": 3
   },
   "葡萄牙体育": {
-    "elo": 1585.2,
-    "attack": 1.0157,
-    "defense": 0.7897,
-    "form": 0.657,
+    "elo": 1587.4,
+    "attack": 0.9519,
+    "defense": 0.7479,
+    "form": 0.4599,
     "injury": 0.0,
     "rest_days": 3
   },

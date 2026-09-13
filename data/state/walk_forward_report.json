@@ -1,46 +1,46 @@
 {
-  "total_matches": 695,
+  "total_matches": 697,
   "date_range": [
     "2026-07-19",
     "2026-09-13"
   ],
   "metrics": {
-    "brier": 0.6022,
-    "weighted_brier": 0.6004,
-    "rps": 0.2048,
-    "weighted_rps": 0.2042,
-    "log_loss": 1.008,
-    "hit_rate": 0.5252,
-    "ece": 0.106
+    "brier": 0.6026,
+    "weighted_brier": 0.6009,
+    "rps": 0.2047,
+    "weighted_rps": 0.2041,
+    "log_loss": 1.0082,
+    "hit_rate": 0.5237,
+    "ece": 0.1071
   },
   "draw_analysis": {
-    "actual_draws": 181,
-    "actual_draw_rate": 0.2604,
-    "predicted_draws": 21,
-    "predicted_draw_rate": 0.0302,
+    "actual_draws": 182,
+    "actual_draw_rate": 0.2611,
+    "predicted_draws": 22,
+    "predicted_draw_rate": 0.0316,
     "max_draw_prob": 0.5025,
-    "avg_draw_prob": 0.2644,
-    "avg_market_draw": 0.2446,
+    "avg_draw_prob": 0.2647,
+    "avg_market_draw": 0.2444,
     "market_high_draw_n": 142,
     "market_high_draw_actual": 49,
     "market_high_draw_rate": 0.3451
   },
   "strategy_comparison": {
     "model": {
-      "hit_rate": 0.5209,
-      "n": 695
+      "hit_rate": 0.5194,
+      "n": 697
     },
     "market": {
-      "hit_rate": 0.5352,
-      "n": 611
+      "hit_rate": 0.5351,
+      "n": 613
     },
     "hybrid_v2": {
-      "hit_rate": 0.491,
-      "n": 611
+      "hit_rate": 0.4894,
+      "n": 613
     },
     "market_d28": {
-      "hit_rate": 0.4959,
-      "n": 611
+      "hit_rate": 0.4943,
+      "n": 613
     }
   },
   "by_league": {
@@ -87,10 +87,10 @@
       "rps": 0.2467
     },
     "葡超": {
-      "n": 35,
-      "hit_rate": 0.6,
-      "brier": 0.5184,
-      "rps": 0.1624
+      "n": 36,
+      "hit_rate": 0.5833,
+      "brier": 0.5302,
+      "rps": 0.1634
     },
     "英超": {
       "n": 35,
@@ -128,17 +128,17 @@
       "brier": 0.5736,
       "rps": 0.2117
     },
+    "巴甲": {
+      "n": 26,
+      "hit_rate": 0.2692,
+      "brier": 0.6773,
+      "rps": 0.1902
+    },
     "沙职": {
       "n": 26,
       "hit_rate": 0.7308,
       "brier": 0.4849,
       "rps": 0.1876
-    },
-    "巴甲": {
-      "n": 25,
-      "hit_rate": 0.28,
-      "brier": 0.6826,
-      "rps": 0.192
     },
     "法甲": {
       "n": 23,
