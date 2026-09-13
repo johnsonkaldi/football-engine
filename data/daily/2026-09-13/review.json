@@ -1,0 +1,188 @@
+{
+  "date": "2026-09-13",
+  "n_matches": 10,
+  "hit_rate": 0.3,
+  "hits": 3,
+  "source_brier": {
+    "model": 0.6085,
+    "market": 0.6875,
+    "djyy": null,
+    "final": 0.6631
+  },
+  "by_league": {
+    "日职": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.7866
+    },
+    "日乙": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.9914
+    },
+    "西甲": {
+      "n": 2,
+      "hit_rate": 0.5,
+      "wilson_lower": 0.0945,
+      "avg_brier": 0.5471
+    },
+    "瑞典超": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.9083
+    },
+    "芬超": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.8062
+    },
+    "荷甲": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 1.0899
+    },
+    "意甲": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.6954
+    },
+    "法甲": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.155
+    },
+    "德甲": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.1046
+    }
+  },
+  "by_confidence_tier": {
+    "mid": {
+      "n": 3,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.8337
+    },
+    "high": {
+      "n": 6,
+      "hit_rate": 0.5,
+      "wilson_lower": 0.1876,
+      "avg_brier": 0.5725
+    },
+    "low": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.6954
+    }
+  },
+  "by_odds_band": {
+    "2.0-3.0": {
+      "n": 4,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.7991
+    },
+    "1.5-2.0": {
+      "n": 2,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.9625
+    },
+    "1.0-1.5": {
+      "n": 4,
+      "hit_rate": 0.75,
+      "wilson_lower": 0.3006,
+      "avg_brier": 0.3775
+    }
+  },
+  "score_stats": {
+    "top1": 1,
+    "top3": 3,
+    "top5": 6,
+    "top8": 6,
+    "any": 6
+  },
+  "score_rank_hist": {
+    "4": 1,
+    "5": 2,
+    "1": 1,
+    "2": 2
+  },
+  "score_source_stats": {
+    "djyy": {
+      "n": 0,
+      "hits": 0
+    },
+    "mc": {
+      "n": 6,
+      "hits": 6
+    }
+  },
+  "market_signal_stats": {
+    "n": 10,
+    "hits": 3
+  },
+  "layered": {
+    "log_loss_final": 1.081,
+    "rps_final": 0.1736,
+    "rps_market": 0.1555,
+    "goal_framework": {
+      "n": 10,
+      "hits": 5
+    },
+    "prob_bands": {
+      "40-50%": {
+        "n": 3,
+        "hit_rate": 0.0
+      },
+      "50-60%": {
+        "n": 2,
+        "hit_rate": 0.0
+      },
+      "60%+": {
+        "n": 4,
+        "hit_rate": 0.75
+      },
+      "<40%": {
+        "n": 1,
+        "hit_rate": 0.0
+      }
+    },
+    "freshness_groups": {
+      "ok": {
+        "n": 7,
+        "hit_rate": 0.2857
+      },
+      "watch": {
+        "n": 3,
+        "hit_rate": 0.3333
+      }
+    }
+  },
+  "biases": [
+    {
+      "dimension": "outcome",
+      "key": "all",
+      "outcome": "draw",
+      "predicted_avg": 0.2391,
+      "actual_rate": 0.5,
+      "gap": -0.2609,
+      "n": 10,
+      "severity": "warn",
+      "suggested_action": "reduce draw_bias"
+    }
+  ],
+  "total_pnl": 0.0,
+  "generated_at": "2026-09-13T16:39:41.192229",
+  "sha256": "f3adac9e7705750f5ac43a48f18c4092"
+}
