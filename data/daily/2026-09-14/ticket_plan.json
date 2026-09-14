@@ -7,14 +7,48 @@
   "bankroll": 3673.2891,
   "breaker_multiplier": 1.0,
   "parlay": [],
-  "score_parlay": [],
+  "score_parlay": [
+    {
+      "type": "比分2串1",
+      "legs": [
+        {
+          "match": "2026-09-14_周一006",
+          "home": "博德闪耀",
+          "away": "桑纳菲",
+          "league": "挪超",
+          "score": "1-0",
+          "prob": 0.272,
+          "cal_prob": 0.0974,
+          "odds": 13.0
+        },
+        {
+          "match": "2026-09-14_周一007",
+          "home": "吉达国民",
+          "away": "棉农",
+          "league": "亚冠精英",
+          "score": "0-1",
+          "prob": 0.206,
+          "cal_prob": 0.0682,
+          "odds": 35.0
+        }
+      ],
+      "total_odds": 455.0,
+      "hit_prob": 0.0066,
+      "stake": 2.0,
+      "potential": 910.0,
+      "worst_win": 0.0,
+      "n_bets": 1,
+      "odds_source": "official",
+      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 455 倍 = EV +202%）"
+    }
+  ],
   "parlay_calibration": {
-    "overall": 0.5194,
-    "n": 697,
+    "overall": 0.5186,
+    "n": 698,
     "table": {
       "0.35": 0.4068,
       "0.4": 0.5102,
-      "0.45": 0.5106,
+      "0.45": 0.507,
       "0.5": 0.5149,
       "0.55": 0.4462,
       "0.6": 0.6279,
