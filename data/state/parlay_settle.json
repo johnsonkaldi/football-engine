@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-14T07:08:37.020395+00:00",
+  "generated_at": "2026-09-14T10:44:37.895462+00:00",
   "parlay": {
-    "n_tickets": 95,
-    "n_pending": 5,
+    "n_tickets": 91,
+    "n_pending": 1,
     "n_settled": 90,
     "n_won": 25,
     "hit_rate": 0.2778,
     "stake": 474.6,
-    "stake_committed": 496.65,
-    "stake_pending": 22.05,
+    "stake_committed": 487.82,
+    "stake_pending": 13.22,
     "return": 579.92,
     "roi": 0.2219,
     "avg_odds": 5.78,
@@ -31,14 +31,14 @@
     }
   },
   "score_parlay": {
-    "n_tickets": 161,
-    "n_pending": 5,
+    "n_tickets": 157,
+    "n_pending": 1,
     "n_settled": 156,
     "n_won": 0,
     "hit_rate": 0.0,
     "stake": 486.0,
-    "stake_committed": 502.0,
-    "stake_pending": 16.0,
+    "stake_committed": 488.0,
+    "stake_pending": 2.0,
     "return": 0.0,
     "roi": -1.0,
     "avg_odds": 702.91,
@@ -3607,80 +3607,8 @@
       {
         "date": "2026-09-14",
         "type": "2串1",
-        "stake": 5.66,
-        "potential": 29.68,
-        "total_odds": 5.24,
-        "odds_source": null,
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-09-14_周一009",
-            "home": "红星",
-            "away": "梅斯",
-            "sel": "home",
-            "score": null,
-            "odds": 2.26,
-            "hit": null
-          },
-          {
-            "match": "2026-09-14_周一014",
-            "home": "中国女",
-            "away": "中国港女",
-            "sel": "home",
-            "score": null,
-            "odds": 2.32,
-            "hit": null
-          }
-        ]
-      },
-      {
-        "date": "2026-09-14",
-        "type": "2串1",
-        "stake": 4.78,
-        "potential": 23.62,
-        "total_odds": 4.94,
-        "odds_source": null,
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-09-14_周一010",
-            "home": "利兹联",
-            "away": "纽卡斯尔",
-            "sel": "home",
-            "score": null,
-            "odds": 2.13,
-            "hit": null
-          },
-          {
-            "match": "2026-09-14_周一014",
-            "home": "中国女",
-            "away": "中国港女",
-            "sel": "home",
-            "score": null,
-            "odds": 2.32,
-            "hit": null
-          }
-        ]
-      },
-      {
-        "date": "2026-09-14",
-        "type": "2串1",
-        "stake": 4.36,
-        "potential": 20.99,
+        "stake": 13.22,
+        "potential": 63.64,
         "total_odds": 4.81,
         "odds_source": null,
         "note": "待赛",
@@ -3708,98 +3636,6 @@
             "sel": "home",
             "score": null,
             "odds": 2.26,
-            "hit": null
-          }
-        ]
-      },
-      {
-        "date": "2026-09-14",
-        "type": "3串1",
-        "stake": 3.13,
-        "potential": 34.96,
-        "total_odds": 11.17,
-        "odds_source": null,
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-09-14_周一010",
-            "home": "利兹联",
-            "away": "纽卡斯尔",
-            "sel": "home",
-            "score": null,
-            "odds": 2.13,
-            "hit": null
-          },
-          {
-            "match": "2026-09-14_周一009",
-            "home": "红星",
-            "away": "梅斯",
-            "sel": "home",
-            "score": null,
-            "odds": 2.26,
-            "hit": null
-          },
-          {
-            "match": "2026-09-14_周一014",
-            "home": "中国女",
-            "away": "中国港女",
-            "sel": "home",
-            "score": null,
-            "odds": 2.32,
-            "hit": null
-          }
-        ]
-      },
-      {
-        "date": "2026-09-14",
-        "type": "3串4",
-        "stake": 4.12,
-        "potential": 26.95,
-        "total_odds": 6.54,
-        "odds_source": null,
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-09-14_周一010",
-            "home": "利兹联",
-            "away": "纽卡斯尔",
-            "sel": "home",
-            "score": null,
-            "odds": 2.13,
-            "hit": null
-          },
-          {
-            "match": "2026-09-14_周一009",
-            "home": "红星",
-            "away": "梅斯",
-            "sel": "home",
-            "score": null,
-            "odds": 2.26,
-            "hit": null
-          },
-          {
-            "match": "2026-09-14_周一014",
-            "home": "中国女",
-            "away": "中国港女",
-            "sel": "home",
-            "score": null,
-            "odds": 2.32,
             "hit": null
           }
         ]
@@ -10006,44 +9842,8 @@
         "date": "2026-09-14",
         "type": "比分2串1",
         "stake": 2.0,
-        "potential": 2520.0,
-        "total_odds": 1260.0,
-        "odds_source": "official",
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-09-14_周一014",
-            "home": "中国女",
-            "away": "中国港女",
-            "sel": null,
-            "score": "1-0",
-            "odds": 36.0,
-            "hit": null
-          },
-          {
-            "match": "2026-09-14_周一007",
-            "home": "吉达国民",
-            "away": "棉农",
-            "sel": null,
-            "score": "0-1",
-            "odds": 35.0,
-            "hit": null
-          }
-        ]
-      },
-      {
-        "date": "2026-09-14",
-        "type": "比分2串1",
-        "stake": 2.0,
-        "potential": 936.0,
-        "total_odds": 468.0,
+        "potential": 1015.0,
+        "total_odds": 507.5,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -10060,135 +9860,7 @@
             "away": "桑纳菲",
             "sel": null,
             "score": "1-0",
-            "odds": 13.0,
-            "hit": null
-          },
-          {
-            "match": "2026-09-14_周一014",
-            "home": "中国女",
-            "away": "中国港女",
-            "sel": null,
-            "score": "1-0",
-            "odds": 36.0,
-            "hit": null
-          }
-        ]
-      },
-      {
-        "date": "2026-09-14",
-        "type": "比分2串1",
-        "stake": 2.0,
-        "potential": 910.0,
-        "total_odds": 455.0,
-        "odds_source": "official",
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-09-14_周一006",
-            "home": "博德闪耀",
-            "away": "桑纳菲",
-            "sel": null,
-            "score": "1-0",
-            "odds": 13.0,
-            "hit": null
-          },
-          {
-            "match": "2026-09-14_周一007",
-            "home": "吉达国民",
-            "away": "棉农",
-            "sel": null,
-            "score": "0-1",
-            "odds": 35.0,
-            "hit": null
-          }
-        ]
-      },
-      {
-        "date": "2026-09-14",
-        "type": "比分3串1",
-        "stake": 2.0,
-        "potential": 32760.0,
-        "total_odds": 16380.0,
-        "odds_source": "official",
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-09-14_周一006",
-            "home": "博德闪耀",
-            "away": "桑纳菲",
-            "sel": null,
-            "score": "1-0",
-            "odds": 13.0,
-            "hit": null
-          },
-          {
-            "match": "2026-09-14_周一014",
-            "home": "中国女",
-            "away": "中国港女",
-            "sel": null,
-            "score": "1-0",
-            "odds": 36.0,
-            "hit": null
-          },
-          {
-            "match": "2026-09-14_周一007",
-            "home": "吉达国民",
-            "away": "棉农",
-            "sel": null,
-            "score": "0-1",
-            "odds": 35.0,
-            "hit": null
-          }
-        ]
-      },
-      {
-        "date": "2026-09-14",
-        "type": "比分3串4(容错)",
-        "stake": 8.0,
-        "potential": 37126.0,
-        "total_odds": 16380.0,
-        "odds_source": "official",
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-09-14_周一006",
-            "home": "博德闪耀",
-            "away": "桑纳菲",
-            "sel": null,
-            "score": "1-0",
-            "odds": 13.0,
-            "hit": null
-          },
-          {
-            "match": "2026-09-14_周一014",
-            "home": "中国女",
-            "away": "中国港女",
-            "sel": null,
-            "score": "1-0",
-            "odds": 36.0,
+            "odds": 14.5,
             "hit": null
           },
           {
@@ -22294,14 +21966,14 @@
     "2026-09-14": {
       "parlay": {
         "stats": {
-          "n_tickets": 5,
-          "n_pending": 5,
+          "n_tickets": 1,
+          "n_pending": 1,
           "n_settled": 0,
           "n_won": 0,
           "hit_rate": null,
           "stake": 0,
-          "stake_committed": 22.05,
-          "stake_pending": 22.05,
+          "stake_committed": 13.22,
+          "stake_pending": 13.22,
           "return": 0,
           "roi": null,
           "avg_odds": null,
@@ -22311,80 +21983,8 @@
           {
             "date": "2026-09-14",
             "type": "2串1",
-            "stake": 5.66,
-            "potential": 29.68,
-            "total_odds": 5.24,
-            "odds_source": null,
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-09-14_周一009",
-                "home": "红星",
-                "away": "梅斯",
-                "sel": "home",
-                "score": null,
-                "odds": 2.26,
-                "hit": null
-              },
-              {
-                "match": "2026-09-14_周一014",
-                "home": "中国女",
-                "away": "中国港女",
-                "sel": "home",
-                "score": null,
-                "odds": 2.32,
-                "hit": null
-              }
-            ]
-          },
-          {
-            "date": "2026-09-14",
-            "type": "2串1",
-            "stake": 4.78,
-            "potential": 23.62,
-            "total_odds": 4.94,
-            "odds_source": null,
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-09-14_周一010",
-                "home": "利兹联",
-                "away": "纽卡斯尔",
-                "sel": "home",
-                "score": null,
-                "odds": 2.13,
-                "hit": null
-              },
-              {
-                "match": "2026-09-14_周一014",
-                "home": "中国女",
-                "away": "中国港女",
-                "sel": "home",
-                "score": null,
-                "odds": 2.32,
-                "hit": null
-              }
-            ]
-          },
-          {
-            "date": "2026-09-14",
-            "type": "2串1",
-            "stake": 4.36,
-            "potential": 20.99,
+            "stake": 13.22,
+            "potential": 63.64,
             "total_odds": 4.81,
             "odds_source": null,
             "note": "待赛",
@@ -22415,111 +22015,19 @@
                 "hit": null
               }
             ]
-          },
-          {
-            "date": "2026-09-14",
-            "type": "3串1",
-            "stake": 3.13,
-            "potential": 34.96,
-            "total_odds": 11.17,
-            "odds_source": null,
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-09-14_周一010",
-                "home": "利兹联",
-                "away": "纽卡斯尔",
-                "sel": "home",
-                "score": null,
-                "odds": 2.13,
-                "hit": null
-              },
-              {
-                "match": "2026-09-14_周一009",
-                "home": "红星",
-                "away": "梅斯",
-                "sel": "home",
-                "score": null,
-                "odds": 2.26,
-                "hit": null
-              },
-              {
-                "match": "2026-09-14_周一014",
-                "home": "中国女",
-                "away": "中国港女",
-                "sel": "home",
-                "score": null,
-                "odds": 2.32,
-                "hit": null
-              }
-            ]
-          },
-          {
-            "date": "2026-09-14",
-            "type": "3串4",
-            "stake": 4.12,
-            "potential": 26.95,
-            "total_odds": 6.54,
-            "odds_source": null,
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-09-14_周一010",
-                "home": "利兹联",
-                "away": "纽卡斯尔",
-                "sel": "home",
-                "score": null,
-                "odds": 2.13,
-                "hit": null
-              },
-              {
-                "match": "2026-09-14_周一009",
-                "home": "红星",
-                "away": "梅斯",
-                "sel": "home",
-                "score": null,
-                "odds": 2.26,
-                "hit": null
-              },
-              {
-                "match": "2026-09-14_周一014",
-                "home": "中国女",
-                "away": "中国港女",
-                "sel": "home",
-                "score": null,
-                "odds": 2.32,
-                "hit": null
-              }
-            ]
           }
         ]
       },
       "score_parlay": {
         "stats": {
-          "n_tickets": 5,
-          "n_pending": 5,
+          "n_tickets": 1,
+          "n_pending": 1,
           "n_settled": 0,
           "n_won": 0,
           "hit_rate": null,
           "stake": 0,
-          "stake_committed": 16.0,
-          "stake_pending": 16.0,
+          "stake_committed": 2.0,
+          "stake_pending": 2.0,
           "return": 0,
           "roi": null,
           "avg_odds": null,
@@ -22532,44 +22040,8 @@
             "date": "2026-09-14",
             "type": "比分2串1",
             "stake": 2.0,
-            "potential": 2520.0,
-            "total_odds": 1260.0,
-            "odds_source": "official",
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-09-14_周一014",
-                "home": "中国女",
-                "away": "中国港女",
-                "sel": null,
-                "score": "1-0",
-                "odds": 36.0,
-                "hit": null
-              },
-              {
-                "match": "2026-09-14_周一007",
-                "home": "吉达国民",
-                "away": "棉农",
-                "sel": null,
-                "score": "0-1",
-                "odds": 35.0,
-                "hit": null
-              }
-            ]
-          },
-          {
-            "date": "2026-09-14",
-            "type": "比分2串1",
-            "stake": 2.0,
-            "potential": 936.0,
-            "total_odds": 468.0,
+            "potential": 1015.0,
+            "total_odds": 507.5,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -22586,135 +22058,7 @@
                 "away": "桑纳菲",
                 "sel": null,
                 "score": "1-0",
-                "odds": 13.0,
-                "hit": null
-              },
-              {
-                "match": "2026-09-14_周一014",
-                "home": "中国女",
-                "away": "中国港女",
-                "sel": null,
-                "score": "1-0",
-                "odds": 36.0,
-                "hit": null
-              }
-            ]
-          },
-          {
-            "date": "2026-09-14",
-            "type": "比分2串1",
-            "stake": 2.0,
-            "potential": 910.0,
-            "total_odds": 455.0,
-            "odds_source": "official",
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-09-14_周一006",
-                "home": "博德闪耀",
-                "away": "桑纳菲",
-                "sel": null,
-                "score": "1-0",
-                "odds": 13.0,
-                "hit": null
-              },
-              {
-                "match": "2026-09-14_周一007",
-                "home": "吉达国民",
-                "away": "棉农",
-                "sel": null,
-                "score": "0-1",
-                "odds": 35.0,
-                "hit": null
-              }
-            ]
-          },
-          {
-            "date": "2026-09-14",
-            "type": "比分3串1",
-            "stake": 2.0,
-            "potential": 32760.0,
-            "total_odds": 16380.0,
-            "odds_source": "official",
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-09-14_周一006",
-                "home": "博德闪耀",
-                "away": "桑纳菲",
-                "sel": null,
-                "score": "1-0",
-                "odds": 13.0,
-                "hit": null
-              },
-              {
-                "match": "2026-09-14_周一014",
-                "home": "中国女",
-                "away": "中国港女",
-                "sel": null,
-                "score": "1-0",
-                "odds": 36.0,
-                "hit": null
-              },
-              {
-                "match": "2026-09-14_周一007",
-                "home": "吉达国民",
-                "away": "棉农",
-                "sel": null,
-                "score": "0-1",
-                "odds": 35.0,
-                "hit": null
-              }
-            ]
-          },
-          {
-            "date": "2026-09-14",
-            "type": "比分3串4(容错)",
-            "stake": 8.0,
-            "potential": 37126.0,
-            "total_odds": 16380.0,
-            "odds_source": "official",
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-09-14_周一006",
-                "home": "博德闪耀",
-                "away": "桑纳菲",
-                "sel": null,
-                "score": "1-0",
-                "odds": 13.0,
-                "hit": null
-              },
-              {
-                "match": "2026-09-14_周一014",
-                "home": "中国女",
-                "away": "中国港女",
-                "sel": null,
-                "score": "1-0",
-                "odds": 36.0,
+                "odds": 14.5,
                 "hit": null
               },
               {
