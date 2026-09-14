@@ -10590,5 +10590,21 @@
     "form": 0.0,
     "injury": 0.0,
     "rest_days": 3
+  },
+  "中国香港女足": {
+    "elo": 1435.5,
+    "attack": 0.9377,
+    "defense": 1.0784,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "中国女足": {
+    "elo": 1564.5,
+    "attack": 1.0784,
+    "defense": 0.9377,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
   }
 }

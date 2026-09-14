@@ -1,8 +1,8 @@
 {
-  "n_leagues": 36,
-  "n_matches": 726,
+  "n_leagues": 37,
+  "n_matches": 727,
   "external_added": 29,
-  "generated_at": "2026-09-14T14:03:16.787798",
+  "generated_at": "2026-09-14T16:37:07.304102",
   "leagues": [
     {
       "league": "欧冠",
@@ -606,6 +606,23 @@
       "avg_odds": 2.29,
       "roi": -1.0,
       "avg_confidence": 0.1711,
+      "verdict": "样本不足",
+      "recent_n": 1,
+      "recent_hits": 0,
+      "recent_hit_rate": 0.0,
+      "recent_roi": -1.0,
+      "recent10_n": 1,
+      "recent10_hits": 0,
+      "recent10_hit_rate": 0.0,
+      "recent10_roi": -1.0
+    },
+    {
+      "league": "亚运女足",
+      "n": 1,
+      "hit_rate": 0.0,
+      "avg_odds": 2.32,
+      "roi": -1.0,
+      "avg_confidence": 0.0885,
       "verdict": "样本不足",
       "recent_n": 1,
       "recent_hits": 0,

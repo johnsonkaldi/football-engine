@@ -1,21 +1,21 @@
 {
-  "total_matches": 698,
+  "total_matches": 699,
   "date_range": [
     "2026-07-19",
-    "2026-09-13"
+    "2026-09-14"
   ],
   "metrics": {
-    "brier": 0.6029,
-    "weighted_brier": 0.6012,
-    "rps": 0.205,
-    "weighted_rps": 0.2044,
-    "log_loss": 1.0086,
-    "hit_rate": 0.5229,
-    "ece": 0.1048
+    "brier": 0.603,
+    "weighted_brier": 0.6014,
+    "rps": 0.2051,
+    "weighted_rps": 0.2045,
+    "log_loss": 1.0088,
+    "hit_rate": 0.5222,
+    "ece": 0.1043
   },
   "draw_analysis": {
     "actual_draws": 182,
-    "actual_draw_rate": 0.2607,
+    "actual_draw_rate": 0.2604,
     "predicted_draws": 22,
     "predicted_draw_rate": 0.0315,
     "max_draw_prob": 0.5025,
@@ -27,8 +27,8 @@
   },
   "strategy_comparison": {
     "model": {
-      "hit_rate": 0.5186,
-      "n": 698
+      "hit_rate": 0.5179,
+      "n": 699
     },
     "market": {
       "hit_rate": 0.5342,
