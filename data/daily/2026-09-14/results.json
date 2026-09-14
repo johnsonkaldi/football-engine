@@ -52,5 +52,14 @@
     "away_team": "桑德菲杰",
     "half_home_score": 1,
     "half_away_score": 0
+  },
+  {
+    "match_id": "2026-09-14_周一007",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "吉达国民",
+    "away_team": "塔什干棉农",
+    "half_home_score": 0,
+    "half_away_score": 0
   }
 ]

@@ -1,14 +1,14 @@
 {
   "generated_at": "2026-09-14",
-  "total_matches": 704,
+  "total_matches": 705,
   "date_range": [
     "2026-07-19",
     "2026-09-14"
   ],
   "overall": {
-    "hit_rate": 0.5213,
-    "brier_final": 0.5999,
-    "brier_model": 0.6259,
+    "hit_rate": 0.5206,
+    "brier_final": 0.6003,
+    "brier_model": 0.6262,
     "brier_market": 0.5841,
     "brier_djyy": 0.646
   },
@@ -699,21 +699,21 @@
     },
     {
       "date": "2026-09-14",
-      "n": 6,
+      "n": 7,
       "hits": 5,
-      "hit_rate": 0.8333,
-      "cum_hit_rate": 0.5213,
-      "brier_final": 0.2467,
-      "brier_model": 0.2445,
+      "hit_rate": 0.7143,
+      "cum_hit_rate": 0.5206,
+      "brier_final": 0.3355,
+      "brier_model": 0.3304,
       "brier_market": 0.1737,
       "brier_djyy": null,
       "pnl": 0.0
     }
   ],
   "rolling7": {
-    "n": 106,
-    "hit_rate": 0.5755,
-    "brier_final": 0.5052,
+    "n": 107,
+    "hit_rate": 0.5701,
+    "brier_final": 0.5179,
     "pnl": 0.0
   },
   "prev7": {
@@ -906,9 +906,9 @@
     },
     {
       "layer": "亚冠精英",
-      "n": 1,
+      "n": 2,
       "hit_rate": 0.0,
-      "brier_final": 0.7567
+      "brier_final": 0.8126
     },
     {
       "layer": "世界杯",
@@ -956,9 +956,9 @@
   "by_odds_band": [
     {
       "layer": "1.5-2.0",
-      "n": 263,
-      "hit_rate": 0.4943,
-      "brier_final": 0.6316
+      "n": 264,
+      "hit_rate": 0.4924,
+      "brier_final": 0.6325
     },
     {
       "layer": "2.0-3.0",
@@ -982,9 +982,9 @@
   "by_conf_tier": [
     {
       "layer": "mid",
-      "n": 394,
-      "hit_rate": 0.5025,
-      "brier_final": 0.6195
+      "n": 395,
+      "hit_rate": 0.5013,
+      "brier_final": 0.6201
     },
     {
       "layer": "high",

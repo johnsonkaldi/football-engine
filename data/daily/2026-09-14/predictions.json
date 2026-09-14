@@ -2748,7 +2748,22 @@
       "recommended": false
     },
     "prob_band_5060": true,
-    "kelly_edge": -0.0454
+    "kelly_edge": -0.0454,
+    "pnl": 0.0,
+    "actual_result": "1-1",
+    "actual_home_score": 1,
+    "actual_away_score": 1,
+    "direction_correct": false,
+    "predicted_score": "0-0",
+    "score_correct": false,
+    "score_rank": 4,
+    "score_top3_hit": false,
+    "score_top5_hit": true,
+    "score_top8_hit": true,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 4,
+    "market_signal_dir": null,
+    "market_signal_hit": null
   },
   {
     "match_id": "2026-09-14_周一008",
