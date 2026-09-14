@@ -573,5 +573,30 @@
     "red_home": "0",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3624594",
+    "match_no": "周日024",
+    "home_team": "芝加哥火焰",
+    "away_team": "新英格兰",
+    "home_score": 1,
+    "away_score": 2,
+    "half_home_score": 0,
+    "half_away_score": 1,
+    "league": "美职联",
+    "match_time": "2026-09-14 05:40:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 1.84,
+    "odds_draw": 3.5,
+    "odds_away": 3.33,
+    "corner_home": "13",
+    "corner_away": "0",
+    "yellow_home": "2",
+    "yellow_away": "2",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]

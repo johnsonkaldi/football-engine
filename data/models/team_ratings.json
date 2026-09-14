@@ -6920,10 +6920,10 @@
     "rest_days": 3
   },
   "芝加哥火焰": {
-    "elo": 1463.4,
-    "attack": 0.8223,
-    "defense": 0.9084,
-    "form": -0.1976,
+    "elo": 1449.9,
+    "attack": 0.7773,
+    "defense": 0.8902,
+    "form": -0.4383,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7120,10 +7120,10 @@
     "rest_days": 3
   },
   "新英格兰": {
-    "elo": 1583.5,
-    "attack": 0.8179,
-    "defense": 0.5158,
-    "form": 0.0926,
+    "elo": 1597.0,
+    "attack": 0.8085,
+    "defense": 0.5007,
+    "form": 0.3648,
     "injury": 0.0,
     "rest_days": 3
   },

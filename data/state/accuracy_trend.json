@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-13",
-  "total_matches": 697,
+  "generated_at": "2026-09-14",
+  "total_matches": 698,
   "date_range": [
     "2026-07-19",
     "2026-09-13"
   ],
   "overall": {
-    "hit_rate": 0.5194,
-    "brier_final": 0.6026,
-    "brier_model": 0.6293,
-    "brier_market": 0.5863,
+    "hit_rate": 0.5186,
+    "brier_final": 0.6029,
+    "brier_model": 0.6292,
+    "brier_market": 0.5867,
     "brier_djyy": 0.646
   },
   "daily": [
@@ -687,21 +687,21 @@
     },
     {
       "date": "2026-09-13",
-      "n": 23,
+      "n": 24,
       "hits": 11,
-      "hit_rate": 0.4783,
-      "cum_hit_rate": 0.5194,
-      "brier_final": 0.5629,
-      "brier_model": 0.5687,
-      "brier_market": 0.6118,
+      "hit_rate": 0.4583,
+      "cum_hit_rate": 0.5186,
+      "brier_final": 0.5743,
+      "brier_model": 0.5678,
+      "brier_market": 0.6235,
       "brier_djyy": null,
       "pnl": 0.0
     }
   ],
   "rolling7": {
-    "n": 108,
-    "hit_rate": 0.5556,
-    "brier_final": 0.5676,
+    "n": 109,
+    "hit_rate": 0.5505,
+    "brier_final": 0.5692,
     "pnl": 0.0
   },
   "prev7": {
@@ -852,9 +852,9 @@
     },
     {
       "layer": "美职",
-      "n": 10,
-      "hit_rate": 0.2,
-      "brier_final": 0.7199
+      "n": 11,
+      "hit_rate": 0.1818,
+      "brier_final": 0.7304
     },
     {
       "layer": "瑞超",
@@ -938,9 +938,9 @@
   "by_odds_band": [
     {
       "layer": "1.5-2.0",
-      "n": 262,
-      "hit_rate": 0.4962,
-      "brier_final": 0.6309
+      "n": 263,
+      "hit_rate": 0.4943,
+      "brier_final": 0.6316
     },
     {
       "layer": "2.0-3.0",
@@ -964,9 +964,9 @@
   "by_conf_tier": [
     {
       "layer": "mid",
-      "n": 392,
-      "hit_rate": 0.5051,
-      "brier_final": 0.6188
+      "n": 393,
+      "hit_rate": 0.5038,
+      "brier_final": 0.6193
     },
     {
       "layer": "high",

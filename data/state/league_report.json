@@ -1,8 +1,8 @@
 {
   "n_leagues": 36,
-  "n_matches": 725,
+  "n_matches": 726,
   "external_added": 29,
-  "generated_at": "2026-09-13T23:33:13.178424",
+  "generated_at": "2026-09-14T01:42:06.383203",
   "leagues": [
     {
       "league": "欧冠",
@@ -397,11 +397,11 @@
     },
     {
       "league": "美职",
-      "n": 10,
-      "hit_rate": 0.2,
-      "avg_odds": 2.023,
-      "roi": -0.644,
-      "avg_confidence": 0.1324,
+      "n": 11,
+      "hit_rate": 0.1818,
+      "avg_odds": 2.006,
+      "roi": -0.6764,
+      "avg_confidence": 0.1285,
       "verdict": "谨慎",
       "recent_n": 5,
       "recent_hits": 0,
