@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T16:37:07.373805+00:00",
+  "generated_at": "2026-09-14T19:22:09.101721+00:00",
   "parlay": {
     "n_tickets": 90,
     "n_pending": 0,
@@ -59,8 +59,8 @@
         "roi": -1.0
       }
     },
-    "leg_hit_rate": 0.1081,
-    "n_legs_settled": 370
+    "leg_hit_rate": 0.107,
+    "n_legs_settled": 374
   },
   "tickets": {
     "parlay": [
@@ -9813,7 +9813,7 @@
         "won": false,
         "pending": true,
         "leg_results": [
-          null,
+          false,
           null
         ],
         "return": 0.0,
@@ -9825,7 +9825,7 @@
             "sel": null,
             "score": "1-0",
             "odds": 15.5,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-09-14_周一007",
@@ -9885,7 +9885,7 @@
         "won": false,
         "pending": true,
         "leg_results": [
-          null,
+          false,
           null
         ],
         "return": 0.0,
@@ -9897,7 +9897,7 @@
             "sel": null,
             "score": "1-0",
             "odds": 15.5,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-09-14_周一011",
@@ -9921,7 +9921,7 @@
         "won": false,
         "pending": true,
         "leg_results": [
-          null,
+          false,
           null,
           null
         ],
@@ -9934,7 +9934,7 @@
             "sel": null,
             "score": "1-0",
             "odds": 15.5,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-09-14_周一011",
@@ -9967,7 +9967,7 @@
         "won": false,
         "pending": true,
         "leg_results": [
-          null,
+          false,
           null,
           null
         ],
@@ -9980,7 +9980,7 @@
             "sel": null,
             "score": "1-0",
             "odds": 15.5,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-09-14_周一011",
@@ -22110,8 +22110,8 @@
           "roi": null,
           "avg_odds": null,
           "by_type": {},
-          "leg_hit_rate": null,
-          "n_legs_settled": 0
+          "leg_hit_rate": 0.0,
+          "n_legs_settled": 4
         },
         "tickets": [
           {
@@ -22125,7 +22125,7 @@
             "won": false,
             "pending": true,
             "leg_results": [
-              null,
+              false,
               null
             ],
             "return": 0.0,
@@ -22137,7 +22137,7 @@
                 "sel": null,
                 "score": "1-0",
                 "odds": 15.5,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-09-14_周一007",
@@ -22197,7 +22197,7 @@
             "won": false,
             "pending": true,
             "leg_results": [
-              null,
+              false,
               null
             ],
             "return": 0.0,
@@ -22209,7 +22209,7 @@
                 "sel": null,
                 "score": "1-0",
                 "odds": 15.5,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-09-14_周一011",
@@ -22233,7 +22233,7 @@
             "won": false,
             "pending": true,
             "leg_results": [
-              null,
+              false,
               null,
               null
             ],
@@ -22246,7 +22246,7 @@
                 "sel": null,
                 "score": "1-0",
                 "odds": 15.5,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-09-14_周一011",
@@ -22279,7 +22279,7 @@
             "won": false,
             "pending": true,
             "leg_results": [
-              null,
+              false,
               null,
               null
             ],
@@ -22292,7 +22292,7 @@
                 "sel": null,
                 "score": "1-0",
                 "odds": 15.5,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-09-14_周一011",

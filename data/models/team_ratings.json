@@ -608,10 +608,10 @@
     "rest_days": 3
   },
   "罗马": {
-    "elo": 1870.4,
-    "attack": 1.2079,
-    "defense": 0.5726,
-    "form": 0.663,
+    "elo": 1880.6,
+    "attack": 1.1605,
+    "defense": 0.5168,
+    "form": 0.7641,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1728,10 +1728,10 @@
     "rest_days": 3
   },
   "科莫": {
-    "elo": 1875.4,
-    "attack": 1.2108,
-    "defense": 0.5661,
-    "form": 0.8134,
+    "elo": 1877.6,
+    "attack": 1.1631,
+    "defense": 0.5461,
+    "form": 0.8694,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2376,10 +2376,10 @@
     "rest_days": 3
   },
   "都灵": {
-    "elo": 1539.3,
-    "attack": 0.7416,
-    "defense": 0.9422,
-    "form": -0.1892,
+    "elo": 1529.1,
+    "attack": 0.6693,
+    "defense": 0.9207,
+    "form": -0.4324,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2408,10 +2408,10 @@
     "rest_days": 3
   },
   "帕尔马": {
-    "elo": 1483.6,
-    "attack": 0.4926,
-    "defense": 0.8049,
-    "form": -0.3776,
+    "elo": 1481.4,
+    "attack": 0.4798,
+    "defense": 0.7968,
+    "form": -0.5643,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5720,10 +5720,10 @@
     "rest_days": 3
   },
   "佐加顿斯": {
-    "elo": 1715.4,
-    "attack": 0.9442,
-    "defense": 0.2246,
-    "form": 0.7476,
+    "elo": 1723.2,
+    "attack": 0.9225,
+    "defense": 0.2027,
+    "form": 0.8233,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6096,10 +6096,10 @@
     "rest_days": 3
   },
   "博德闪耀": {
-    "elo": 1930.1,
-    "attack": 0.9608,
-    "defense": 0.4587,
-    "form": 0.3248,
+    "elo": 1931.7,
+    "attack": 0.9727,
+    "defense": 0.4843,
+    "form": 0.5274,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6648,10 +6648,10 @@
     "rest_days": 3
   },
   "国际图尔库": {
-    "elo": 1656.6,
-    "attack": 0.6513,
-    "defense": 0.3402,
-    "form": 0.7404,
+    "elo": 1663.1,
+    "attack": 0.623,
+    "defense": 0.307,
+    "form": 0.8183,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -8728,10 +8728,10 @@
     "rest_days": 3
   },
   "哥德堡盖斯": {
-    "elo": 1458.8,
-    "attack": 0.7207,
-    "defense": 0.9207,
-    "form": -0.4659,
+    "elo": 1451.0,
+    "attack": 0.6504,
+    "defense": 0.9013,
+    "form": -0.6261,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9088,10 +9088,10 @@
     "rest_days": 3
   },
   "VPS瓦萨": {
-    "elo": 1485.6,
-    "attack": 0.8656,
-    "defense": 0.9011,
-    "form": -0.237,
+    "elo": 1479.1,
+    "attack": 0.7812,
+    "defense": 0.8484,
+    "form": -0.4659,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9112,10 +9112,10 @@
     "rest_days": 3
   },
   "桑德菲杰": {
-    "elo": 1485.0,
-    "attack": 0.8055,
-    "defense": 0.8307,
-    "form": -0.057,
+    "elo": 1483.4,
+    "attack": 0.7973,
+    "defense": 0.8553,
+    "form": -0.3399,
     "injury": 0.0,
     "rest_days": 3
   },
