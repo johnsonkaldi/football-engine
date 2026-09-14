@@ -3,6 +3,8 @@
   "checked_days": [
     "2026-09-14"
   ],
-  "n_alerts": 0,
-  "alerts": []
+  "n_alerts": 1,
+  "alerts": [
+    "⚠ 2026-09-14: market_fair 覆盖率 75% < 80%（9/12）"
+  ]
 }
