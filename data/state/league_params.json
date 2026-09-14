@@ -202,10 +202,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 4,
     "draw_hits": 0,
-    "total_predictions": 37,
-    "total_hits": 21,
+    "total_predictions": 38,
+    "total_hits": 22,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-13"
+    "last_updated": "2026-09-14"
   },
   "日乙": {
     "base_goals": 1.35,
@@ -241,10 +241,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 21,
-    "total_hits": 16,
+    "total_predictions": 22,
+    "total_hits": 17,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-04"
+    "last_updated": "2026-09-14"
   },
   "亚冠精英": {
     "base_goals": 1.35,
@@ -319,10 +319,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 50,
+    "total_predictions": 51,
     "total_hits": 26,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-13"
+    "last_updated": "2026-09-14"
   },
   "美职": {
     "base_goals": 1.35,
@@ -384,10 +384,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 86,
-    "total_hits": 14,
+    "total_predictions": 87,
+    "total_hits": 15,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-13"
+    "last_updated": "2026-09-14"
   },
   "意甲": {
     "base_goals": 1.25,
@@ -397,8 +397,8 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 39,
-    "total_hits": 24,
+    "total_predictions": 40,
+    "total_hits": 25,
     "avg_overround": 0.0,
     "last_updated": "2026-09-14"
   },
