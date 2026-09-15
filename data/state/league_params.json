@@ -254,10 +254,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 2,
-    "total_hits": 0,
+    "total_predictions": 6,
+    "total_hits": 3,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-15"
   },
   "解放者杯": {
     "base_goals": 1.35,
@@ -479,5 +479,18 @@
     "total_hits": 0,
     "avg_overround": 0.0,
     "last_updated": "2026-09-14"
+  },
+  "亚运男足": {
+    "base_goals": 1.35,
+    "home_adv_weight": 1.0,
+    "market_blend_weight": 0.28,
+    "xg_calibration": 1.0,
+    "draw_baseline": 0.25,
+    "draw_predictions": 0,
+    "draw_hits": 0,
+    "total_predictions": 1,
+    "total_hits": 1,
+    "avg_overround": 0.0,
+    "last_updated": "2026-09-15"
   }
 }

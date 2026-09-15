@@ -6704,10 +6704,10 @@
     "rest_days": 3
   },
   "大田市民": {
-    "elo": 1464.5,
-    "attack": 0.7097,
-    "defense": 0.7009,
-    "form": 0.0792,
+    "elo": 1476.5,
+    "attack": 0.6757,
+    "defense": 0.6326,
+    "form": 0.3554,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6888,10 +6888,10 @@
     "rest_days": 3
   },
   "浦项制铁": {
-    "elo": 1522.2,
-    "attack": 0.869,
-    "defense": 0.8307,
-    "form": 0.363,
+    "elo": 1501.0,
+    "attack": 0.8195,
+    "defense": 0.8553,
+    "form": -0.0459,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -8168,10 +8168,10 @@
     "rest_days": 3
   },
   "北京国安": {
-    "elo": 1551.4,
-    "attack": 0.9279,
-    "defense": 0.7872,
-    "form": 0.3,
+    "elo": 1572.6,
+    "attack": 0.943,
+    "defense": 0.7456,
+    "form": 0.51,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9608,10 +9608,10 @@
     "rest_days": 3
   },
   "京都不死鸟": {
-    "elo": 1440.7,
-    "attack": 0.7884,
-    "defense": 0.9415,
-    "form": -0.7599,
+    "elo": 1428.7,
+    "attack": 0.7115,
+    "defense": 0.8849,
+    "form": -0.8319,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9784,10 +9784,10 @@
     "rest_days": 3
   },
   "上海海港": {
-    "elo": 1517.7,
-    "attack": 1.0081,
-    "defense": 0.9729,
-    "form": 0.3,
+    "elo": 1550.4,
+    "attack": 1.1209,
+    "defense": 1.0188,
+    "form": 0.51,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10609,6 +10609,46 @@
   },
   "塔什干棉农": {
     "elo": 1502.4,
+    "attack": 0.9377,
+    "defense": 0.9377,
+    "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "拉查武里": {
+    "elo": 1467.3,
+    "attack": 1.0432,
+    "defense": 1.1136,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "卡塔尔U23": {
+    "elo": 1450.7,
+    "attack": 0.9377,
+    "defense": 1.0432,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "韩国U23": {
+    "elo": 1549.3,
+    "attack": 1.0432,
+    "defense": 0.9377,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "柔佛": {
+    "elo": 1497.0,
+    "attack": 0.9377,
+    "defense": 0.9377,
+    "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "武里南联": {
+    "elo": 1503.0,
     "attack": 0.9377,
     "defense": 0.9377,
     "form": 0.0,
