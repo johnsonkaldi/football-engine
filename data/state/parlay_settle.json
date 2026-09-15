@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T00:58:42.230746+00:00",
+  "generated_at": "2026-09-15T06:11:02.070901+00:00",
   "parlay": {
     "n_tickets": 90,
     "n_pending": 0,
@@ -31,14 +31,14 @@
     }
   },
   "score_parlay": {
-    "n_tickets": 161,
-    "n_pending": 0,
+    "n_tickets": 162,
+    "n_pending": 1,
     "n_settled": 161,
     "n_won": 0,
     "hit_rate": 0.0,
     "stake": 502.0,
-    "stake_committed": 502.0,
-    "stake_pending": 0,
+    "stake_committed": 504.0,
+    "stake_pending": 2.0,
     "return": 0.0,
     "roi": -1.0,
     "avg_odds": 762.03,
@@ -9999,6 +9999,42 @@
             "score": "0-1",
             "odds": 35.0,
             "hit": false
+          }
+        ]
+      },
+      {
+        "date": "2026-09-15",
+        "type": "比分2串1",
+        "stake": 2.0,
+        "potential": 756.0,
+        "total_odds": 378.0,
+        "odds_source": "official",
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-09-15_周二010",
+            "home": "米堡",
+            "away": "米尔沃尔",
+            "sel": null,
+            "score": "0-1",
+            "odds": 18.0,
+            "hit": null
+          },
+          {
+            "match": "2026-09-15_周二011",
+            "home": "利物浦",
+            "away": "热刺",
+            "sel": null,
+            "score": "0-1",
+            "odds": 21.0,
+            "hit": null
           }
         ]
       }
@@ -22327,6 +22363,68 @@
                 "score": "0-1",
                 "odds": 35.0,
                 "hit": false
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "2026-09-15": {
+      "parlay": {
+        "stats": null,
+        "tickets": []
+      },
+      "score_parlay": {
+        "stats": {
+          "n_tickets": 1,
+          "n_pending": 1,
+          "n_settled": 0,
+          "n_won": 0,
+          "hit_rate": null,
+          "stake": 0,
+          "stake_committed": 2.0,
+          "stake_pending": 2.0,
+          "return": 0,
+          "roi": null,
+          "avg_odds": null,
+          "by_type": {},
+          "leg_hit_rate": null,
+          "n_legs_settled": 0
+        },
+        "tickets": [
+          {
+            "date": "2026-09-15",
+            "type": "比分2串1",
+            "stake": 2.0,
+            "potential": 756.0,
+            "total_odds": 378.0,
+            "odds_source": "official",
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-09-15_周二010",
+                "home": "米堡",
+                "away": "米尔沃尔",
+                "sel": null,
+                "score": "0-1",
+                "odds": 18.0,
+                "hit": null
+              },
+              {
+                "match": "2026-09-15_周二011",
+                "home": "利物浦",
+                "away": "热刺",
+                "sel": null,
+                "score": "0-1",
+                "odds": 21.0,
+                "hit": null
               }
             ]
           }
