@@ -1,60 +1,60 @@
 {
-  "total_matches": 715,
+  "total_matches": 717,
   "date_range": [
     "2026-07-19",
     "2026-09-15"
   ],
   "metrics": {
-    "brier": 0.5981,
-    "weighted_brier": 0.596,
-    "rps": 0.2035,
-    "weighted_rps": 0.2027,
-    "log_loss": 1.0015,
-    "hit_rate": 0.5287,
-    "ece": 0.1051
+    "brier": 0.5984,
+    "weighted_brier": 0.5964,
+    "rps": 0.2038,
+    "weighted_rps": 0.2031,
+    "log_loss": 1.002,
+    "hit_rate": 0.5286,
+    "ece": 0.1058
   },
   "draw_analysis": {
     "actual_draws": 184,
-    "actual_draw_rate": 0.2573,
+    "actual_draw_rate": 0.2566,
     "predicted_draws": 22,
-    "predicted_draw_rate": 0.0308,
+    "predicted_draw_rate": 0.0307,
     "max_draw_prob": 0.5025,
     "avg_draw_prob": 0.2636,
-    "avg_market_draw": 0.2438,
-    "market_high_draw_n": 144,
+    "avg_market_draw": 0.2439,
+    "market_high_draw_n": 145,
     "market_high_draw_actual": 49,
-    "market_high_draw_rate": 0.3403
+    "market_high_draw_rate": 0.3379
   },
   "strategy_comparison": {
     "model": {
-      "hit_rate": 0.5245,
-      "n": 715
+      "hit_rate": 0.5244,
+      "n": 717
     },
     "market": {
-      "hit_rate": 0.5414,
-      "n": 628
+      "hit_rate": 0.5413,
+      "n": 630
     },
     "hybrid_v2": {
       "hit_rate": 0.4952,
-      "n": 628
+      "n": 630
     },
     "market_d28": {
-      "hit_rate": 0.4984,
-      "n": 628
+      "hit_rate": 0.4968,
+      "n": 630
     }
   },
   "by_league": {
+    "西甲": {
+      "n": 52,
+      "hit_rate": 0.5192,
+      "brier": 0.5935,
+      "rps": 0.2032
+    },
     "欧冠": {
       "n": 51,
       "hit_rate": 0.6078,
       "brier": 0.5435,
       "rps": 0.1956
-    },
-    "西甲": {
-      "n": 51,
-      "hit_rate": 0.5098,
-      "brier": 0.5949,
-      "rps": 0.2029
     },
     "意甲": {
       "n": 40,
@@ -207,10 +207,10 @@
       "rps": 0.2102
     },
     "亚冠精英": {
-      "n": 6,
-      "hit_rate": 0.5,
-      "brier": 0.6445,
-      "rps": 0.1663
+      "n": 7,
+      "hit_rate": 0.4286,
+      "brier": 0.6855,
+      "rps": 0.2055
     },
     "韩职": {
       "n": 3,

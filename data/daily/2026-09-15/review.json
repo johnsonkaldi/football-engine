@@ -1,34 +1,40 @@
 {
   "date": "2026-09-15",
-  "n_matches": 5,
-  "hit_rate": 0.8,
-  "hits": 4,
+  "n_matches": 7,
+  "hit_rate": 0.7143,
+  "hits": 5,
   "source_brier": {
-    "model": 0.5405,
-    "market": 0.4712,
+    "model": 0.5913,
+    "market": 0.5459,
     "djyy": null,
-    "final": 0.4634
+    "final": 0.5385
   },
   "by_league": {
     "亚冠精英": {
-      "n": 4,
-      "hit_rate": 0.75,
-      "wilson_lower": 0.3006,
-      "avg_brier": 0.5605
+      "n": 5,
+      "hit_rate": 0.6,
+      "wilson_lower": 0.2307,
+      "avg_brier": 0.6346
     },
     "亚运男足": {
       "n": 1,
       "hit_rate": 1.0,
       "wilson_lower": 0.2065,
       "avg_brier": 0.0753
+    },
+    "西甲": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.521
     }
   },
   "by_confidence_tier": {
     "mid": {
-      "n": 2,
-      "hit_rate": 1.0,
-      "wilson_lower": 0.3424,
-      "avg_brier": 0.4601
+      "n": 4,
+      "hit_rate": 0.75,
+      "wilson_lower": 0.3006,
+      "avg_brier": 0.5931
     },
     "high": {
       "n": 3,
@@ -39,16 +45,16 @@
   },
   "by_odds_band": {
     "2.0-3.0": {
-      "n": 1,
+      "n": 2,
       "hit_rate": 1.0,
-      "wilson_lower": 0.2065,
-      "avg_brier": 0.5259
+      "wilson_lower": 0.3424,
+      "avg_brier": 0.5234
     },
     "1.5-2.0": {
-      "n": 1,
-      "hit_rate": 1.0,
-      "wilson_lower": 0.2065,
-      "avg_brier": 0.3942
+      "n": 2,
+      "hit_rate": 0.5,
+      "wilson_lower": 0.0945,
+      "avg_brier": 0.6628
     },
     "1.0-1.5": {
       "n": 3,
@@ -61,12 +67,13 @@
     "top1": 1,
     "top3": 1,
     "top5": 1,
-    "top8": 2,
-    "any": 2
+    "top8": 3,
+    "any": 3
   },
   "score_rank_hist": {
     "1": 1,
-    "6": 1
+    "6": 1,
+    "7": 1
   },
   "score_source_stats": {
     "djyy": {
@@ -74,26 +81,30 @@
       "hits": 0
     },
     "mc": {
-      "n": 2,
+      "n": 3,
       "hits": 1
     }
   },
   "market_signal_stats": {
-    "n": 5,
-    "hits": 4
+    "n": 7,
+    "hits": 5
   },
   "layered": {
-    "log_loss_final": 0.7945,
-    "rps_final": 0.1475,
-    "rps_market": 0.1511,
+    "log_loss_final": 0.9019,
+    "rps_final": 0.1998,
+    "rps_market": 0.2029,
     "goal_framework": {
-      "n": 5,
+      "n": 7,
       "hits": 2
     },
     "prob_bands": {
       "40-50%": {
-        "n": 2,
+        "n": 3,
         "hit_rate": 1.0
+      },
+      "50-60%": {
+        "n": 1,
+        "hit_rate": 0.0
       },
       "60%+": {
         "n": 3,
@@ -101,14 +112,30 @@
       }
     },
     "freshness_groups": {
+      "ok": {
+        "n": 1,
+        "hit_rate": 1.0
+      },
       "watch": {
-        "n": 5,
-        "hit_rate": 0.8
+        "n": 6,
+        "hit_rate": 0.6667
       }
     }
   },
-  "biases": [],
+  "biases": [
+    {
+      "dimension": "league",
+      "key": "亚冠精英",
+      "outcome": "home",
+      "predicted_avg": 0.4679,
+      "actual_rate": 0.6,
+      "gap": -0.1321,
+      "n": 5,
+      "severity": "warn",
+      "suggested_action": "increase home_adv_weight"
+    }
+  ],
   "total_pnl": 0.0,
-  "generated_at": "2026-09-15T17:17:12.400796",
-  "sha256": "6ef3b2df93de90732f9a9907c75b642b"
+  "generated_at": "2026-09-15T19:15:18.453371",
+  "sha256": "e6ef694da82d0efd5eede142d8331421"
 }

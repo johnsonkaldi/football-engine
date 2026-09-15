@@ -18,10 +18,10 @@
           "sel": "away",
           "odds": 2.25,
           "prob": 0.425,
-          "cal_prob": 0.51,
+          "cal_prob": 0.513,
           "market_prob": 0.394,
           "source": "fusion",
-          "hit_prob": 0.51
+          "hit_prob": 0.513
         },
         {
           "match": "2026-09-16_周三015",
@@ -30,20 +30,20 @@
           "league": "解放者杯",
           "sel": "home",
           "odds": 2.18,
-          "prob": 0.417,
-          "cal_prob": 0.51,
+          "prob": 0.416,
+          "cal_prob": 0.513,
           "market_prob": 0.407,
           "source": "fusion",
-          "hit_prob": 0.51
+          "hit_prob": 0.513
         }
       ],
       "total_odds": 4.91,
       "model_ev": -0.26,
-      "cal_ev": 3.85,
-      "cal_roi": 0.2763,
+      "cal_ev": 4.07,
+      "cal_roi": 0.2924,
       "market_ev": -0.43,
       "market_roi": -0.2136,
-      "hit_prob_cal": 0.26,
+      "hit_prob_cal": 0.263,
       "recommended": true,
       "stake": 13.93,
       "n_bets": 1,
@@ -55,17 +55,17 @@
   ],
   "score_parlay": [],
   "parlay_calibration": {
-    "overall": 0.5225,
-    "n": 710,
+    "overall": 0.5245,
+    "n": 715,
     "table": {
       "0.35": 0.4118,
-      "0.4": 0.5101,
-      "0.45": 0.5035,
+      "0.4": 0.5133,
+      "0.45": 0.5069,
       "0.5": 0.5098,
       "0.55": 0.4462,
-      "0.6": 0.6522,
-      "0.65": 0.7647,
-      "0.7": 0.7708
+      "0.6": 0.6596,
+      "0.65": 0.7429,
+      "0.7": 0.7755
     },
     "note": "串关 EV 用账本校准命中率（模型概率高估，0.55-0.60 段仅 31.6% 命中）；推荐=校准EV>0"
   }

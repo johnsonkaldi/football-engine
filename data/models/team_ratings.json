@@ -2184,10 +2184,10 @@
     "rest_days": 3
   },
   "西班牙人": {
-    "elo": 1592.2,
-    "attack": 0.7003,
-    "defense": 0.7865,
-    "form": 0.1377,
+    "elo": 1580.0,
+    "attack": 0.6672,
+    "defense": 0.7802,
+    "form": -0.2036,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2264,10 +2264,10 @@
     "rest_days": 3
   },
   "巴列卡诺": {
-    "elo": 1610.3,
-    "attack": 0.7714,
-    "defense": 0.8931,
-    "form": -0.2803,
+    "elo": 1622.5,
+    "attack": 0.7666,
+    "defense": 0.8412,
+    "form": 0.1038,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5824,10 +5824,10 @@
     "rest_days": 3
   },
   "艾因": {
-    "elo": 1519.2,
-    "attack": 1.1175,
-    "defense": 1.1283,
-    "form": -0.153,
+    "elo": 1574.5,
+    "attack": 1.1493,
+    "defense": 1.0183,
+    "form": 0.1929,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10160,10 +10160,10 @@
     "rest_days": 3
   },
   "利雅得胜利": {
-    "elo": 1590.2,
-    "attack": 0.9861,
-    "defense": 0.7973,
-    "form": 0.1599,
+    "elo": 1534.9,
+    "attack": 0.89,
+    "defense": 0.8603,
+    "form": -0.1881,
     "injury": 0.0,
     "rest_days": 3
   },
