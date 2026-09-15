@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T06:11:02.070901+00:00",
+  "generated_at": "2026-09-15T11:44:30.408462+00:00",
   "parlay": {
     "n_tickets": 90,
     "n_pending": 0,
@@ -10006,8 +10006,8 @@
         "date": "2026-09-15",
         "type": "比分2串1",
         "stake": 2.0,
-        "potential": 756.0,
-        "total_odds": 378.0,
+        "potential": 882.0,
+        "total_odds": 441.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -10024,7 +10024,7 @@
             "away": "米尔沃尔",
             "sel": null,
             "score": "0-1",
-            "odds": 18.0,
+            "odds": 21.0,
             "hit": null
           },
           {
@@ -22396,8 +22396,8 @@
             "date": "2026-09-15",
             "type": "比分2串1",
             "stake": 2.0,
-            "potential": 756.0,
-            "total_odds": 378.0,
+            "potential": 882.0,
+            "total_odds": 441.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -22414,7 +22414,7 @@
                 "away": "米尔沃尔",
                 "sel": null,
                 "score": "0-1",
-                "odds": 18.0,
+                "odds": 21.0,
                 "hit": null
               },
               {

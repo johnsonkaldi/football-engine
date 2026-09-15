@@ -17,9 +17,9 @@
           "away": "米尔沃尔",
           "league": "英冠",
           "score": "0-1",
-          "prob": 0.253,
+          "prob": 0.249,
           "cal_prob": 0.0679,
-          "odds": 18.0
+          "odds": 21.0
         },
         {
           "match": "2026-09-15_周二011",
@@ -27,19 +27,19 @@
           "away": "热刺",
           "league": "英联赛杯",
           "score": "0-1",
-          "prob": 0.25,
+          "prob": 0.248,
           "cal_prob": 0.0679,
           "odds": 21.0
         }
       ],
-      "total_odds": 378.0,
+      "total_odds": 441.0,
       "hit_prob": 0.0046,
       "stake": 2.0,
-      "potential": 756.0,
+      "potential": 882.0,
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 0.5% × 赔率 378 倍 = EV +74%）"
+      "note": "两场比分都中才赢（校准命中 0.5% × 赔率 441 倍 = EV +103%）"
     }
   ],
   "parlay_calibration": {
