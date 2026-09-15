@@ -1080,10 +1080,10 @@
     "rest_days": 3
   },
   "巴伦西亚": {
-    "elo": 1541.8,
-    "attack": 0.6292,
-    "defense": 0.9138,
-    "form": -0.6658,
+    "elo": 1564.2,
+    "attack": 0.603,
+    "defense": 0.8247,
+    "form": -0.1661,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1200,10 +1200,10 @@
     "rest_days": 3
   },
   "威廉二世": {
-    "elo": 1221.5,
-    "attack": 0.7612,
-    "defense": 1.2819,
-    "form": -0.4868,
+    "elo": 1218.5,
+    "attack": 0.7222,
+    "defense": 1.3328,
+    "form": -0.6408,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1232,10 +1232,10 @@
     "rest_days": 3
   },
   "阿贾克斯": {
-    "elo": 1773.6,
-    "attack": 1.174,
-    "defense": 0.506,
-    "form": 0.4039,
+    "elo": 1776.6,
+    "attack": 1.2355,
+    "defense": 0.4919,
+    "form": 0.5827,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3408,10 +3408,10 @@
     "rest_days": 3
   },
   "阿拉维斯": {
-    "elo": 1623.5,
-    "attack": 0.892,
-    "defense": 0.8316,
-    "form": 0.1291,
+    "elo": 1601.1,
+    "attack": 0.805,
+    "defense": 0.7857,
+    "form": -0.2096,
     "injury": 0.0,
     "rest_days": 3
   },

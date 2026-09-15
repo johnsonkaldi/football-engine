@@ -3783,7 +3783,22 @@
       "recommended": false
     },
     "prob_band_5060": true,
-    "league_forbidden": true
+    "league_forbidden": true,
+    "pnl": 0.0,
+    "actual_result": "0-1",
+    "actual_home_score": 0,
+    "actual_away_score": 1,
+    "direction_correct": false,
+    "predicted_score": "0-0",
+    "score_correct": false,
+    "score_rank": 4,
+    "score_top3_hit": false,
+    "score_top5_hit": true,
+    "score_top8_hit": true,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 4,
+    "market_signal_dir": "home",
+    "market_signal_hit": false
   },
   {
     "match_id": "2026-09-15_周二009",
@@ -4227,7 +4242,22 @@
     "play_ev": {
       "hafu": 0.0827
     },
-    "kelly_edge": -0.0451
+    "kelly_edge": -0.0451,
+    "pnl": 0.0,
+    "actual_result": "5-1",
+    "actual_home_score": 5,
+    "actual_away_score": 1,
+    "direction_correct": true,
+    "predicted_score": "2-0",
+    "score_correct": false,
+    "score_rank": 0,
+    "score_top3_hit": false,
+    "score_top5_hit": false,
+    "score_top8_hit": false,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 0,
+    "market_signal_dir": "home",
+    "market_signal_hit": true
   },
   {
     "match_id": "2026-09-15_周二010",
