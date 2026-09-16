@@ -18,10 +18,10 @@
           "sel": "away",
           "odds": 2.23,
           "prob": 0.419,
-          "cal_prob": 0.517,
+          "cal_prob": 0.523,
           "market_prob": 0.397,
           "source": "fusion",
-          "hit_prob": 0.517
+          "hit_prob": 0.523
         },
         {
           "match": "2026-09-17_周四001",
@@ -31,19 +31,19 @@
           "sel": "home",
           "odds": 2.31,
           "prob": 0.413,
-          "cal_prob": 0.517,
-          "market_prob": 0.413,
+          "cal_prob": 0.523,
+          "market_prob": 0.412,
           "source": "fusion",
-          "hit_prob": 0.517
+          "hit_prob": 0.523
         }
       ],
       "total_odds": 5.15,
       "model_ev": -0.22,
-      "cal_ev": 5.22,
-      "cal_roi": 0.3748,
+      "cal_ev": 5.69,
+      "cal_roi": 0.4085,
       "market_ev": -0.31,
-      "market_roi": -0.1566,
-      "hit_prob_cal": 0.267,
+      "market_roi": -0.1569,
+      "hit_prob_cal": 0.273,
       "recommended": true,
       "stake": 13.93,
       "n_bets": 1,
@@ -63,8 +63,8 @@
           "away": "中国女",
           "league": "亚运女足",
           "score": "1-0",
-          "prob": 0.186,
-          "cal_prob": 0.0984,
+          "prob": 0.183,
+          "cal_prob": 0.0989,
           "odds": 85.0
         },
         {
@@ -74,32 +74,32 @@
           "league": "欧罗巴",
           "score": "0-1",
           "prob": 0.247,
-          "cal_prob": 0.0675,
+          "cal_prob": 0.0676,
           "odds": 23.0
         }
       ],
       "total_odds": 1955.0,
-      "hit_prob": 0.0066,
+      "hit_prob": 0.0067,
       "stake": 2.0,
       "potential": 3910.0,
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 1955 倍 = EV +1199%）"
+      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 1955 倍 = EV +1206%）"
     }
   ],
   "parlay_calibration": {
-    "overall": 0.5249,
-    "n": 724,
+    "overall": 0.526,
+    "n": 730,
     "table": {
-      "0.35": 0.4083,
-      "0.4": 0.5166,
-      "0.45": 0.5069,
+      "0.35": 0.4132,
+      "0.4": 0.5229,
+      "0.45": 0.5034,
       "0.5": 0.5096,
-      "0.55": 0.4394,
+      "0.55": 0.4328,
       "0.6": 0.6596,
       "0.65": 0.7222,
-      "0.7": 0.7885
+      "0.7": 0.7925
     },
     "note": "串关 EV 用账本校准命中率（模型概率高估，0.55-0.60 段仅 31.6% 命中）；推荐=校准EV>0"
   }
