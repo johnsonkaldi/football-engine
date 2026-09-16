@@ -1,0 +1,106 @@
+{
+  "stable": [],
+  "value": [],
+  "lottery": [],
+  "total_stake": 0,
+  "expected_roi": 0.0,
+  "bankroll": 3870.7891,
+  "breaker_multiplier": 1.0,
+  "parlay": [
+    {
+      "type": "2串1",
+      "legs": [
+        {
+          "match": "2026-09-17_周四006",
+          "home": "皇家社会",
+          "away": "伯恩茅斯",
+          "league": "欧罗巴",
+          "sel": "away",
+          "odds": 2.23,
+          "prob": 0.419,
+          "cal_prob": 0.517,
+          "market_prob": 0.397,
+          "source": "fusion",
+          "hit_prob": 0.517
+        },
+        {
+          "match": "2026-09-17_周四001",
+          "home": "乌兹别女",
+          "away": "中国女",
+          "league": "亚运女足",
+          "sel": "home",
+          "odds": 2.31,
+          "prob": 0.413,
+          "cal_prob": 0.517,
+          "market_prob": 0.413,
+          "source": "fusion",
+          "hit_prob": 0.517
+        }
+      ],
+      "total_odds": 5.15,
+      "model_ev": -0.22,
+      "cal_ev": 5.22,
+      "cal_roi": 0.3748,
+      "market_ev": -0.31,
+      "market_roi": -0.1566,
+      "hit_prob_cal": 0.267,
+      "recommended": true,
+      "stake": 13.93,
+      "n_bets": 1,
+      "potential": 71.76,
+      "worst_win": 0.0,
+      "note": "两场全中才赢",
+      "source": "calibrated"
+    }
+  ],
+  "score_parlay": [
+    {
+      "type": "比分2串1",
+      "legs": [
+        {
+          "match": "2026-09-17_周四001",
+          "home": "乌兹别女",
+          "away": "中国女",
+          "league": "亚运女足",
+          "score": "1-0",
+          "prob": 0.186,
+          "cal_prob": 0.0984,
+          "odds": 85.0
+        },
+        {
+          "match": "2026-09-17_周四005",
+          "home": "水晶宫",
+          "away": "波兹南莱赫",
+          "league": "欧罗巴",
+          "score": "0-1",
+          "prob": 0.247,
+          "cal_prob": 0.0675,
+          "odds": 23.0
+        }
+      ],
+      "total_odds": 1955.0,
+      "hit_prob": 0.0066,
+      "stake": 2.0,
+      "potential": 3910.0,
+      "worst_win": 0.0,
+      "n_bets": 1,
+      "odds_source": "official",
+      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 1955 倍 = EV +1199%）"
+    }
+  ],
+  "parlay_calibration": {
+    "overall": 0.5249,
+    "n": 724,
+    "table": {
+      "0.35": 0.4083,
+      "0.4": 0.5166,
+      "0.45": 0.5069,
+      "0.5": 0.5096,
+      "0.55": 0.4394,
+      "0.6": 0.6596,
+      "0.65": 0.7222,
+      "0.7": 0.7885
+    },
+    "note": "串关 EV 用账本校准命中率（模型概率高估，0.55-0.60 段仅 31.6% 命中）；推荐=校准EV>0"
+  }
+}
