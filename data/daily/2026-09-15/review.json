@@ -1,13 +1,13 @@
 {
   "date": "2026-09-15",
-  "n_matches": 13,
-  "hit_rate": 0.6923,
+  "n_matches": 14,
+  "hit_rate": 0.6429,
   "hits": 9,
   "source_brier": {
-    "model": 0.5314,
-    "market": 0.5841,
+    "model": 0.5733,
+    "market": 0.5904,
     "djyy": null,
-    "final": 0.5066
+    "final": 0.5208
   },
   "by_league": {
     "亚冠精英": {
@@ -45,6 +45,12 @@
       "hit_rate": 1.0,
       "wilson_lower": 0.3424,
       "avg_brier": 0.1993
+    },
+    "解放者杯": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.7055
     }
   },
   "by_confidence_tier": {
@@ -59,14 +65,20 @@
       "hit_rate": 0.625,
       "wilson_lower": 0.3057,
       "avg_brier": 0.4874
+    },
+    "low": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.7055
     }
   },
   "by_odds_band": {
     "2.0-3.0": {
-      "n": 2,
-      "hit_rate": 1.0,
-      "wilson_lower": 0.3424,
-      "avg_brier": 0.5234
+      "n": 3,
+      "hit_rate": 0.6667,
+      "wilson_lower": 0.2077,
+      "avg_brier": 0.5841
     },
     "1.5-2.0": {
       "n": 4,
@@ -105,15 +117,15 @@
     }
   },
   "market_signal_stats": {
-    "n": 13,
+    "n": 14,
     "hits": 8
   },
   "layered": {
-    "log_loss_final": 0.8663,
-    "rps_final": 0.1837,
-    "rps_market": 0.2111,
+    "log_loss_final": 0.8869,
+    "rps_final": 0.191,
+    "rps_market": 0.216,
     "goal_framework": {
-      "n": 13,
+      "n": 14,
       "hits": 6
     },
     "prob_bands": {
@@ -128,12 +140,16 @@
       "60%+": {
         "n": 7,
         "hit_rate": 0.7143
+      },
+      "<40%": {
+        "n": 1,
+        "hit_rate": 0.0
       }
     },
     "freshness_groups": {
       "ok": {
-        "n": 5,
-        "hit_rate": 0.8
+        "n": 6,
+        "hit_rate": 0.6667
       },
       "watch": {
         "n": 8,
@@ -155,6 +171,6 @@
     }
   ],
   "total_pnl": 0.0,
-  "generated_at": "2026-09-15T22:17:54.937226",
-  "sha256": "d639971e7289638b5ce8b5221756f045"
+  "generated_at": "2026-09-16T00:49:29.607357",
+  "sha256": "55658b76a3ea907a733007142e78d7fd"
 }

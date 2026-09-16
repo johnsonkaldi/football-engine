@@ -424,10 +424,10 @@
     "rest_days": 3
   },
   "弗鲁米嫩塞": {
-    "elo": 1635.1,
-    "attack": 0.4249,
-    "defense": 0.3364,
-    "form": 0.3965,
+    "elo": 1612.0,
+    "attack": 0.4187,
+    "defense": 0.374,
+    "form": -0.0224,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6152,10 +6152,10 @@
     "rest_days": 3
   },
   "普拉滕斯": {
-    "elo": 1404.2,
-    "attack": 0.4378,
-    "defense": 0.771,
-    "form": -0.6606,
+    "elo": 1427.3,
+    "attack": 0.4655,
+    "defense": 0.731,
+    "form": -0.1624,
     "injury": 0.0,
     "rest_days": 3
   },

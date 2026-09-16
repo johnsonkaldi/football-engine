@@ -1,46 +1,46 @@
 {
-  "total_matches": 723,
+  "total_matches": 724,
   "date_range": [
     "2026-07-19",
     "2026-09-15"
   ],
   "metrics": {
-    "brier": 0.5974,
-    "weighted_brier": 0.5952,
-    "rps": 0.2035,
-    "weighted_rps": 0.2028,
-    "log_loss": 1.0005,
-    "hit_rate": 0.5297,
-    "ece": 0.1052
+    "brier": 0.5975,
+    "weighted_brier": 0.5954,
+    "rps": 0.2036,
+    "weighted_rps": 0.2029,
+    "log_loss": 1.0008,
+    "hit_rate": 0.529,
+    "ece": 0.1051
   },
   "draw_analysis": {
     "actual_draws": 185,
-    "actual_draw_rate": 0.2559,
-    "predicted_draws": 22,
-    "predicted_draw_rate": 0.0304,
+    "actual_draw_rate": 0.2555,
+    "predicted_draws": 23,
+    "predicted_draw_rate": 0.0318,
     "max_draw_prob": 0.5025,
-    "avg_draw_prob": 0.263,
-    "avg_market_draw": 0.2437,
-    "market_high_draw_n": 145,
+    "avg_draw_prob": 0.2631,
+    "avg_market_draw": 0.2438,
+    "market_high_draw_n": 146,
     "market_high_draw_actual": 49,
-    "market_high_draw_rate": 0.3379
+    "market_high_draw_rate": 0.3356
   },
   "strategy_comparison": {
     "model": {
-      "hit_rate": 0.5256,
-      "n": 723
+      "hit_rate": 0.5249,
+      "n": 724
     },
     "market": {
-      "hit_rate": 0.541,
-      "n": 634
+      "hit_rate": 0.5402,
+      "n": 635
     },
     "hybrid_v2": {
-      "hit_rate": 0.4953,
-      "n": 634
+      "hit_rate": 0.4945,
+      "n": 635
     },
     "market_d28": {
-      "hit_rate": 0.4968,
-      "n": 634
+      "hit_rate": 0.4961,
+      "n": 635
     }
   },
   "by_league": {
@@ -152,6 +152,12 @@
       "brier": 0.4314,
       "rps": 0.1521
     },
+    "解放者杯": {
+      "n": 13,
+      "hit_rate": 0.3846,
+      "brier": 0.5865,
+      "rps": 0.1484
+    },
     "巴西杯": {
       "n": 12,
       "hit_rate": 0.4167,
@@ -169,12 +175,6 @@
       "hit_rate": 0.5833,
       "brier": 0.595,
       "rps": 0.2037
-    },
-    "解放者杯": {
-      "n": 12,
-      "hit_rate": 0.4167,
-      "brier": 0.5766,
-      "rps": 0.137
     },
     "美职联": {
       "n": 11,
