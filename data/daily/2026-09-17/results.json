@@ -1,0 +1,38 @@
+[
+  {
+    "match_id": "2026-09-17_周四001",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "乌兹别克女足",
+    "away_team": "中国女足",
+    "half_home_score": 1,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-09-17_周四002",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "上海申花",
+    "away_team": "淡滨尼流浪者",
+    "half_home_score": 1,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "2026-09-17_周四003",
+    "home_score": 2,
+    "away_score": 0,
+    "home_team": "克里特",
+    "away_team": "霍芬海姆",
+    "half_home_score": 1,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-09-17_周四004",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "贝蒂斯",
+    "away_team": "赫塔菲",
+    "half_home_score": 1,
+    "half_away_score": 0
+  }
+]

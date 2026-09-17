@@ -2024,10 +2024,10 @@
     "rest_days": 3
   },
   "霍芬海姆": {
-    "elo": 1631.1,
-    "attack": 1.1354,
-    "defense": 1.1548,
-    "form": -0.0447,
+    "elo": 1596.9,
+    "attack": 1.0247,
+    "defense": 1.1126,
+    "form": -0.3313,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9200,10 +9200,10 @@
     "rest_days": 3
   },
   "上海申花": {
-    "elo": 1476.5,
-    "attack": 0.9377,
-    "defense": 1.0081,
-    "form": -0.3,
+    "elo": 1490.6,
+    "attack": 0.9166,
+    "defense": 0.945,
+    "form": 0.09,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10152,10 +10152,10 @@
     "rest_days": 3
   },
   "赫塔菲": {
-    "elo": 1475.0,
-    "attack": 0.6916,
-    "defense": 0.7644,
-    "form": -0.1161,
+    "elo": 1466.5,
+    "attack": 0.6242,
+    "defense": 0.7251,
+    "form": -0.3813,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10280,10 +10280,10 @@
     "rest_days": 3
   },
   "贝蒂斯": {
-    "elo": 1586.7,
-    "attack": 0.8308,
-    "defense": 0.7684,
-    "form": 0.6765,
+    "elo": 1595.2,
+    "attack": 0.785,
+    "defense": 0.6935,
+    "form": 0.7735,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10601,9 +10601,9 @@
   },
   "中国女足": {
     "elo": 1564.5,
-    "attack": 1.0784,
-    "defense": 0.9377,
-    "form": 0.3,
+    "attack": 1.0084,
+    "defense": 0.8815,
+    "form": 0.21,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10684,6 +10684,30 @@
     "attack": 0.9025,
     "defense": 0.9729,
     "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "乌兹别克女足": {
+    "elo": 1500.0,
+    "attack": 0.9377,
+    "defense": 0.9377,
+    "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "淡滨尼流浪者": {
+    "elo": 1485.9,
+    "attack": 0.9377,
+    "defense": 0.9729,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "克里特": {
+    "elo": 1534.2,
+    "attack": 0.9729,
+    "defense": 0.9025,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
   }

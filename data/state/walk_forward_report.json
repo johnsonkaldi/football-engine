@@ -1,54 +1,54 @@
 {
-  "total_matches": 740,
+  "total_matches": 744,
   "date_range": [
     "2026-07-19",
-    "2026-09-16"
+    "2026-09-17"
   ],
   "metrics": {
-    "brier": 0.5967,
-    "weighted_brier": 0.5945,
-    "rps": 0.2041,
-    "weighted_rps": 0.2034,
-    "log_loss": 0.9995,
-    "hit_rate": 0.5311,
-    "ece": 0.1057
+    "brier": 0.5969,
+    "weighted_brier": 0.5948,
+    "rps": 0.2042,
+    "weighted_rps": 0.2036,
+    "log_loss": 1.0001,
+    "hit_rate": 0.5309,
+    "ece": 0.1046
   },
   "draw_analysis": {
-    "actual_draws": 186,
-    "actual_draw_rate": 0.2514,
+    "actual_draws": 187,
+    "actual_draw_rate": 0.2513,
     "predicted_draws": 24,
-    "predicted_draw_rate": 0.0324,
+    "predicted_draw_rate": 0.0323,
     "max_draw_prob": 0.5025,
-    "avg_draw_prob": 0.2632,
-    "avg_market_draw": 0.2442,
+    "avg_draw_prob": 0.2628,
+    "avg_market_draw": 0.2439,
     "market_high_draw_n": 150,
     "market_high_draw_actual": 49,
     "market_high_draw_rate": 0.3267
   },
   "strategy_comparison": {
     "model": {
-      "hit_rate": 0.527,
-      "n": 740
+      "hit_rate": 0.5269,
+      "n": 744
     },
     "market": {
-      "hit_rate": 0.5417,
-      "n": 648
+      "hit_rate": 0.5422,
+      "n": 651
     },
     "hybrid_v2": {
-      "hit_rate": 0.4923,
-      "n": 648
+      "hit_rate": 0.4931,
+      "n": 651
     },
     "market_d28": {
-      "hit_rate": 0.4923,
-      "n": 648
+      "hit_rate": 0.4931,
+      "n": 651
     }
   },
   "by_league": {
     "西甲": {
-      "n": 57,
-      "hit_rate": 0.5439,
-      "brier": 0.5775,
-      "rps": 0.2013
+      "n": 58,
+      "hit_rate": 0.5517,
+      "brier": 0.5709,
+      "rps": 0.1991
     },
     "欧冠": {
       "n": 51,
@@ -68,17 +68,17 @@
       "brier": 0.6399,
       "rps": 0.2109
     },
+    "欧罗巴": {
+      "n": 39,
+      "hit_rate": 0.4615,
+      "brier": 0.6374,
+      "rps": 0.2421
+    },
     "挪超": {
       "n": 38,
       "hit_rate": 0.6053,
       "brier": 0.5003,
       "rps": 0.1888
-    },
-    "欧罗巴": {
-      "n": 38,
-      "hit_rate": 0.4737,
-      "brier": 0.6178,
-      "rps": 0.2307
     },
     "荷甲": {
       "n": 38,

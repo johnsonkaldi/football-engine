@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-17",
+  "n_matches": 4,
+  "hit_rate": 0.5,
+  "hits": 2,
+  "source_brier": {
+    "model": 0.6387,
+    "market": 0.5757,
+    "djyy": null,
+    "final": 0.6347
+  },
+  "by_league": {
+    "亚运女足": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.8222
+    },
+    "亚冠乙": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.1413
+    },
+    "欧罗巴": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 1.3791
+    },
+    "西甲": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.1964
+    }
+  },
+  "by_confidence_tier": {
+    "mid": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.8222
+    },
+    "high": {
+      "n": 3,
+      "hit_rate": 0.6667,
+      "wilson_lower": 0.2077,
+      "avg_brier": 0.5722
+    }
+  },
+  "by_odds_band": {
+    "2.0-3.0": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.8222
+    },
+    "1.0-1.5": {
+      "n": 3,
+      "hit_rate": 0.6667,
+      "wilson_lower": 0.2077,
+      "avg_brier": 0.5722
+    }
+  },
+  "score_stats": {
+    "top1": 0,
+    "top3": 2,
+    "top5": 3,
+    "top8": 3,
+    "any": 3
+  },
+  "score_rank_hist": {
+    "4": 1,
+    "3": 1,
+    "2": 1
+  },
+  "score_source_stats": {
+    "djyy": {
+      "n": 0,
+      "hits": 0
+    },
+    "mc": {
+      "n": 3,
+      "hits": 3
+    }
+  },
+  "market_signal_stats": {
+    "n": 3,
+    "hits": 1
+  },
+  "layered": {
+    "log_loss_final": 1.1041,
+    "rps_final": 0.2363,
+    "rps_market": 0.2702,
+    "goal_framework": {
+      "n": 4,
+      "hits": 2
+    },
+    "prob_bands": {
+      "40-50%": {
+        "n": 1,
+        "hit_rate": 0.0
+      },
+      "60%+": {
+        "n": 3,
+        "hit_rate": 0.6667
+      }
+    },
+    "freshness_groups": {
+      "watch": {
+        "n": 4,
+        "hit_rate": 0.5
+      }
+    }
+  },
+  "biases": [],
+  "total_pnl": 0.0,
+  "generated_at": "2026-09-17T19:01:05.240064",
+  "sha256": "0c0a68e90ec5fcfd447e75401baa9fa1"
+}

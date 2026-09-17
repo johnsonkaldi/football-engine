@@ -111,10 +111,10 @@
     "draw_baseline": 0.2,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 25,
+    "total_predictions": 26,
     "total_hits": 14,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-17"
   },
   "瑞超": {
     "base_goals": 1.5,
@@ -319,10 +319,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 57,
-    "total_hits": 31,
+    "total_predictions": 58,
+    "total_hits": 32,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-17"
   },
   "美职": {
     "base_goals": 1.35,
@@ -475,10 +475,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 1,
+    "total_predictions": 2,
     "total_hits": 0,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-17"
   },
   "亚运男足": {
     "base_goals": 1.35,
@@ -492,5 +492,18 @@
     "total_hits": 3,
     "avg_overround": 0.0,
     "last_updated": "2026-09-16"
+  },
+  "亚冠乙": {
+    "base_goals": 1.35,
+    "home_adv_weight": 1.0,
+    "market_blend_weight": 0.28,
+    "xg_calibration": 1.0,
+    "draw_baseline": 0.25,
+    "draw_predictions": 0,
+    "draw_hits": 0,
+    "total_predictions": 1,
+    "total_hits": 1,
+    "avg_overround": 0.0,
+    "last_updated": "2026-09-17"
   }
 }
