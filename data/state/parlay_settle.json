@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-17T00:33:04.316530+00:00",
+  "generated_at": "2026-09-17T05:27:01.502143+00:00",
   "parlay": {
-    "n_tickets": 92,
-    "n_pending": 1,
+    "n_tickets": 91,
+    "n_pending": 0,
     "n_settled": 91,
     "n_won": 25,
     "hit_rate": 0.2747,
     "stake": 488.53,
-    "stake_committed": 502.46,
-    "stake_pending": 13.93,
+    "stake_committed": 488.53,
+    "stake_pending": 0,
     "return": 579.92,
     "roi": 0.1871,
     "avg_odds": 5.8,
@@ -31,14 +31,14 @@
     }
   },
   "score_parlay": {
-    "n_tickets": 168,
-    "n_pending": 1,
+    "n_tickets": 167,
+    "n_pending": 0,
     "n_settled": 167,
     "n_won": 0,
     "hit_rate": 0.0,
     "stake": 520.0,
-    "stake_committed": 522.0,
-    "stake_pending": 2.0,
+    "stake_committed": 520.0,
+    "stake_pending": 0,
     "return": 0.0,
     "roi": -1.0,
     "avg_odds": 774.93,
@@ -3637,42 +3637,6 @@
             "score": null,
             "odds": 2.04,
             "hit": false
-          }
-        ]
-      },
-      {
-        "date": "2026-09-17",
-        "type": "2串1",
-        "stake": 13.93,
-        "potential": 71.45,
-        "total_odds": 5.13,
-        "odds_source": null,
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-09-17_周四006",
-            "home": "皇家社会",
-            "away": "伯恩茅斯",
-            "sel": "away",
-            "score": null,
-            "odds": 2.23,
-            "hit": null
-          },
-          {
-            "match": "2026-09-17_周四001",
-            "home": "乌兹别女",
-            "away": "中国女",
-            "sel": "home",
-            "score": null,
-            "odds": 2.3,
-            "hit": null
           }
         ]
       }
@@ -10307,42 +10271,6 @@
             "score": "1-0",
             "odds": 13.0,
             "hit": false
-          }
-        ]
-      },
-      {
-        "date": "2026-09-17",
-        "type": "比分2串1",
-        "stake": 2.0,
-        "potential": 3910.0,
-        "total_odds": 1955.0,
-        "odds_source": "official",
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-09-17_周四001",
-            "home": "乌兹别女",
-            "away": "中国女",
-            "sel": null,
-            "score": "1-0",
-            "odds": 85.0,
-            "hit": null
-          },
-          {
-            "match": "2026-09-17_周四005",
-            "home": "水晶宫",
-            "away": "波兹南莱赫",
-            "sel": null,
-            "score": "0-1",
-            "odds": 23.0,
-            "hit": null
           }
         ]
       }
@@ -23037,118 +22965,6 @@
                 "score": "1-0",
                 "odds": 13.0,
                 "hit": false
-              }
-            ]
-          }
-        ]
-      }
-    },
-    "2026-09-17": {
-      "parlay": {
-        "stats": {
-          "n_tickets": 1,
-          "n_pending": 1,
-          "n_settled": 0,
-          "n_won": 0,
-          "hit_rate": null,
-          "stake": 0,
-          "stake_committed": 13.93,
-          "stake_pending": 13.93,
-          "return": 0,
-          "roi": null,
-          "avg_odds": null,
-          "by_type": {}
-        },
-        "tickets": [
-          {
-            "date": "2026-09-17",
-            "type": "2串1",
-            "stake": 13.93,
-            "potential": 71.45,
-            "total_odds": 5.13,
-            "odds_source": null,
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-09-17_周四006",
-                "home": "皇家社会",
-                "away": "伯恩茅斯",
-                "sel": "away",
-                "score": null,
-                "odds": 2.23,
-                "hit": null
-              },
-              {
-                "match": "2026-09-17_周四001",
-                "home": "乌兹别女",
-                "away": "中国女",
-                "sel": "home",
-                "score": null,
-                "odds": 2.3,
-                "hit": null
-              }
-            ]
-          }
-        ]
-      },
-      "score_parlay": {
-        "stats": {
-          "n_tickets": 1,
-          "n_pending": 1,
-          "n_settled": 0,
-          "n_won": 0,
-          "hit_rate": null,
-          "stake": 0,
-          "stake_committed": 2.0,
-          "stake_pending": 2.0,
-          "return": 0,
-          "roi": null,
-          "avg_odds": null,
-          "by_type": {},
-          "leg_hit_rate": null,
-          "n_legs_settled": 0
-        },
-        "tickets": [
-          {
-            "date": "2026-09-17",
-            "type": "比分2串1",
-            "stake": 2.0,
-            "potential": 3910.0,
-            "total_odds": 1955.0,
-            "odds_source": "official",
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-09-17_周四001",
-                "home": "乌兹别女",
-                "away": "中国女",
-                "sel": null,
-                "score": "1-0",
-                "odds": 85.0,
-                "hit": null
-              },
-              {
-                "match": "2026-09-17_周四005",
-                "home": "水晶宫",
-                "away": "波兹南莱赫",
-                "sel": null,
-                "score": "0-1",
-                "odds": 23.0,
-                "hit": null
               }
             ]
           }

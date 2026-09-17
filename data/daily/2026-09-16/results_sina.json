@@ -373,5 +373,30 @@
     "red_home": "0",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3831431",
+    "match_no": "周三017",
+    "home_team": "科林蒂安",
+    "away_team": "拉普拉塔大学生",
+    "home_score": 0,
+    "away_score": 1,
+    "half_home_score": 0,
+    "half_away_score": 0,
+    "league": "解放者杯",
+    "match_time": "2026-09-17 08:30:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 1.91,
+    "odds_draw": 2.56,
+    "odds_away": 4.65,
+    "corner_home": "3",
+    "corner_away": "4",
+    "yellow_home": "2",
+    "yellow_away": "2",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]
