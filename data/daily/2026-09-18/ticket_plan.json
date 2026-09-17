@@ -18,10 +18,10 @@
           "sel": "away",
           "odds": 2.12,
           "prob": 0.44,
-          "cal_prob": 0.519,
+          "cal_prob": 0.522,
           "market_prob": 0.418,
           "source": "fusion",
-          "hit_prob": 0.519
+          "hit_prob": 0.522
         },
         {
           "match": "2026-09-18_周五009",
@@ -31,19 +31,19 @@
           "sel": "away",
           "odds": 2.25,
           "prob": 0.423,
-          "cal_prob": 0.519,
+          "cal_prob": 0.522,
           "market_prob": 0.393,
           "source": "fusion",
-          "hit_prob": 0.519
+          "hit_prob": 0.522
         }
       ],
       "total_odds": 4.77,
       "model_ev": -0.23,
-      "cal_ev": 3.98,
-      "cal_roi": 0.2858,
+      "cal_ev": 4.2,
+      "cal_roi": 0.3012,
       "market_ev": -0.43,
       "market_roi": -0.2154,
-      "hit_prob_cal": 0.27,
+      "hit_prob_cal": 0.273,
       "recommended": true,
       "stake": 13.93,
       "n_bets": 1,
@@ -64,7 +64,7 @@
           "league": "芬超",
           "score": "1-0",
           "prob": 0.358,
-          "cal_prob": 0.0994,
+          "cal_prob": 0.099,
           "odds": 15.0
         },
         {
@@ -73,19 +73,19 @@
           "away": "柏林联合",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.212,
-          "cal_prob": 0.0994,
+          "prob": 0.215,
+          "cal_prob": 0.099,
           "odds": 24.0
         }
       ],
       "total_odds": 360.0,
-      "hit_prob": 0.0099,
+      "hit_prob": 0.0098,
       "stake": 2.0,
       "potential": 720.0,
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 360 倍 = EV +256%）"
+      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 360 倍 = EV +253%）"
     },
     {
       "type": "比分2串1",
@@ -96,8 +96,8 @@
           "away": "海尔蒙特",
           "league": "荷乙",
           "score": "1-0",
-          "prob": 0.185,
-          "cal_prob": 0.0994,
+          "prob": 0.186,
+          "cal_prob": 0.099,
           "odds": 14.0
         },
         {
@@ -106,19 +106,19 @@
           "away": "柏林联合",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.212,
-          "cal_prob": 0.0994,
+          "prob": 0.215,
+          "cal_prob": 0.099,
           "odds": 24.0
         }
       ],
       "total_odds": 336.0,
-      "hit_prob": 0.0099,
+      "hit_prob": 0.0098,
       "stake": 2.0,
       "potential": 672.0,
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 336 倍 = EV +232%）"
+      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 336 倍 = EV +229%）"
     },
     {
       "type": "比分2串1",
@@ -129,8 +129,8 @@
           "away": "柏林联合",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.212,
-          "cal_prob": 0.0994,
+          "prob": 0.215,
+          "cal_prob": 0.099,
           "odds": 24.0
         },
         {
@@ -139,19 +139,19 @@
           "away": "纽约红牛",
           "league": "美职",
           "score": "1-0",
-          "prob": 0.38,
-          "cal_prob": 0.0994,
+          "prob": 0.383,
+          "cal_prob": 0.099,
           "odds": 11.5
         }
       ],
       "total_odds": 276.0,
-      "hit_prob": 0.0099,
+      "hit_prob": 0.0098,
       "stake": 2.0,
       "potential": 552.0,
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 276 倍 = EV +173%）"
+      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 276 倍 = EV +171%）"
     },
     {
       "type": "比分3串1",
@@ -163,7 +163,7 @@
           "league": "芬超",
           "score": "1-0",
           "prob": 0.358,
-          "cal_prob": 0.0994,
+          "cal_prob": 0.099,
           "odds": 15.0
         },
         {
@@ -173,7 +173,7 @@
           "league": "荷甲",
           "score": "1-0",
           "prob": 0.222,
-          "cal_prob": 0.0994,
+          "cal_prob": 0.099,
           "odds": 11.0
         },
         {
@@ -182,8 +182,8 @@
           "away": "海尔蒙特",
           "league": "荷乙",
           "score": "1-0",
-          "prob": 0.185,
-          "cal_prob": 0.0994,
+          "prob": 0.186,
+          "cal_prob": 0.099,
           "odds": 14.0
         }
       ],
@@ -206,7 +206,7 @@
           "league": "芬超",
           "score": "1-0",
           "prob": 0.358,
-          "cal_prob": 0.0994,
+          "cal_prob": 0.099,
           "odds": 15.0
         },
         {
@@ -216,7 +216,7 @@
           "league": "荷甲",
           "score": "1-0",
           "prob": 0.222,
-          "cal_prob": 0.0994,
+          "cal_prob": 0.099,
           "odds": 11.0
         },
         {
@@ -225,8 +225,8 @@
           "away": "海尔蒙特",
           "league": "荷乙",
           "score": "1-0",
-          "prob": 0.185,
-          "cal_prob": 0.0994,
+          "prob": 0.186,
+          "cal_prob": 0.099,
           "odds": 14.0
         }
       ],
@@ -241,17 +241,17 @@
     }
   ],
   "parlay_calibration": {
-    "overall": 0.5269,
-    "n": 744,
+    "overall": 0.5293,
+    "n": 750,
     "table": {
       "0.35": 0.418,
-      "0.4": 0.5192,
+      "0.4": 0.5223,
       "0.45": 0.5,
-      "0.5": 0.5094,
-      "0.55": 0.4265,
-      "0.6": 0.68,
+      "0.5": 0.514,
+      "0.55": 0.4348,
+      "0.6": 0.6667,
       "0.65": 0.7297,
-      "0.7": 0.7818
+      "0.7": 0.7895
     },
     "note": "串关 EV 用账本校准命中率（模型概率高估，0.55-0.60 段仅 31.6% 命中）；推荐=校准EV>0"
   }
