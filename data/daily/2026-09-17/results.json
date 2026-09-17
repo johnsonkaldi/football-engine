@@ -34,5 +34,59 @@
     "away_team": "赫塔菲",
     "half_home_score": 1,
     "half_away_score": 0
+  },
+  {
+    "match_id": "2026-09-17_周四005",
+    "home_score": 4,
+    "away_score": 0,
+    "home_team": "水晶宫",
+    "away_team": "波兹南莱赫",
+    "half_home_score": 3,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-09-17_周四006",
+    "home_score": 1,
+    "away_score": 2,
+    "home_team": "皇家社会",
+    "away_team": "伯恩茅斯",
+    "half_home_score": 0,
+    "half_away_score": 2
+  },
+  {
+    "match_id": "2026-09-17_周四007",
+    "home_score": 5,
+    "away_score": 0,
+    "home_team": "尤文",
+    "away_team": "奈梅亨",
+    "half_home_score": 3,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-09-17_周四008",
+    "home_score": 4,
+    "away_score": 1,
+    "home_team": "贝西克塔斯",
+    "away_team": "马赛",
+    "half_home_score": 1,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "2026-09-17_周四009",
+    "home_score": 1,
+    "away_score": 2,
+    "home_team": "利勒斯",
+    "away_team": "托伦斯",
+    "half_home_score": 0,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "2026-09-17_周四010",
+    "home_score": 1,
+    "away_score": 3,
+    "home_team": "马拉加",
+    "away_team": "比利亚雷亚尔",
+    "half_home_score": 1,
+    "half_away_score": 2
   }
 ]
