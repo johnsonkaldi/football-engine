@@ -1,46 +1,46 @@
 {
-  "total_matches": 737,
+  "total_matches": 739,
   "date_range": [
     "2026-07-19",
     "2026-09-16"
   ],
   "metrics": {
     "brier": 0.5961,
-    "weighted_brier": 0.5939,
-    "rps": 0.2037,
-    "weighted_rps": 0.203,
-    "log_loss": 0.9988,
-    "hit_rate": 0.5319,
-    "ece": 0.1083
+    "weighted_brier": 0.594,
+    "rps": 0.2038,
+    "weighted_rps": 0.2031,
+    "log_loss": 0.9987,
+    "hit_rate": 0.5318,
+    "ece": 0.1071
   },
   "draw_analysis": {
     "actual_draws": 186,
-    "actual_draw_rate": 0.2524,
-    "predicted_draws": 23,
-    "predicted_draw_rate": 0.0312,
+    "actual_draw_rate": 0.2517,
+    "predicted_draws": 24,
+    "predicted_draw_rate": 0.0325,
     "max_draw_prob": 0.5025,
-    "avg_draw_prob": 0.2627,
-    "avg_market_draw": 0.2439,
-    "market_high_draw_n": 148,
+    "avg_draw_prob": 0.2631,
+    "avg_market_draw": 0.244,
+    "market_high_draw_n": 149,
     "market_high_draw_actual": 49,
-    "market_high_draw_rate": 0.3311
+    "market_high_draw_rate": 0.3289
   },
   "strategy_comparison": {
     "model": {
-      "hit_rate": 0.5278,
-      "n": 737
+      "hit_rate": 0.5277,
+      "n": 739
     },
     "market": {
-      "hit_rate": 0.5411,
-      "n": 645
+      "hit_rate": 0.5425,
+      "n": 647
     },
     "hybrid_v2": {
-      "hit_rate": 0.4946,
-      "n": 645
+      "hit_rate": 0.493,
+      "n": 647
     },
     "market_d28": {
-      "hit_rate": 0.4946,
-      "n": 645
+      "hit_rate": 0.493,
+      "n": 647
     }
   },
   "by_league": {
@@ -116,6 +116,12 @@
       "brier": 0.6602,
       "rps": 0.1899
     },
+    "巴甲": {
+      "n": 27,
+      "hit_rate": 0.2593,
+      "brier": 0.6766,
+      "rps": 0.1907
+    },
     "日职": {
       "n": 27,
       "hit_rate": 0.6667,
@@ -127,12 +133,6 @@
       "hit_rate": 0.5185,
       "brier": 0.5736,
       "rps": 0.2117
-    },
-    "巴甲": {
-      "n": 26,
-      "hit_rate": 0.2692,
-      "brier": 0.6773,
-      "rps": 0.1902
     },
     "沙职": {
       "n": 26,
@@ -153,10 +153,10 @@
       "rps": 0.1527
     },
     "解放者杯": {
-      "n": 13,
-      "hit_rate": 0.3846,
-      "brier": 0.5865,
-      "rps": 0.1484
+      "n": 14,
+      "hit_rate": 0.4286,
+      "brier": 0.5861,
+      "rps": 0.1552
     },
     "巴西杯": {
       "n": 12,

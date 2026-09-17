@@ -29,25 +29,25 @@
           "away": "中国女",
           "league": "亚运女足",
           "sel": "home",
-          "odds": 2.31,
+          "odds": 2.3,
           "prob": 0.413,
           "cal_prob": 0.523,
-          "market_prob": 0.412,
+          "market_prob": 0.414,
           "source": "fusion",
           "hit_prob": 0.523
         }
       ],
-      "total_odds": 5.15,
+      "total_odds": 5.13,
       "model_ev": -0.22,
-      "cal_ev": 5.69,
-      "cal_roi": 0.4085,
-      "market_ev": -0.31,
-      "market_roi": -0.1569,
+      "cal_ev": 5.58,
+      "cal_roi": 0.4008,
+      "market_ev": -0.32,
+      "market_roi": -0.1578,
       "hit_prob_cal": 0.273,
       "recommended": true,
       "stake": 13.93,
       "n_bets": 1,
-      "potential": 71.76,
+      "potential": 71.45,
       "worst_win": 0.0,
       "note": "两场全中才赢",
       "source": "calibrated"
@@ -63,8 +63,8 @@
           "away": "中国女",
           "league": "亚运女足",
           "score": "1-0",
-          "prob": 0.183,
-          "cal_prob": 0.0989,
+          "prob": 0.185,
+          "cal_prob": 0.0991,
           "odds": 85.0
         },
         {
@@ -73,8 +73,8 @@
           "away": "波兹南莱赫",
           "league": "欧罗巴",
           "score": "0-1",
-          "prob": 0.247,
-          "cal_prob": 0.0676,
+          "prob": 0.25,
+          "cal_prob": 0.0673,
           "odds": 23.0
         }
       ],
@@ -85,21 +85,21 @@
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 1955 倍 = EV +1206%）"
+      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 1955 倍 = EV +1203%）"
     }
   ],
   "parlay_calibration": {
-    "overall": 0.526,
-    "n": 730,
+    "overall": 0.5278,
+    "n": 737,
     "table": {
       "0.35": 0.4132,
-      "0.4": 0.5229,
+      "0.4": 0.5226,
       "0.45": 0.5034,
-      "0.5": 0.5096,
-      "0.55": 0.4328,
-      "0.6": 0.6596,
+      "0.5": 0.5143,
+      "0.55": 0.4265,
+      "0.6": 0.6735,
       "0.65": 0.7222,
-      "0.7": 0.7925
+      "0.7": 0.7963
     },
     "note": "串关 EV 用账本校准命中率（模型概率高估，0.55-0.60 段仅 31.6% 命中）；推荐=校准EV>0"
   }
