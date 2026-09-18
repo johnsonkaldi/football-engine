@@ -130,5 +130,11 @@
     "min_improvement": 0.002,
     "min_z": 1.96,
     "rollback_degradation": 0.03
+  },
+  "lgbm_shadow": {
+    "min_train_samples": 300,
+    "holdout_frac": 0.3,
+    "min_improvement": 0.002,
+    "min_z": 1.96
   }
 }

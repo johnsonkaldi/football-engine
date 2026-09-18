@@ -1,18 +1,20 @@
-"""LGBM 影子训练与复活评估（2026-08-30）
+"""LGBM 影子训练与复活评估（2026-08-30 建立；2026-09-18 修正门槛对象）
 
 历史问题（docs/UPGRADE2_20260829.md）：
   1. LGBM 无训练调用点 → is_available 恒 False，从未参与过预测
-  2. 若当时直接接通，会用污染链账本 + train/serve 特征不一致的旧特征训练
+  2. 若当时直接接通，会用 train/serve 特征不一致的旧特征训练
 
-本模块的闭环（对齐 calibration_auto 的进化模式）：
-  - 训练数据 = chain=="v2" 洁净样本，特征从每日 predictions.json 的
-    **预测时冻结值**重建（elo/xg/handicap/djyy），与 serve 端 build_features
-    同源同参 → train/serve 零偏移（form/league/rank 两端同为常数，天然一致）
-  - 洁净样本 ≥ min_train_samples（默认 500）才训练
-  - 训练后时间顺序 70/30 切分做影子验证：holdout 上 LGBM 概率 vs 生产融合概率
-    的配对 Brier——只有显著更好才标记 ready=true（人工翻 config 启用，
-    绝不自动进生产，模型流历史信誉太差）
-  - 状态落盘 data/state/lgbm_status.json，周报可查
+2026-09-18 修正（用户问"现在能不能训练"后复盘发现）：
+  原门槛"洁净样本(chain=v2)≥500 才训练"卡错了对象——被污染的是融合输出
+  final_prob，而 LGBM 学的是「冻结特征 → 赛果」，特征(elo/xg/handicap/djyy)
+  与标签(actual_idx)在全部历史里同样有效。因此：
+  - 训练：用全部已结算样本（门槛降为 min_train_samples=300）
+  - 验证：与生产融合概率的对照只在 v2 洁净子集上做（公平基线）；
+    与纯市场的对照在全样本做（market_fair 未受污染）
+  - ready 需同时显著优于两条基线；生产启用仍需人工翻 config 开关
+
+闭环不变的部分：时间顺序 70/30 切分、配对显著性门槛、状态落盘
+data/state/lgbm_status.json、绝不自动进生产。
 """
 
 from __future__ import annotations
@@ -24,7 +26,7 @@ from pathlib import Path
 from engine.prediction.lgbm_model import build_features
 
 DEFAULTS = {
-    "min_train_samples": 500,   # 洁净样本门槛（对齐 config lgbm.min_train_samples）
+    "min_train_samples": 300,   # 全量已结算样本门槛（特征/标签全链有效）
     "holdout_frac": 0.3,
     "min_improvement": 0.002,
     "min_z": 1.96,
@@ -35,15 +37,26 @@ def _brier(p, a):
     return sum((x - (1.0 if i == a else 0.0)) ** 2 for i, x in enumerate(p))
 
 
-def build_training_rows(clean_records: list[dict], daily_root: Path) -> list[dict]:
-    """从每日 predictions.json 重建洁净样本的 (特征, 标签)。
+def _paired(diffs):
+    n = len(diffs)
+    if n == 0:
+        return 0.0, 0.0, 0
+    m = sum(diffs) / n
+    var = sum((x - m) ** 2 for x in diffs) / max(1, n - 1)
+    se = math.sqrt(var / n) if var > 0 else 0.0
+    return m, se, n
 
-    只用预测时冻结字段，与 serve 端 build_features 同参调用。
-    缺字段的记录跳过（返回行数可能少于输入）。
+
+def build_training_rows(records: list[dict], daily_root: Path) -> list[dict]:
+    """从每日 predictions.json 重建 (特征, 标签)。
+
+    只用预测时冻结字段，与 serve 端 build_features 同参调用 → 零偏移。
+    特征/标签与融合链版本无关，遗留样本同样可用；
+    额外标记 _v2（该行 final_prob 是否来自洁净链）供公平对照用。
     """
     by_date: dict[str, dict[str, dict]] = {}
     rows = []
-    for r in clean_records:
+    for r in records:
         d = r.get("date", "")
         if d not in by_date:
             pf = daily_root / d / "predictions.json"
@@ -68,95 +81,111 @@ def build_training_rows(clean_records: list[dict], daily_root: Path) -> list[dic
         except Exception:
             continue
         rows.append({"features": feats, "label": int(r["actual_idx"]),
-                     "final_prob": list(r["final_prob"])})
+                     "final_prob": list(r.get("final_prob") or []),
+                     "market_fair": (list(r["market_fair"]) if r.get("market_fair") else None),
+                     "match_id": r.get("match_id", ""),
+                     "_v2": r.get("chain") == "v2"})
     return rows
 
 
-def _paired(diffs):
-    n = len(diffs)
-    if n == 0:
-        return 0.0, 0.0
-    m = sum(diffs) / n
-    var = sum((x - m) ** 2 for x in diffs) / max(1, n - 1)
-    se = math.sqrt(var / n) if var > 0 else 0.0
-    return m, se
-
-
-def shadow_train(clean_records: list[dict], daily_root: Path, model_path: Path,
+def shadow_train(all_records: list[dict], clean_records: list[dict],
+                 daily_root: Path, model_path: Path,
                  lgbm_cfg=None, config: dict | None = None,
                  trainer=None) -> dict:
-    """洁净样本足够 → 训练 + 影子验证；不足 → 只报状态。
-
-    trainer 可注入（测试用）；缺省用 LGBMModel。
-    返回 status dict（调用方落盘 lgbm_status.json）。绝不改动生产融合。
-    """
+    """全样本训练 + 公平双基线影子验证。返回 status dict（调用方落盘）。"""
     cfg = {**DEFAULTS, **(config or {})}
+    clean_ids = {r.get("match_id") for r in clean_records}
     status = {
-        "trained": False, "ready": False, "clean_n": len(clean_records),
+        "trained": False, "ready": False,
+        "all_n": len(all_records), "clean_n": len(clean_records),
         "usable_rows": 0, "holdout_n": 0,
-        "holdout_brier_lgbm": None, "holdout_brier_fusion": None,
-        "delta": None, "t": None, "reason": "", "trained_at": None,
+        "holdout_brier_lgbm": None,
+        "holdout_brier_fusion_v2": None, "delta_vs_fusion_v2": None, "t_vs_fusion_v2": None,
+        "holdout_brier_market": None, "delta_vs_market": None, "t_vs_market": None,
+        "reason": "", "trained_at": None,
     }
 
-    rows = build_training_rows(clean_records, daily_root)
+    rows = build_training_rows(all_records, daily_root)
+    for r in rows:
+        r["_v2"] = r["match_id"] in clean_ids
     status["usable_rows"] = len(rows)
     min_n = int(cfg["min_train_samples"])
     if len(rows) < min_n:
-        status["reason"] = (f"洁净可用样本 {len(rows)} < {min_n}，"
-                            f"按 ~15 场/天约 {max(0, (min_n - len(rows))) // 15 + 1} 天后达标")
+        need = min_n - len(rows)
+        status["reason"] = f"可用样本 {len(rows)} < {min_n}，按 ~15 场/天约 {need // 15 + 1} 天后达标"
         return status
 
     try:
         if trainer is None:
             from engine.prediction.lgbm_model import LGBMModel
-            model = LGBMModel(model_path, config=lgbm_cfg)
-            trainer = model
+            trainer = LGBMModel(model_path, config=lgbm_cfg)
         import numpy as np
 
-        rows_sorted = rows  # clean_records 已按时间排序
-        split = int(len(rows_sorted) * (1 - float(cfg["holdout_frac"])))
-        train_rows, hold_rows = rows_sorted[:split], rows_sorted[split:]
+        keys = sorted(rows[0]["features"].keys())
 
         def _matrix(rs):
-            keys = sorted(rs[0]["features"].keys())
             X = np.array([[r["features"][k] for k in keys] for r in rs])
             y = np.array([r["label"] for r in rs])
             return X, y
 
+        split = int(len(rows) * (1 - float(cfg["holdout_frac"])))
+        train_rows, hold_rows = rows[:split], rows[split:]
+
         Xtr, ytr = _matrix(train_rows)
         Xho, yho = _matrix(hold_rows)
-
         trainer.train(Xtr, ytr, eval_features=Xho, eval_labels=yho)
 
-        # 影子验证：holdout 上 lgbm vs 生产融合概率（配对）
-        diffs = []
-        lgbm_b, fus_b = [], []
+        # 影子验证：holdout 上 lgbm vs 双基线
+        lb, fb_v2, mb = [], [], []
+        d_fus, d_mkt = [], []
         for r, x in zip(hold_rows, Xho):
-            pred = trainer.predict_single(dict(zip(sorted(hold_rows[0]["features"].keys()), x)))
+            pred = trainer.predict_single(dict(zip(keys, x)))
             if not pred:
                 continue
             pl = list(pred)[:3]
             s = sum(pl)
+            if s <= 0:
+                continue
             pl = [v / s for v in pl]
-            lgbm_b.append(_brier(pl, r["label"]))
-            fus_b.append(_brier(r["final_prob"], r["label"]))
-            diffs.append(fus_b[-1] - lgbm_b[-1])
-        status["holdout_n"] = len(diffs)
-        status["holdout_brier_lgbm"] = round(sum(lgbm_b) / len(lgbm_b), 4) if lgbm_b else None
-        status["holdout_brier_fusion"] = round(sum(fus_b) / len(fus_b), 4) if fus_b else None
-        m, se = _paired(diffs)
-        status["delta"] = round(m, 5)
-        status["t"] = round(m / se, 2) if se > 0 else 0.0
+            b_l = _brier(pl, r["label"])
+            lb.append(b_l)
+            if r["_v2"] and len(r["final_prob"]) == 3:
+                b_f = _brier(r["final_prob"], r["label"])
+                fb_v2.append(b_f)
+                d_fus.append(b_f - b_l)
+            if r.get("market_fair"):
+                b_m = _brier(r["market_fair"], r["label"])
+                mb.append(b_m)
+                d_mkt.append(b_m - b_l)
+        status["holdout_n"] = len(lb)
+        status["holdout_brier_lgbm"] = round(sum(lb) / len(lb), 4) if lb else None
+        mf = _paired(d_fus)
+        mm = _paired(d_mkt)
+        status["holdout_brier_fusion_v2"] = round(sum(fb_v2) / len(fb_v2), 4) if fb_v2 else None
+        status["holdout_brier_market"] = round(sum(mb) / len(mb), 4) if mb else None
+        status["delta_vs_fusion_v2"] = round(mf[0], 5)
+        status["t_vs_fusion_v2"] = round(mf[0] / mf[1], 2) if mf[1] > 0 else 0.0
+        status["delta_vs_market"] = round(mm[0], 5)
+        status["t_vs_market"] = round(mm[0] / mm[1], 2) if mm[1] > 0 else 0.0
 
-        if m > max(float(cfg["min_improvement"]), float(cfg["min_z"]) * se):
+        thr_f = max(float(cfg["min_improvement"]), float(cfg["min_z"]) * mf[1])
+        thr_m = max(float(cfg["min_improvement"]), float(cfg["min_z"]) * mm[1])
+        ok_f = mf[2] >= 30 and mf[0] > thr_f
+        ok_m = mm[2] >= 30 and mm[0] > thr_m
+        if ok_f and ok_m:
             status["ready"] = True
-            status["reason"] = (f"影子验证显著优于生产融合 (Δ={m:+.4f}, t={status['t']}) "
-                                f"→ 具备启用条件，人工评估后翻 config fusion.post_fusion.lgbm_blend")
+            status["reason"] = (f"影子验证双基线均显著优于 (vs融合v2 Δ={mf[0]:+.4f} t={status['t_vs_fusion_v2']}; "
+                                f"vs市场 Δ={mm[0]:+.4f} t={status['t_vs_market']}) → 具备人工评估启用条件")
         else:
-            status["reason"] = f"影子验证未显著优于生产融合 (Δ={m:+.4f}, t={status['t']}) → 保持关闭"
+            miss = []
+            if not ok_f:
+                miss.append(f"vs融合v2 Δ={mf[0]:+.4f}(n={mf[2]})")
+            if not ok_m:
+                miss.append(f"vs市场 Δ={mm[0]:+.4f}(n={mm[2]})")
+            status["reason"] = "影子验证未双基线显著 → 保持关闭: " + " | ".join(miss)
 
-        # 生产模型 = 全量洁净样本重训（供 ready 后启用时使用）
-        Xall, yall = _matrix(rows_sorted)
+        # 生产模型 = 全量重训（供 ready 后启用时使用）
+        Xall, yall = _matrix(rows)
         trainer.train(Xall, yall)
         try:
             trainer.save()

@@ -2165,13 +2165,13 @@ def run_settlement(target_date: date):
     # LGBM 影子训练（2026-08-30）：洁净样本 ≥500 自动训练 + holdout 影子验证。
     # 绝不自动进生产——ready=true 仅表示"数据支持启用"，需人工评估后翻
     # config fusion.post_fusion.lgbm_blend（模型流历史信誉差，门槛从严）。
-    print("\n  [LGBM 影子] 洁净样本盘点 + 训练决策...")
+    print("\n  [LGBM 影子] 全样本盘点 + 训练决策...")
     try:
         from engine.learning.lgbm_shadow import shadow_train
         _lgbm_cfg = LGBMConfig(**{k: v for k, v in pred_cfg.get("lgbm", {}).items()
                                   if k in LGBMConfig.__dataclass_fields__})
         _lgbm_status = shadow_train(
-            clean_records, ROOT / "data" / "daily",
+            all_records, clean_records, ROOT / "data" / "daily",
             ROOT / "data" / "models" / "lgbm_model.txt",
             lgbm_cfg=_lgbm_cfg, config=pred_cfg.get("lgbm_shadow", {}),
         )
