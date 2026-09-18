@@ -951,7 +951,22 @@
     "play_ev": {
       "ttg": 0.1748
     },
-    "kelly_edge": -0.1386
+    "kelly_edge": -0.1386,
+    "pnl": 0.0,
+    "actual_result": "1-1",
+    "actual_home_score": 1,
+    "actual_away_score": 1,
+    "direction_correct": false,
+    "predicted_score": "0-0",
+    "score_correct": false,
+    "score_rank": 5,
+    "score_top3_hit": false,
+    "score_top5_hit": true,
+    "score_top8_hit": true,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 5,
+    "market_signal_dir": "away",
+    "market_signal_hit": false
   },
   {
     "match_id": "2026-09-18_周五003",
@@ -1412,7 +1427,22 @@
       "best_edge": -0.0877,
       "recommended": false
     },
-    "kelly_edge": -0.1009
+    "kelly_edge": -0.1009,
+    "pnl": 0.0,
+    "actual_result": "5-1",
+    "actual_home_score": 5,
+    "actual_away_score": 1,
+    "direction_correct": true,
+    "predicted_score": "2-0",
+    "score_correct": false,
+    "score_rank": 0,
+    "score_top3_hit": false,
+    "score_top5_hit": false,
+    "score_top8_hit": false,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 0,
+    "market_signal_dir": "home",
+    "market_signal_hit": true
   },
   {
     "match_id": "2026-09-18_周五004",

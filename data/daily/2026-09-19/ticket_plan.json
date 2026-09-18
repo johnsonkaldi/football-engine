@@ -83,11 +83,11 @@
         }
       ],
       "total_odds": 3.02,
-      "model_ev": -0.24,
+      "model_ev": -0.25,
       "cal_ev": 0.92,
       "cal_roi": 0.1495,
       "market_ev": -0.31,
-      "market_roi": -0.1561,
+      "market_roi": -0.157,
       "hit_prob_cal": 0.381,
       "recommended": true,
       "stake": 6.18,
@@ -132,7 +132,7 @@
       "cal_ev": 0.64,
       "cal_roi": 0.1218,
       "market_ev": -0.31,
-      "market_roi": -0.1557,
+      "market_roi": -0.1566,
       "hit_prob_cal": 0.381,
       "recommended": true,
       "stake": 5.22,
@@ -186,11 +186,11 @@
         }
       ],
       "total_odds": 6.12,
-      "model_ev": -0.4,
+      "model_ev": -0.41,
       "cal_ev": 0.78,
       "cal_roi": 0.2187,
-      "market_ev": -0.5,
-      "market_roi": -0.2524,
+      "market_ev": -0.51,
+      "market_roi": -0.2533,
       "hit_prob_cal": 0.199,
       "recommended": true,
       "stake": 3.56,
@@ -247,8 +247,8 @@
       "model_ev": null,
       "cal_ev": 0.7,
       "cal_roi": 0.1605,
-      "market_ev": -1.56,
-      "market_roi": -0.195,
+      "market_ev": -1.57,
+      "market_roi": -0.1957,
       "hit_prob_cal": 0.199,
       "recommended": true,
       "stake": 4.35,
@@ -269,8 +269,8 @@
           "away": "多特蒙德",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.237,
-          "cal_prob": 0.099,
+          "prob": 0.242,
+          "cal_prob": 0.0991,
           "odds": 17.0
         },
         {
@@ -279,8 +279,8 @@
           "away": "SBV精英",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.234,
-          "cal_prob": 0.099,
+          "prob": 0.232,
+          "cal_prob": 0.0991,
           "odds": 13.0
         }
       ],
@@ -291,40 +291,7 @@
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 221 倍 = EV +116%）"
-    },
-    {
-      "type": "比分2串1",
-      "legs": [
-        {
-          "match": "2026-09-19_周六022",
-          "home": "斯图加特",
-          "away": "多特蒙德",
-          "league": "德甲",
-          "score": "1-0",
-          "prob": 0.237,
-          "cal_prob": 0.099,
-          "odds": 17.0
-        },
-        {
-          "match": "2026-09-19_周六014",
-          "home": "不来梅",
-          "away": "奥格斯堡",
-          "league": "德甲",
-          "score": "0-1",
-          "prob": 0.194,
-          "cal_prob": 0.0682,
-          "odds": 16.0
-        }
-      ],
-      "total_odds": 272.0,
-      "hit_prob": 0.0068,
-      "stake": 2.0,
-      "potential": 544.0,
-      "worst_win": 0.0,
-      "n_bets": 1,
-      "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 272 倍 = EV +84%）"
+      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 221 倍 = EV +117%）"
     },
     {
       "type": "比分2串1",
@@ -336,7 +303,7 @@
           "league": "意甲",
           "score": "1-0",
           "prob": 0.205,
-          "cal_prob": 0.099,
+          "cal_prob": 0.0991,
           "odds": 11.0
         },
         {
@@ -345,8 +312,8 @@
           "away": "多特蒙德",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.237,
-          "cal_prob": 0.099,
+          "prob": 0.242,
+          "cal_prob": 0.0991,
           "odds": 17.0
         }
       ],
@@ -357,7 +324,40 @@
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 187 倍 = EV +83%）"
+      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 187 倍 = EV +84%）"
+    },
+    {
+      "type": "比分2串1",
+      "legs": [
+        {
+          "match": "2026-09-19_周六022",
+          "home": "斯图加特",
+          "away": "多特蒙德",
+          "league": "德甲",
+          "score": "1-0",
+          "prob": 0.242,
+          "cal_prob": 0.0991,
+          "odds": 17.0
+        },
+        {
+          "match": "2026-09-19_周六027",
+          "home": "里昂",
+          "away": "雷恩",
+          "league": "法甲",
+          "score": "1-0",
+          "prob": 0.238,
+          "cal_prob": 0.0991,
+          "odds": 11.0
+        }
+      ],
+      "total_odds": 187.0,
+      "hit_prob": 0.0098,
+      "stake": 2.0,
+      "potential": 374.0,
+      "worst_win": 0.0,
+      "n_bets": 1,
+      "odds_source": "official",
+      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 187 倍 = EV +84%）"
     },
     {
       "type": "比分3串1",
@@ -369,7 +369,7 @@
           "league": "意甲",
           "score": "1-0",
           "prob": 0.205,
-          "cal_prob": 0.099,
+          "cal_prob": 0.0991,
           "odds": 11.0
         },
         {
@@ -378,8 +378,8 @@
           "away": "多特蒙德",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.237,
-          "cal_prob": 0.099,
+          "prob": 0.242,
+          "cal_prob": 0.0991,
           "odds": 17.0
         },
         {
@@ -388,8 +388,8 @@
           "away": "SBV精英",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.234,
-          "cal_prob": 0.099,
+          "prob": 0.232,
+          "cal_prob": 0.0991,
           "odds": 13.0
         }
       ],
@@ -412,7 +412,7 @@
           "league": "意甲",
           "score": "1-0",
           "prob": 0.205,
-          "cal_prob": 0.099,
+          "cal_prob": 0.0991,
           "odds": 11.0
         },
         {
@@ -421,8 +421,8 @@
           "away": "多特蒙德",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.237,
-          "cal_prob": 0.099,
+          "prob": 0.242,
+          "cal_prob": 0.0991,
           "odds": 17.0
         },
         {
@@ -431,8 +431,8 @@
           "away": "SBV精英",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.234,
-          "cal_prob": 0.099,
+          "prob": 0.232,
+          "cal_prob": 0.0991,
           "odds": 13.0
         }
       ],
@@ -447,15 +447,15 @@
     }
   ],
   "parlay_calibration": {
-    "overall": 0.5286,
-    "n": 751,
+    "overall": 0.5293,
+    "n": 752,
     "table": {
       "0.35": 0.418,
       "0.4": 0.5223,
       "0.45": 0.5,
       "0.5": 0.514,
       "0.55": 0.4348,
-      "0.6": 0.6667,
+      "0.6": 0.6731,
       "0.65": 0.7297,
       "0.7": 0.7759
     },

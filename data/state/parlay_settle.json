@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T17:15:17.638703+00:00",
+  "generated_at": "2026-09-18T18:29:25.107758+00:00",
   "parlay": {
     "n_tickets": 97,
     "n_pending": 6,
@@ -59,8 +59,8 @@
         "roi": -1.0
       }
     },
-    "leg_hit_rate": 0.1086,
-    "n_legs_settled": 396
+    "leg_hit_rate": 0.1078,
+    "n_legs_settled": 399
   },
   "tickets": {
     "parlay": [
@@ -10521,7 +10521,7 @@
         "won": false,
         "pending": true,
         "leg_results": [
-          null,
+          false,
           null
         ],
         "return": 0.0,
@@ -10533,7 +10533,7 @@
             "sel": null,
             "score": "1-0",
             "odds": 17.0,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-09-18_周五008",
@@ -10629,7 +10629,7 @@
         "won": false,
         "pending": true,
         "leg_results": [
-          null,
+          false,
           null,
           null
         ],
@@ -10642,7 +10642,7 @@
             "sel": null,
             "score": "1-0",
             "odds": 17.0,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-09-18_周五006",
@@ -10675,7 +10675,7 @@
         "won": false,
         "pending": true,
         "leg_results": [
-          null,
+          false,
           null,
           null
         ],
@@ -10688,7 +10688,7 @@
             "sel": null,
             "score": "1-0",
             "odds": 17.0,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-09-18_周五006",
@@ -10750,42 +10750,6 @@
         "date": "2026-09-19",
         "type": "比分2串1",
         "stake": 2.0,
-        "potential": 544.0,
-        "total_odds": 272.0,
-        "odds_source": "official",
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-09-19_周六022",
-            "home": "斯图加特",
-            "away": "多特蒙德",
-            "sel": null,
-            "score": "1-0",
-            "odds": 17.0,
-            "hit": null
-          },
-          {
-            "match": "2026-09-19_周六014",
-            "home": "不来梅",
-            "away": "奥格斯堡",
-            "sel": null,
-            "score": "0-1",
-            "odds": 16.0,
-            "hit": null
-          }
-        ]
-      },
-      {
-        "date": "2026-09-19",
-        "type": "比分2串1",
-        "stake": 2.0,
         "potential": 374.0,
         "total_odds": 187.0,
         "odds_source": "official",
@@ -10814,6 +10778,42 @@
             "sel": null,
             "score": "1-0",
             "odds": 17.0,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-09-19",
+        "type": "比分2串1",
+        "stake": 2.0,
+        "potential": 374.0,
+        "total_odds": 187.0,
+        "odds_source": "official",
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-09-19_周六022",
+            "home": "斯图加特",
+            "away": "多特蒙德",
+            "sel": null,
+            "score": "1-0",
+            "odds": 17.0,
+            "hit": null
+          },
+          {
+            "match": "2026-09-19_周六027",
+            "home": "里昂",
+            "away": "雷恩",
+            "sel": null,
+            "score": "1-0",
+            "odds": 11.0,
             "hit": null
           }
         ]
@@ -23676,8 +23676,8 @@
           "roi": null,
           "avg_odds": null,
           "by_type": {},
-          "leg_hit_rate": null,
-          "n_legs_settled": 0
+          "leg_hit_rate": 0.0,
+          "n_legs_settled": 3
         },
         "tickets": [
           {
@@ -23691,7 +23691,7 @@
             "won": false,
             "pending": true,
             "leg_results": [
-              null,
+              false,
               null
             ],
             "return": 0.0,
@@ -23703,7 +23703,7 @@
                 "sel": null,
                 "score": "1-0",
                 "odds": 17.0,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-09-18_周五008",
@@ -23799,7 +23799,7 @@
             "won": false,
             "pending": true,
             "leg_results": [
-              null,
+              false,
               null,
               null
             ],
@@ -23812,7 +23812,7 @@
                 "sel": null,
                 "score": "1-0",
                 "odds": 17.0,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-09-18_周五006",
@@ -23845,7 +23845,7 @@
             "won": false,
             "pending": true,
             "leg_results": [
-              null,
+              false,
               null,
               null
             ],
@@ -23858,7 +23858,7 @@
                 "sel": null,
                 "score": "1-0",
                 "odds": 17.0,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-09-18_周五006",
@@ -24160,42 +24160,6 @@
             "date": "2026-09-19",
             "type": "比分2串1",
             "stake": 2.0,
-            "potential": 544.0,
-            "total_odds": 272.0,
-            "odds_source": "official",
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-09-19_周六022",
-                "home": "斯图加特",
-                "away": "多特蒙德",
-                "sel": null,
-                "score": "1-0",
-                "odds": 17.0,
-                "hit": null
-              },
-              {
-                "match": "2026-09-19_周六014",
-                "home": "不来梅",
-                "away": "奥格斯堡",
-                "sel": null,
-                "score": "0-1",
-                "odds": 16.0,
-                "hit": null
-              }
-            ]
-          },
-          {
-            "date": "2026-09-19",
-            "type": "比分2串1",
-            "stake": 2.0,
             "potential": 374.0,
             "total_odds": 187.0,
             "odds_source": "official",
@@ -24224,6 +24188,42 @@
                 "sel": null,
                 "score": "1-0",
                 "odds": 17.0,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-09-19",
+            "type": "比分2串1",
+            "stake": 2.0,
+            "potential": 374.0,
+            "total_odds": 187.0,
+            "odds_source": "official",
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-09-19_周六022",
+                "home": "斯图加特",
+                "away": "多特蒙德",
+                "sel": null,
+                "score": "1-0",
+                "odds": 17.0,
+                "hit": null
+              },
+              {
+                "match": "2026-09-19_周六027",
+                "home": "里昂",
+                "away": "雷恩",
+                "sel": null,
+                "score": "1-0",
+                "odds": 11.0,
                 "hit": null
               }
             ]

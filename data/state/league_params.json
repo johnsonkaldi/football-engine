@@ -59,10 +59,10 @@
     "draw_baseline": 0.14,
     "draw_predictions": 3,
     "draw_hits": 0,
-    "total_predictions": 15,
+    "total_predictions": 16,
     "total_hits": 4,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-18"
   },
   "瑞典超": {
     "base_goals": 1.35,
@@ -176,10 +176,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 12,
-    "total_hits": 5,
+    "total_predictions": 13,
+    "total_hits": 6,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-11"
+    "last_updated": "2026-09-18"
   },
   "英联赛杯": {
     "base_goals": 1.35,
