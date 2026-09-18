@@ -10624,10 +10624,10 @@
     "rest_days": 3
   },
   "卡塔尔U23": {
-    "elo": 1450.7,
-    "attack": 0.9377,
-    "defense": 1.0432,
-    "form": -0.3,
+    "elo": 1431.0,
+    "attack": 0.8463,
+    "defense": 1.0119,
+    "form": -0.51,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10715,6 +10715,14 @@
     "elo": 1517.4,
     "attack": 0.9729,
     "defense": 0.9377,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "沙特U23": {
+    "elo": 1519.7,
+    "attack": 0.9729,
+    "defense": 0.9025,
     "form": 0.3,
     "injury": 0.0,
     "rest_days": 3

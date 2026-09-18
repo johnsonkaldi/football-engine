@@ -1,8 +1,8 @@
 {
   "n_leagues": 39,
-  "n_matches": 779,
+  "n_matches": 780,
   "external_added": 29,
-  "generated_at": "2026-09-18T15:01:48.329470",
+  "generated_at": "2026-09-18T17:15:17.562270",
   "leagues": [
     {
       "league": "西甲",
@@ -482,20 +482,20 @@
     },
     {
       "league": "亚运男足",
-      "n": 3,
+      "n": 4,
       "hit_rate": 1.0,
-      "avg_odds": 1.883,
-      "roi": 0.8833,
-      "avg_confidence": 0.1468,
+      "avg_odds": 1.768,
+      "roi": 0.7675,
+      "avg_confidence": 0.1559,
       "verdict": "观望",
-      "recent_n": 3,
-      "recent_hits": 3,
+      "recent_n": 4,
+      "recent_hits": 4,
       "recent_hit_rate": 1.0,
-      "recent_roi": 0.8833,
-      "recent10_n": 3,
-      "recent10_hits": 3,
+      "recent_roi": 0.7675,
+      "recent10_n": 4,
+      "recent10_hits": 4,
       "recent10_hit_rate": 1.0,
-      "recent10_roi": 0.8833
+      "recent10_roi": 0.7675
     },
     {
       "league": "德国杯",

@@ -97,5 +97,82 @@
     "away_team": "山谷独立",
     "half_home_score": 0,
     "half_away_score": 1
+  },
+  {
+    "match_id": "周四001",
+    "home_team": "乌兹别女",
+    "away_team": "中国女",
+    "home_score": 1,
+    "away_score": 1,
+    "competition": "亚运女足",
+    "match_date": "2026-09-17",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周四002",
+    "home_team": "上海申花",
+    "away_team": "淡宾尼士",
+    "home_score": 2,
+    "away_score": 1,
+    "competition": "亚冠二级",
+    "match_date": "2026-09-17",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周四004",
+    "home_team": "贝蒂斯",
+    "away_team": "赫塔费",
+    "home_score": 1,
+    "away_score": 0,
+    "competition": "西甲",
+    "match_date": "2026-09-17",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周四007",
+    "home_team": "尤文图斯",
+    "away_team": "奈梅亨",
+    "home_score": 5,
+    "away_score": 0,
+    "competition": "欧联",
+    "match_date": "2026-09-17",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周四009",
+    "home_team": "利勒斯特",
+    "away_team": "托林斯",
+    "home_score": 1,
+    "away_score": 2,
+    "competition": "欧联",
+    "match_date": "2026-09-17",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周四010",
+    "home_team": "马拉加",
+    "away_team": "比利亚雷",
+    "home_score": 1,
+    "away_score": 3,
+    "competition": "西甲",
+    "match_date": "2026-09-17",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周四011",
+    "home_team": "弗拉门戈",
+    "away_team": "德尔瓦耶",
+    "home_score": 1,
+    "away_score": 1,
+    "competition": "解放者杯",
+    "match_date": "2026-09-17",
+    "match_no": "",
+    "status": "完赛"
   }
 ]
