@@ -368,10 +368,10 @@
     "rest_days": 3
   },
   "弗拉门戈": {
-    "elo": 1771.2,
-    "attack": 0.6343,
-    "defense": 0.2455,
-    "form": 0.8323,
+    "elo": 1758.9,
+    "attack": 0.6076,
+    "defense": 0.2567,
+    "form": 0.5826,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10536,10 +10536,10 @@
     "rest_days": 3
   },
   "山谷独立": {
-    "elo": 1485.0,
-    "attack": 0.9025,
-    "defense": 0.9729,
-    "form": -0.3,
+    "elo": 1497.3,
+    "attack": 0.8497,
+    "defense": 0.9132,
+    "form": -0.21,
     "injury": 0.0,
     "rest_days": 3
   },

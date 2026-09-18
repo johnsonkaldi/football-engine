@@ -88,5 +88,14 @@
     "away_team": "比利亚雷亚尔",
     "half_home_score": 1,
     "half_away_score": 2
+  },
+  {
+    "match_id": "2026-09-17_周四011",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "弗拉门戈",
+    "away_team": "山谷独立",
+    "half_home_score": 0,
+    "half_away_score": 1
   }
 ]
