@@ -38,11 +38,11 @@
         }
       ],
       "total_odds": 3.02,
-      "model_ev": -0.24,
+      "model_ev": -0.25,
       "cal_ev": 1.01,
       "cal_roi": 0.1606,
       "market_ev": -0.31,
-      "market_roi": -0.1563,
+      "market_roi": -0.157,
       "hit_prob_cal": 0.385,
       "recommended": true,
       "stake": 6.27,
@@ -132,7 +132,7 @@
       "cal_ev": 0.71,
       "cal_roi": 0.1327,
       "market_ev": -0.31,
-      "market_roi": -0.1559,
+      "market_roi": -0.1566,
       "hit_prob_cal": 0.385,
       "recommended": true,
       "stake": 5.38,
@@ -186,11 +186,11 @@
         }
       ],
       "total_odds": 6.12,
-      "model_ev": -0.4,
+      "model_ev": -0.41,
       "cal_ev": 0.82,
       "cal_roi": 0.2306,
       "market_ev": -0.51,
-      "market_roi": -0.2526,
+      "market_roi": -0.2533,
       "hit_prob_cal": 0.201,
       "recommended": true,
       "stake": 3.54,
@@ -247,8 +247,8 @@
       "model_ev": null,
       "cal_ev": 0.73,
       "cal_roi": 0.169,
-      "market_ev": -1.56,
-      "market_roi": -0.1951,
+      "market_ev": -1.57,
+      "market_roi": -0.1957,
       "hit_prob_cal": 0.201,
       "recommended": true,
       "stake": 4.32,
@@ -270,7 +270,7 @@
           "league": "德甲",
           "score": "1-0",
           "prob": 0.244,
-          "cal_prob": 0.099,
+          "cal_prob": 0.0989,
           "odds": 17.0
         },
         {
@@ -279,8 +279,8 @@
           "away": "SBV精英",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.237,
-          "cal_prob": 0.099,
+          "prob": 0.234,
+          "cal_prob": 0.0989,
           "odds": 13.0
         }
       ],
@@ -303,7 +303,7 @@
           "league": "意甲",
           "score": "1-0",
           "prob": 0.204,
-          "cal_prob": 0.099,
+          "cal_prob": 0.0989,
           "odds": 11.0
         },
         {
@@ -313,7 +313,7 @@
           "league": "德甲",
           "score": "1-0",
           "prob": 0.244,
-          "cal_prob": 0.099,
+          "cal_prob": 0.0989,
           "odds": 17.0
         }
       ],
@@ -336,7 +336,7 @@
           "league": "德甲",
           "score": "1-0",
           "prob": 0.244,
-          "cal_prob": 0.099,
+          "cal_prob": 0.0989,
           "odds": 17.0
         },
         {
@@ -345,8 +345,8 @@
           "away": "雷恩",
           "league": "法甲",
           "score": "1-0",
-          "prob": 0.245,
-          "cal_prob": 0.099,
+          "prob": 0.242,
+          "cal_prob": 0.0989,
           "odds": 11.0
         }
       ],
@@ -369,7 +369,7 @@
           "league": "意甲",
           "score": "1-0",
           "prob": 0.204,
-          "cal_prob": 0.099,
+          "cal_prob": 0.0989,
           "odds": 11.0
         },
         {
@@ -379,7 +379,7 @@
           "league": "德甲",
           "score": "1-0",
           "prob": 0.244,
-          "cal_prob": 0.099,
+          "cal_prob": 0.0989,
           "odds": 17.0
         },
         {
@@ -388,8 +388,8 @@
           "away": "SBV精英",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.237,
-          "cal_prob": 0.099,
+          "prob": 0.234,
+          "cal_prob": 0.0989,
           "odds": 13.0
         }
       ],
@@ -412,7 +412,7 @@
           "league": "意甲",
           "score": "1-0",
           "prob": 0.204,
-          "cal_prob": 0.099,
+          "cal_prob": 0.0989,
           "odds": 11.0
         },
         {
@@ -422,7 +422,7 @@
           "league": "德甲",
           "score": "1-0",
           "prob": 0.244,
-          "cal_prob": 0.099,
+          "cal_prob": 0.0989,
           "odds": 17.0
         },
         {
@@ -431,8 +431,8 @@
           "away": "SBV精英",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.237,
-          "cal_prob": 0.099,
+          "prob": 0.234,
+          "cal_prob": 0.0989,
           "odds": 13.0
         }
       ],
@@ -447,15 +447,15 @@
     }
   ],
   "parlay_calibration": {
-    "overall": 0.5292,
-    "n": 754,
+    "overall": 0.5285,
+    "n": 755,
     "table": {
       "0.35": 0.418,
       "0.4": 0.5223,
       "0.45": 0.5,
       "0.5": 0.5093,
       "0.55": 0.4348,
-      "0.6": 0.6731,
+      "0.6": 0.6604,
       "0.65": 0.7368,
       "0.7": 0.7759
     },
