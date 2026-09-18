@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-30T00:33:07",
-  "n_settled": 379,
-  "n_positive_edge": 95,
+  "generated_at": "2026-09-18T10:04:14",
+  "n_settled": 672,
+  "n_positive_edge": 104,
   "edge_buckets": [
     {
       "bucket": "[0.00,0.02)",
@@ -21,61 +21,61 @@
     },
     {
       "bucket": "[0.05,0.10)",
-      "n": 18,
-      "actual_hit_rate": 0.4444,
-      "required_hit_rate": 0.4882,
-      "ev_gap": -0.0438,
-      "roi_proxy": -0.0897
+      "n": 19,
+      "actual_hit_rate": 0.4737,
+      "required_hit_rate": 0.4885,
+      "ev_gap": -0.0148,
+      "roi_proxy": -0.0303
     },
     {
       "bucket": "[0.10,10.00)",
-      "n": 56,
-      "actual_hit_rate": 0.3571,
-      "required_hit_rate": 0.4409,
-      "ev_gap": -0.0837,
-      "roi_proxy": -0.1899
+      "n": 64,
+      "actual_hit_rate": 0.3438,
+      "required_hit_rate": 0.4185,
+      "ev_gap": -0.0748,
+      "roi_proxy": -0.1787
     }
   ],
   "prob_buckets": [
     {
       "bucket": "[0.30,0.40)",
-      "n": 92,
-      "actual_hit_rate": 0.3804,
-      "required_hit_rate": 0.46,
-      "ev_gap": -0.0796,
-      "roi_proxy": -0.173
+      "n": 115,
+      "actual_hit_rate": 0.3913,
+      "required_hit_rate": 0.4498,
+      "ev_gap": -0.0585,
+      "roi_proxy": -0.13
     },
     {
       "bucket": "[0.40,0.50)",
-      "n": 189,
-      "actual_hit_rate": 0.5608,
-      "required_hit_rate": 0.5708,
-      "ev_gap": -0.01,
-      "roi_proxy": -0.0175
+      "n": 284,
+      "actual_hit_rate": 0.5246,
+      "required_hit_rate": 0.544,
+      "ev_gap": -0.0194,
+      "roi_proxy": -0.0357
     },
     {
       "bucket": "[0.50,0.60)",
-      "n": 70,
-      "actual_hit_rate": 0.5,
-      "required_hit_rate": 0.6366,
-      "ev_gap": -0.1366,
-      "roi_proxy": -0.2146
+      "n": 159,
+      "actual_hit_rate": 0.478,
+      "required_hit_rate": 0.6065,
+      "ev_gap": -0.1285,
+      "roi_proxy": -0.2119
     },
     {
       "bucket": "[0.60,0.70)",
-      "n": 14,
-      "actual_hit_rate": 0.6429,
-      "required_hit_rate": 0.7099,
-      "ev_gap": -0.067,
-      "roi_proxy": -0.0944
+      "n": 69,
+      "actual_hit_rate": 0.6522,
+      "required_hit_rate": 0.7255,
+      "ev_gap": -0.0733,
+      "roi_proxy": -0.101
     },
     {
       "bucket": "[0.70,1.01)",
-      "n": 13,
-      "actual_hit_rate": 0.6923,
-      "required_hit_rate": 0.8293,
-      "ev_gap": -0.137,
-      "roi_proxy": -0.1651
+      "n": 44,
+      "actual_hit_rate": 0.8182,
+      "required_hit_rate": 0.8469,
+      "ev_gap": -0.0287,
+      "roi_proxy": -0.0339
     }
   ]
 }
