@@ -11,19 +11,6 @@
       "type": "2串1",
       "legs": [
         {
-          "match": "2026-09-18_周五011",
-          "home": "布伦特",
-          "away": "切尔西",
-          "league": "英超",
-          "sel": "away",
-          "odds": 2.15,
-          "prob": 0.434,
-          "cal_prob": 0.522,
-          "market_prob": 0.412,
-          "source": "fusion",
-          "hit_prob": 0.522
-        },
-        {
           "match": "2026-09-18_周五009",
           "home": "蒙扎",
           "away": "萨索洛",
@@ -35,19 +22,32 @@
           "market_prob": 0.403,
           "source": "fusion",
           "hit_prob": 0.522
+        },
+        {
+          "match": "2026-09-18_周五011",
+          "home": "布伦特",
+          "away": "切尔西",
+          "league": "英超",
+          "sel": "away",
+          "odds": 2.2,
+          "prob": 0.425,
+          "cal_prob": 0.522,
+          "market_prob": 0.402,
+          "source": "fusion",
+          "hit_prob": 0.522
         }
       ],
-      "total_odds": 4.73,
-      "model_ev": -0.23,
-      "cal_ev": 4.04,
-      "cal_roi": 0.2903,
+      "total_odds": 4.84,
+      "model_ev": -0.22,
+      "cal_ev": 4.46,
+      "cal_roi": 0.3203,
       "market_ev": -0.43,
-      "market_roi": -0.2159,
+      "market_roi": -0.2156,
       "hit_prob_cal": 0.273,
       "recommended": true,
       "stake": 13.93,
       "n_bets": 1,
-      "potential": 65.89,
+      "potential": 67.42,
       "worst_win": 0.0,
       "note": "两场全中才赢",
       "source": "calibrated"
@@ -63,7 +63,7 @@
           "away": "赫尔辛基",
           "league": "芬超",
           "score": "1-0",
-          "prob": 0.353,
+          "prob": 0.352,
           "cal_prob": 0.099,
           "odds": 15.0
         },
@@ -73,7 +73,7 @@
           "away": "柏林联合",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.215,
+          "prob": 0.213,
           "cal_prob": 0.099,
           "odds": 31.0
         }
@@ -96,7 +96,7 @@
           "away": "海尔蒙特",
           "league": "荷乙",
           "score": "1-0",
-          "prob": 0.184,
+          "prob": 0.188,
           "cal_prob": 0.099,
           "odds": 14.5
         },
@@ -106,7 +106,7 @@
           "away": "柏林联合",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.215,
+          "prob": 0.213,
           "cal_prob": 0.099,
           "odds": 31.0
         }
@@ -129,7 +129,7 @@
           "away": "柏林联合",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.215,
+          "prob": 0.213,
           "cal_prob": 0.099,
           "odds": 31.0
         },
@@ -162,7 +162,7 @@
           "away": "赫尔辛基",
           "league": "芬超",
           "score": "1-0",
-          "prob": 0.353,
+          "prob": 0.352,
           "cal_prob": 0.099,
           "odds": 15.0
         },
@@ -172,7 +172,7 @@
           "away": "兹沃勒",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.218,
+          "prob": 0.219,
           "cal_prob": 0.099,
           "odds": 11.0
         },
@@ -182,7 +182,7 @@
           "away": "海尔蒙特",
           "league": "荷乙",
           "score": "1-0",
-          "prob": 0.184,
+          "prob": 0.188,
           "cal_prob": 0.099,
           "odds": 14.5
         }
@@ -205,7 +205,7 @@
           "away": "赫尔辛基",
           "league": "芬超",
           "score": "1-0",
-          "prob": 0.353,
+          "prob": 0.352,
           "cal_prob": 0.099,
           "odds": 15.0
         },
@@ -215,7 +215,7 @@
           "away": "兹沃勒",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.218,
+          "prob": 0.219,
           "cal_prob": 0.099,
           "odds": 11.0
         },
@@ -225,7 +225,7 @@
           "away": "海尔蒙特",
           "league": "荷乙",
           "score": "1-0",
-          "prob": 0.184,
+          "prob": 0.188,
           "cal_prob": 0.099,
           "odds": 14.5
         }

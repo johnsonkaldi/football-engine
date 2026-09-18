@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T09:28:14.615344+00:00",
+  "generated_at": "2026-09-18T11:14:30.322885+00:00",
   "parlay": {
     "n_tickets": 92,
     "n_pending": 1,
@@ -3644,8 +3644,8 @@
         "date": "2026-09-18",
         "type": "2串1",
         "stake": 13.93,
-        "potential": 65.89,
-        "total_odds": 4.73,
+        "potential": 67.42,
+        "total_odds": 4.84,
         "odds_source": null,
         "note": "待赛",
         "won": false,
@@ -3657,18 +3657,18 @@
         "return": 0.0,
         "legs": [
           {
-            "match": "2026-09-18_周五011",
-            "home": "布伦特",
-            "away": "切尔西",
-            "sel": "away",
-            "score": null,
-            "odds": 2.15,
-            "hit": null
-          },
-          {
             "match": "2026-09-18_周五009",
             "home": "蒙扎",
             "away": "萨索洛",
+            "sel": "away",
+            "score": null,
+            "odds": 2.2,
+            "hit": null
+          },
+          {
+            "match": "2026-09-18_周五011",
+            "home": "布伦特",
+            "away": "切尔西",
             "sel": "away",
             "score": null,
             "odds": 2.2,
@@ -23228,8 +23228,8 @@
             "date": "2026-09-18",
             "type": "2串1",
             "stake": 13.93,
-            "potential": 65.89,
-            "total_odds": 4.73,
+            "potential": 67.42,
+            "total_odds": 4.84,
             "odds_source": null,
             "note": "待赛",
             "won": false,
@@ -23241,18 +23241,18 @@
             "return": 0.0,
             "legs": [
               {
-                "match": "2026-09-18_周五011",
-                "home": "布伦特",
-                "away": "切尔西",
-                "sel": "away",
-                "score": null,
-                "odds": 2.15,
-                "hit": null
-              },
-              {
                 "match": "2026-09-18_周五009",
                 "home": "蒙扎",
                 "away": "萨索洛",
+                "sel": "away",
+                "score": null,
+                "odds": 2.2,
+                "hit": null
+              },
+              {
+                "match": "2026-09-18_周五011",
+                "home": "布伦特",
+                "away": "切尔西",
                 "sel": "away",
                 "score": null,
                 "odds": 2.2,
