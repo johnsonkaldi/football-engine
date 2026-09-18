@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T02:56:34.466008+00:00",
+  "generated_at": "2026-09-18T04:59:17.464759+00:00",
   "parlay": {
     "n_tickets": 92,
     "n_pending": 1,
@@ -3644,8 +3644,8 @@
         "date": "2026-09-18",
         "type": "2串1",
         "stake": 13.93,
-        "potential": 66.45,
-        "total_odds": 4.77,
+        "potential": 64.97,
+        "total_odds": 4.66,
         "odds_source": null,
         "note": "待赛",
         "won": false,
@@ -3671,7 +3671,7 @@
             "away": "萨索洛",
             "sel": "away",
             "score": null,
-            "odds": 2.25,
+            "odds": 2.2,
             "hit": null
           }
         ]
@@ -10314,8 +10314,8 @@
         "date": "2026-09-18",
         "type": "比分2串1",
         "stake": 2.0,
-        "potential": 720.0,
-        "total_odds": 360.0,
+        "potential": 840.0,
+        "total_odds": 420.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -10341,7 +10341,7 @@
             "away": "柏林联合",
             "sel": null,
             "score": "1-0",
-            "odds": 24.0,
+            "odds": 28.0,
             "hit": null
           }
         ]
@@ -10350,8 +10350,8 @@
         "date": "2026-09-18",
         "type": "比分2串1",
         "stake": 2.0,
-        "potential": 672.0,
-        "total_odds": 336.0,
+        "potential": 784.0,
+        "total_odds": 392.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -10377,7 +10377,7 @@
             "away": "柏林联合",
             "sel": null,
             "score": "1-0",
-            "odds": 24.0,
+            "odds": 28.0,
             "hit": null
           }
         ]
@@ -10386,8 +10386,8 @@
         "date": "2026-09-18",
         "type": "比分2串1",
         "stake": 2.0,
-        "potential": 552.0,
-        "total_odds": 276.0,
+        "potential": 644.0,
+        "total_odds": 322.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -10404,7 +10404,7 @@
             "away": "柏林联合",
             "sel": null,
             "score": "1-0",
-            "odds": 24.0,
+            "odds": 28.0,
             "hit": null
           },
           {
@@ -23228,8 +23228,8 @@
             "date": "2026-09-18",
             "type": "2串1",
             "stake": 13.93,
-            "potential": 66.45,
-            "total_odds": 4.77,
+            "potential": 64.97,
+            "total_odds": 4.66,
             "odds_source": null,
             "note": "待赛",
             "won": false,
@@ -23255,7 +23255,7 @@
                 "away": "萨索洛",
                 "sel": "away",
                 "score": null,
-                "odds": 2.25,
+                "odds": 2.2,
                 "hit": null
               }
             ]
@@ -23284,8 +23284,8 @@
             "date": "2026-09-18",
             "type": "比分2串1",
             "stake": 2.0,
-            "potential": 720.0,
-            "total_odds": 360.0,
+            "potential": 840.0,
+            "total_odds": 420.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -23311,7 +23311,7 @@
                 "away": "柏林联合",
                 "sel": null,
                 "score": "1-0",
-                "odds": 24.0,
+                "odds": 28.0,
                 "hit": null
               }
             ]
@@ -23320,8 +23320,8 @@
             "date": "2026-09-18",
             "type": "比分2串1",
             "stake": 2.0,
-            "potential": 672.0,
-            "total_odds": 336.0,
+            "potential": 784.0,
+            "total_odds": 392.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -23347,7 +23347,7 @@
                 "away": "柏林联合",
                 "sel": null,
                 "score": "1-0",
-                "odds": 24.0,
+                "odds": 28.0,
                 "hit": null
               }
             ]
@@ -23356,8 +23356,8 @@
             "date": "2026-09-18",
             "type": "比分2串1",
             "stake": 2.0,
-            "potential": 552.0,
-            "total_odds": 276.0,
+            "potential": 644.0,
+            "total_odds": 322.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -23374,7 +23374,7 @@
                 "away": "柏林联合",
                 "sel": null,
                 "score": "1-0",
-                "odds": 24.0,
+                "odds": 28.0,
                 "hit": null
               },
               {
