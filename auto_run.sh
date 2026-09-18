@@ -15,20 +15,23 @@ log() {
 
 log "========== 开始执行预测流水线 =========="
 
-# Step 0: 代理自愈（2026-08-31）：git 推送走 127.0.0.1:7897（Clash Verge）。
+# 代理自愈（2026-08-31，09-18 升级为可复用函数）：git 推送走 127.0.0.1:7897（Clash Verge）。
 # 代理挂掉时自动拉起 Clash Verge 并等待端口恢复，避免整轮推送静默失败。
-if ! nc -z -w 2 127.0.0.1 7897 2>/dev/null; then
+heal_proxy() {
+    if nc -z -w 2 127.0.0.1 7897 2>/dev/null; then return 0; fi
     log "⚠ 检测到代理端口 7897 不通，尝试自动启动 Clash Verge..."
     open -a "Clash Verge" 2>/dev/null || log "❌ Clash Verge 启动失败（未安装?）"
     for _i in $(seq 1 12); do
         sleep 5
         if nc -z -w 2 127.0.0.1 7897 2>/dev/null; then
             log "✅ 代理已恢复（等待 $((_i * 5))s）"
-            break
+            return 0
         fi
-        if [ "$_i" = "12" ]; then log "❌ 代理 60s 内未恢复，本轮继续（推送可能失败）"; fi
     done
-fi
+    log "❌ 代理 60s 内未恢复"
+    return 1
+}
+heal_proxy || true
 
 # 虚拟环境探测（不再硬编码 /Users/dykily/... 路径）
 PY=python3
@@ -64,7 +67,13 @@ git config http.version HTTP/1.1
 git config http.postBuffer 524288000
 for i in $(seq 1 $MAX_RETRIES); do
     log "  推送尝试 $i/$MAX_RETRIES..."
-    git pull --rebase --autostash origin main 2>&1 | tee -a "$LOG_FILE"
+    heal_proxy || log "  ⚠ 代理仍未恢复，尝试直连推送"
+    if ! git pull --rebase --autostash origin main 2>&1 | tee -a "$LOG_FILE"; then
+        git rebase --abort 2>/dev/null
+        log "  ↻ rebase 冲突，对齐远端后重试（监控数据每小时重生成，远端为准）"
+        git fetch origin main 2>&1 | tee -a "$LOG_FILE"
+        git reset --hard origin/main 2>&1 | tee -a "$LOG_FILE"
+    fi
     git push 2>&1 | tee -a "$LOG_FILE"
     if [ ${PIPESTATUS[0]} -eq 0 ]; then
         log "✅ 推送成功！"
