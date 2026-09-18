@@ -5792,10 +5792,10 @@
     "rest_days": 3
   },
   "萨普斯堡08": {
-    "elo": 1516.1,
-    "attack": 0.7467,
-    "defense": 0.8124,
-    "form": -0.3557,
+    "elo": 1481.4,
+    "attack": 0.7091,
+    "defense": 0.8387,
+    "form": -0.549,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9104,10 +9104,10 @@
     "rest_days": 3
   },
   "奥斯陆": {
-    "elo": 1508.9,
-    "attack": 0.7755,
-    "defense": 0.7915,
-    "form": -0.0501,
+    "elo": 1543.6,
+    "attack": 0.8054,
+    "defense": 0.7495,
+    "form": 0.2649,
     "injury": 0.0,
     "rest_days": 3
   },

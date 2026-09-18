@@ -1,8 +1,8 @@
 {
   "n_leagues": 39,
-  "n_matches": 782,
+  "n_matches": 783,
   "external_added": 29,
-  "generated_at": "2026-09-18T18:29:25.002667",
+  "generated_at": "2026-09-18T19:39:42.574392",
   "leagues": [
     {
       "league": "西甲",
@@ -40,11 +40,11 @@
     },
     {
       "league": "挪超",
-      "n": 48,
-      "hit_rate": 0.625,
-      "avg_odds": 1.8,
-      "roi": 0.0725,
-      "avg_confidence": 0.256,
+      "n": 49,
+      "hit_rate": 0.6122,
+      "avg_odds": 1.792,
+      "roi": 0.0506,
+      "avg_confidence": 0.2525,
       "verdict": "观望",
       "recent_n": 5,
       "recent_hits": 4,

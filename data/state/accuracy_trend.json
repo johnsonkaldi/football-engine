@@ -1,15 +1,15 @@
 {
   "generated_at": "2026-09-18",
-  "total_matches": 754,
+  "total_matches": 755,
   "date_range": [
     "2026-07-19",
     "2026-09-18"
   ],
   "overall": {
-    "hit_rate": 0.5292,
-    "brier_final": 0.5954,
-    "brier_model": 0.6209,
-    "brier_market": 0.5819,
+    "hit_rate": 0.5285,
+    "brier_final": 0.5961,
+    "brier_model": 0.621,
+    "brier_market": 0.5828,
     "brier_djyy": 0.646
   },
   "daily": [
@@ -747,21 +747,21 @@
     },
     {
       "date": "2026-09-18",
-      "n": 3,
+      "n": 4,
       "hits": 2,
-      "hit_rate": 0.6667,
-      "cum_hit_rate": 0.5292,
-      "brier_final": 0.4161,
-      "brier_model": 0.3893,
-      "brier_market": 0.4344,
+      "hit_rate": 0.5,
+      "cum_hit_rate": 0.5285,
+      "brier_final": 0.5963,
+      "brier_model": 0.4607,
+      "brier_market": 0.6142,
       "brier_djyy": null,
       "pnl": 0.0
     }
   ],
   "rolling7": {
-    "n": 110,
-    "hit_rate": 0.5545,
-    "brier_final": 0.52,
+    "n": 111,
+    "hit_rate": 0.5495,
+    "brier_final": 0.5457,
     "pnl": 197.5
   },
   "prev7": {
@@ -804,9 +804,9 @@
     },
     {
       "layer": "挪超",
-      "n": 38,
-      "hit_rate": 0.6053,
-      "brier_final": 0.5003
+      "n": 39,
+      "hit_rate": 0.5897,
+      "brier_final": 0.5166
     },
     {
       "layer": "荷甲",
@@ -1028,9 +1028,9 @@
     },
     {
       "layer": "1.0-1.5",
-      "n": 219,
-      "hit_rate": 0.7123,
-      "brier_final": 0.4754
+      "n": 220,
+      "hit_rate": 0.7091,
+      "brier_final": 0.4784
     },
     {
       "layer": "3.0+",
@@ -1048,9 +1048,9 @@
     },
     {
       "layer": "high",
-      "n": 217,
-      "hit_rate": 0.6359,
-      "brier_final": 0.5136
+      "n": 218,
+      "hit_rate": 0.633,
+      "brier_final": 0.5164
     },
     {
       "layer": "low",

@@ -73,5 +73,30 @@
     "red_home": "0",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3634954",
+    "match_no": "周五004",
+    "home_team": "萨普斯堡",
+    "away_team": "奥斯陆",
+    "home_score": 1,
+    "away_score": 3,
+    "half_home_score": 1,
+    "half_away_score": 2,
+    "league": "挪超",
+    "match_time": "2026-09-19 01:00:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 1.39,
+    "odds_draw": 4.35,
+    "odds_away": 5.55,
+    "corner_home": "11",
+    "corner_away": "1",
+    "yellow_home": "1",
+    "yellow_away": "2",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]

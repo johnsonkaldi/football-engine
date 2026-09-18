@@ -11,6 +11,51 @@
       "type": "2串1",
       "legs": [
         {
+          "match": "2026-09-19_周六028",
+          "home": "塞维利亚",
+          "away": "巴萨",
+          "league": "西甲",
+          "sel": "away",
+          "odds": 1.45,
+          "prob": 0.657,
+          "cal_prob": 0.737,
+          "market_prob": 0.657,
+          "source": "fusion",
+          "hit_prob": 0.737
+        },
+        {
+          "match": "2026-09-19_周六022",
+          "home": "斯图加特",
+          "away": "多特蒙德",
+          "league": "德甲",
+          "sel": "home",
+          "odds": 2.08,
+          "prob": 0.443,
+          "cal_prob": 0.522,
+          "market_prob": 0.426,
+          "source": "fusion",
+          "hit_prob": 0.522
+        }
+      ],
+      "total_odds": 3.02,
+      "model_ev": -0.24,
+      "cal_ev": 1.01,
+      "cal_roi": 0.1606,
+      "market_ev": -0.31,
+      "market_roi": -0.1563,
+      "hit_prob_cal": 0.385,
+      "recommended": true,
+      "stake": 6.27,
+      "n_bets": 1,
+      "potential": 18.91,
+      "worst_win": 0.0,
+      "note": "两场全中才赢",
+      "source": "calibrated"
+    },
+    {
+      "type": "2串1",
+      "legs": [
+        {
           "match": "2026-09-19_周六027",
           "home": "里昂",
           "away": "雷恩",
@@ -38,16 +83,16 @@
         }
       ],
       "total_odds": 4.22,
-      "model_ev": -0.33,
-      "cal_ev": 0.6,
+      "model_ev": -0.32,
+      "cal_ev": 0.56,
       "cal_roi": 0.1519,
       "market_ev": -0.43,
       "market_roi": -0.2157,
       "hit_prob_cal": 0.273,
       "recommended": true,
-      "stake": 3.93,
+      "stake": 3.71,
       "n_bets": 1,
-      "potential": 16.59,
+      "potential": 15.67,
       "worst_win": 0.0,
       "note": "两场全中才赢",
       "source": "calibrated"
@@ -63,55 +108,10 @@
           "sel": "away",
           "odds": 1.45,
           "prob": 0.657,
-          "cal_prob": 0.73,
+          "cal_prob": 0.737,
           "market_prob": 0.657,
           "source": "fusion",
-          "hit_prob": 0.73
-        },
-        {
-          "match": "2026-09-19_周六022",
-          "home": "斯图加特",
-          "away": "多特蒙德",
-          "league": "德甲",
-          "sel": "home",
-          "odds": 2.08,
-          "prob": 0.443,
-          "cal_prob": 0.522,
-          "market_prob": 0.426,
-          "source": "fusion",
-          "hit_prob": 0.522
-        }
-      ],
-      "total_odds": 3.02,
-      "model_ev": -0.25,
-      "cal_ev": 0.92,
-      "cal_roi": 0.1495,
-      "market_ev": -0.31,
-      "market_roi": -0.157,
-      "hit_prob_cal": 0.381,
-      "recommended": true,
-      "stake": 6.18,
-      "n_bets": 1,
-      "potential": 18.64,
-      "worst_win": 0.0,
-      "note": "两场全中才赢",
-      "source": "calibrated"
-    },
-    {
-      "type": "2串1",
-      "legs": [
-        {
-          "match": "2026-09-19_周六028",
-          "home": "塞维利亚",
-          "away": "巴萨",
-          "league": "西甲",
-          "sel": "away",
-          "odds": 1.45,
-          "prob": 0.657,
-          "cal_prob": 0.73,
-          "market_prob": 0.657,
-          "source": "fusion",
-          "hit_prob": 0.73
+          "hit_prob": 0.737
         },
         {
           "match": "2026-09-19_周六027",
@@ -129,15 +129,15 @@
       ],
       "total_odds": 2.94,
       "model_ev": -0.27,
-      "cal_ev": 0.64,
-      "cal_roi": 0.1218,
+      "cal_ev": 0.71,
+      "cal_roi": 0.1327,
       "market_ev": -0.31,
-      "market_roi": -0.1566,
-      "hit_prob_cal": 0.381,
+      "market_roi": -0.1559,
+      "hit_prob_cal": 0.385,
       "recommended": true,
-      "stake": 5.22,
+      "stake": 5.38,
       "n_bets": 1,
-      "potential": 15.37,
+      "potential": 15.84,
       "worst_win": 0.0,
       "note": "两场全中才赢",
       "source": "calibrated"
@@ -153,10 +153,10 @@
           "sel": "away",
           "odds": 1.45,
           "prob": 0.657,
-          "cal_prob": 0.73,
+          "cal_prob": 0.737,
           "market_prob": 0.657,
           "source": "fusion",
-          "hit_prob": 0.73
+          "hit_prob": 0.737
         },
         {
           "match": "2026-09-19_周六027",
@@ -186,16 +186,16 @@
         }
       ],
       "total_odds": 6.12,
-      "model_ev": -0.41,
-      "cal_ev": 0.78,
-      "cal_roi": 0.2187,
+      "model_ev": -0.4,
+      "cal_ev": 0.82,
+      "cal_roi": 0.2306,
       "market_ev": -0.51,
-      "market_roi": -0.2533,
-      "hit_prob_cal": 0.199,
+      "market_roi": -0.2526,
+      "hit_prob_cal": 0.201,
       "recommended": true,
-      "stake": 3.56,
+      "stake": 3.54,
       "n_bets": 1,
-      "potential": 21.8,
+      "potential": 21.67,
       "worst_win": 0.0,
       "note": "三场全中才赢",
       "source": "calibrated"
@@ -211,10 +211,10 @@
           "sel": "away",
           "odds": 1.45,
           "prob": 0.657,
-          "cal_prob": 0.73,
+          "cal_prob": 0.737,
           "market_prob": 0.657,
           "source": "fusion",
-          "hit_prob": 0.73
+          "hit_prob": 0.737
         },
         {
           "match": "2026-09-19_周六027",
@@ -245,15 +245,15 @@
       ],
       "total_odds": 4.08,
       "model_ev": null,
-      "cal_ev": 0.7,
-      "cal_roi": 0.1605,
-      "market_ev": -1.57,
-      "market_roi": -0.1957,
-      "hit_prob_cal": 0.199,
+      "cal_ev": 0.73,
+      "cal_roi": 0.169,
+      "market_ev": -1.56,
+      "market_roi": -0.1951,
+      "hit_prob_cal": 0.201,
       "recommended": true,
-      "stake": 4.35,
+      "stake": 4.32,
       "n_bets": 4,
-      "potential": 17.73,
+      "potential": 17.61,
       "worst_win": 5.89,
       "note": "容错：错 1 场仍中 1 注 2串1（回 ¥6），全中 ¥33",
       "source": "calibrated"
@@ -269,8 +269,8 @@
           "away": "多特蒙德",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.242,
-          "cal_prob": 0.0991,
+          "prob": 0.244,
+          "cal_prob": 0.099,
           "odds": 17.0
         },
         {
@@ -279,8 +279,8 @@
           "away": "SBV精英",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.232,
-          "cal_prob": 0.0991,
+          "prob": 0.237,
+          "cal_prob": 0.099,
           "odds": 13.0
         }
       ],
@@ -291,7 +291,7 @@
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 221 倍 = EV +117%）"
+      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 221 倍 = EV +116%）"
     },
     {
       "type": "比分2串1",
@@ -302,8 +302,8 @@
           "away": "国际米兰",
           "league": "意甲",
           "score": "1-0",
-          "prob": 0.205,
-          "cal_prob": 0.0991,
+          "prob": 0.204,
+          "cal_prob": 0.099,
           "odds": 11.0
         },
         {
@@ -312,8 +312,8 @@
           "away": "多特蒙德",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.242,
-          "cal_prob": 0.0991,
+          "prob": 0.244,
+          "cal_prob": 0.099,
           "odds": 17.0
         }
       ],
@@ -324,7 +324,7 @@
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 187 倍 = EV +84%）"
+      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 187 倍 = EV +83%）"
     },
     {
       "type": "比分2串1",
@@ -335,8 +335,8 @@
           "away": "多特蒙德",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.242,
-          "cal_prob": 0.0991,
+          "prob": 0.244,
+          "cal_prob": 0.099,
           "odds": 17.0
         },
         {
@@ -345,8 +345,8 @@
           "away": "雷恩",
           "league": "法甲",
           "score": "1-0",
-          "prob": 0.238,
-          "cal_prob": 0.0991,
+          "prob": 0.245,
+          "cal_prob": 0.099,
           "odds": 11.0
         }
       ],
@@ -357,7 +357,7 @@
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 187 倍 = EV +84%）"
+      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 187 倍 = EV +83%）"
     },
     {
       "type": "比分3串1",
@@ -368,8 +368,8 @@
           "away": "国际米兰",
           "league": "意甲",
           "score": "1-0",
-          "prob": 0.205,
-          "cal_prob": 0.0991,
+          "prob": 0.204,
+          "cal_prob": 0.099,
           "odds": 11.0
         },
         {
@@ -378,8 +378,8 @@
           "away": "多特蒙德",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.242,
-          "cal_prob": 0.0991,
+          "prob": 0.244,
+          "cal_prob": 0.099,
           "odds": 17.0
         },
         {
@@ -388,8 +388,8 @@
           "away": "SBV精英",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.232,
-          "cal_prob": 0.0991,
+          "prob": 0.237,
+          "cal_prob": 0.099,
           "odds": 13.0
         }
       ],
@@ -411,8 +411,8 @@
           "away": "国际米兰",
           "league": "意甲",
           "score": "1-0",
-          "prob": 0.205,
-          "cal_prob": 0.0991,
+          "prob": 0.204,
+          "cal_prob": 0.099,
           "odds": 11.0
         },
         {
@@ -421,8 +421,8 @@
           "away": "多特蒙德",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.242,
-          "cal_prob": 0.0991,
+          "prob": 0.244,
+          "cal_prob": 0.099,
           "odds": 17.0
         },
         {
@@ -431,8 +431,8 @@
           "away": "SBV精英",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.232,
-          "cal_prob": 0.0991,
+          "prob": 0.237,
+          "cal_prob": 0.099,
           "odds": 13.0
         }
       ],
@@ -447,16 +447,16 @@
     }
   ],
   "parlay_calibration": {
-    "overall": 0.5293,
-    "n": 752,
+    "overall": 0.5292,
+    "n": 754,
     "table": {
       "0.35": 0.418,
       "0.4": 0.5223,
       "0.45": 0.5,
-      "0.5": 0.514,
+      "0.5": 0.5093,
       "0.55": 0.4348,
       "0.6": 0.6731,
-      "0.65": 0.7297,
+      "0.65": 0.7368,
       "0.7": 0.7759
     },
     "note": "串关 EV 用账本校准命中率（模型概率高估，0.55-0.60 段仅 31.6% 命中）；推荐=校准EV>0"

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T18:29:25.107758+00:00",
+  "generated_at": "2026-09-18T19:39:42.679272+00:00",
   "parlay": {
     "n_tickets": 97,
     "n_pending": 6,
@@ -7,8 +7,8 @@
     "n_won": 25,
     "hit_rate": 0.2747,
     "stake": 488.53,
-    "stake_committed": 525.7,
-    "stake_pending": 37.17,
+    "stake_committed": 525.68,
+    "stake_pending": 37.15,
     "return": 579.92,
     "roi": 0.1871,
     "avg_odds": 5.8,
@@ -3679,44 +3679,8 @@
       {
         "date": "2026-09-19",
         "type": "2串1",
-        "stake": 3.93,
-        "potential": 16.59,
-        "total_odds": 4.22,
-        "odds_source": null,
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-09-19_周六027",
-            "home": "里昂",
-            "away": "雷恩",
-            "sel": "home",
-            "score": null,
-            "odds": 2.03,
-            "hit": null
-          },
-          {
-            "match": "2026-09-19_周六022",
-            "home": "斯图加特",
-            "away": "多特蒙德",
-            "sel": "home",
-            "score": null,
-            "odds": 2.08,
-            "hit": null
-          }
-        ]
-      },
-      {
-        "date": "2026-09-19",
-        "type": "2串1",
-        "stake": 6.18,
-        "potential": 18.64,
+        "stake": 6.27,
+        "potential": 18.91,
         "total_odds": 3.02,
         "odds_source": null,
         "note": "待赛",
@@ -3751,8 +3715,44 @@
       {
         "date": "2026-09-19",
         "type": "2串1",
-        "stake": 5.22,
-        "potential": 15.37,
+        "stake": 3.71,
+        "potential": 15.67,
+        "total_odds": 4.22,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-09-19_周六027",
+            "home": "里昂",
+            "away": "雷恩",
+            "sel": "home",
+            "score": null,
+            "odds": 2.03,
+            "hit": null
+          },
+          {
+            "match": "2026-09-19_周六022",
+            "home": "斯图加特",
+            "away": "多特蒙德",
+            "sel": "home",
+            "score": null,
+            "odds": 2.08,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-09-19",
+        "type": "2串1",
+        "stake": 5.38,
+        "potential": 15.84,
         "total_odds": 2.94,
         "odds_source": null,
         "note": "待赛",
@@ -3787,8 +3787,8 @@
       {
         "date": "2026-09-19",
         "type": "3串1",
-        "stake": 3.56,
-        "potential": 21.8,
+        "stake": 3.54,
+        "potential": 21.67,
         "total_odds": 6.12,
         "odds_source": null,
         "note": "待赛",
@@ -3833,8 +3833,8 @@
       {
         "date": "2026-09-19",
         "type": "3串4",
-        "stake": 4.35,
-        "potential": 17.73,
+        "stake": 4.32,
+        "potential": 17.61,
         "total_odds": 4.08,
         "odds_source": null,
         "note": "待赛",
@@ -23892,8 +23892,8 @@
           "n_won": 0,
           "hit_rate": null,
           "stake": 0,
-          "stake_committed": 23.24,
-          "stake_pending": 23.24,
+          "stake_committed": 23.22,
+          "stake_pending": 23.22,
           "return": 0,
           "roi": null,
           "avg_odds": null,
@@ -23903,44 +23903,8 @@
           {
             "date": "2026-09-19",
             "type": "2串1",
-            "stake": 3.93,
-            "potential": 16.59,
-            "total_odds": 4.22,
-            "odds_source": null,
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-09-19_周六027",
-                "home": "里昂",
-                "away": "雷恩",
-                "sel": "home",
-                "score": null,
-                "odds": 2.03,
-                "hit": null
-              },
-              {
-                "match": "2026-09-19_周六022",
-                "home": "斯图加特",
-                "away": "多特蒙德",
-                "sel": "home",
-                "score": null,
-                "odds": 2.08,
-                "hit": null
-              }
-            ]
-          },
-          {
-            "date": "2026-09-19",
-            "type": "2串1",
-            "stake": 6.18,
-            "potential": 18.64,
+            "stake": 6.27,
+            "potential": 18.91,
             "total_odds": 3.02,
             "odds_source": null,
             "note": "待赛",
@@ -23975,8 +23939,44 @@
           {
             "date": "2026-09-19",
             "type": "2串1",
-            "stake": 5.22,
-            "potential": 15.37,
+            "stake": 3.71,
+            "potential": 15.67,
+            "total_odds": 4.22,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-09-19_周六027",
+                "home": "里昂",
+                "away": "雷恩",
+                "sel": "home",
+                "score": null,
+                "odds": 2.03,
+                "hit": null
+              },
+              {
+                "match": "2026-09-19_周六022",
+                "home": "斯图加特",
+                "away": "多特蒙德",
+                "sel": "home",
+                "score": null,
+                "odds": 2.08,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-09-19",
+            "type": "2串1",
+            "stake": 5.38,
+            "potential": 15.84,
             "total_odds": 2.94,
             "odds_source": null,
             "note": "待赛",
@@ -24011,8 +24011,8 @@
           {
             "date": "2026-09-19",
             "type": "3串1",
-            "stake": 3.56,
-            "potential": 21.8,
+            "stake": 3.54,
+            "potential": 21.67,
             "total_odds": 6.12,
             "odds_source": null,
             "note": "待赛",
@@ -24057,8 +24057,8 @@
           {
             "date": "2026-09-19",
             "type": "3串4",
-            "stake": 4.35,
-            "potential": 17.73,
+            "stake": 4.32,
+            "potential": 17.61,
             "total_odds": 4.08,
             "odds_source": null,
             "note": "待赛",

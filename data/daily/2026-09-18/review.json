@@ -1,13 +1,13 @@
 {
   "date": "2026-09-18",
-  "n_matches": 3,
-  "hit_rate": 0.6667,
+  "n_matches": 4,
+  "hit_rate": 0.5,
   "hits": 2,
   "source_brier": {
-    "model": 0.3893,
-    "market": 0.4344,
+    "model": 0.4607,
+    "market": 0.6142,
     "djyy": null,
-    "final": 0.4161
+    "final": 0.5963
   },
   "by_league": {
     "亚运男足": {
@@ -27,14 +27,20 @@
       "hit_rate": 1.0,
       "wilson_lower": 0.2065,
       "avg_brier": 0.1533
+    },
+    "挪超": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 1.1371
     }
   },
   "by_confidence_tier": {
     "high": {
-      "n": 2,
-      "hit_rate": 1.0,
-      "wilson_lower": 0.3424,
-      "avg_brier": 0.1802
+      "n": 3,
+      "hit_rate": 0.6667,
+      "wilson_lower": 0.2077,
+      "avg_brier": 0.4992
     },
     "mid": {
       "n": 1,
@@ -45,10 +51,10 @@
   },
   "by_odds_band": {
     "1.0-1.5": {
-      "n": 2,
-      "hit_rate": 1.0,
-      "wilson_lower": 0.3424,
-      "avg_brier": 0.1802
+      "n": 3,
+      "hit_rate": 0.6667,
+      "wilson_lower": 0.2077,
+      "avg_brier": 0.4992
     },
     "1.5-2.0": {
       "n": 1,
@@ -79,15 +85,15 @@
     }
   },
   "market_signal_stats": {
-    "n": 3,
+    "n": 4,
     "hits": 1
   },
   "layered": {
-    "log_loss_final": 0.7469,
-    "rps_final": 0.1005,
-    "rps_market": 0.1055,
+    "log_loss_final": 1.0102,
+    "rps_final": 0.2124,
+    "rps_market": 0.2181,
     "goal_framework": {
-      "n": 3,
+      "n": 4,
       "hits": 0
     },
     "prob_bands": {
@@ -96,8 +102,8 @@
         "hit_rate": 0.0
       },
       "60%+": {
-        "n": 2,
-        "hit_rate": 1.0
+        "n": 3,
+        "hit_rate": 0.6667
       }
     },
     "freshness_groups": {
@@ -106,13 +112,13 @@
         "hit_rate": 0.0
       },
       "watch": {
-        "n": 2,
-        "hit_rate": 1.0
+        "n": 3,
+        "hit_rate": 0.6667
       }
     }
   },
   "biases": [],
   "total_pnl": 0.0,
-  "generated_at": "2026-09-18T18:29:02.065768",
-  "sha256": "155a63a8ad3452ea83f2e74b57be42a6"
+  "generated_at": "2026-09-18T19:39:19.994618",
+  "sha256": "d680a2a61b6f6df3ccc68358968d51ba"
 }
