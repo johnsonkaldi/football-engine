@@ -1,0 +1,464 @@
+{
+  "stable": [],
+  "value": [],
+  "lottery": [],
+  "total_stake": 0,
+  "expected_roi": 0.0,
+  "bankroll": 3870.7891,
+  "breaker_multiplier": 1.0,
+  "parlay": [
+    {
+      "type": "2串1",
+      "legs": [
+        {
+          "match": "2026-09-20_周日030",
+          "home": "巴拉纳竞技",
+          "away": "巴伊亚",
+          "league": "巴甲",
+          "sel": "draw",
+          "odds": 3.3,
+          "prob": 0.502,
+          "cal_prob": 0.509,
+          "market_prob": 0.269,
+          "source": "fusion",
+          "hit_prob": 0.509
+        },
+        {
+          "match": "2026-09-20_周日004",
+          "home": "仁川联",
+          "away": "大田市民",
+          "league": "K1联赛",
+          "sel": "away",
+          "odds": 2.2,
+          "prob": 0.425,
+          "cal_prob": 0.516,
+          "market_prob": 0.402,
+          "source": "fusion",
+          "hit_prob": 0.516
+        }
+      ],
+      "total_odds": 7.26,
+      "model_ev": 1.1,
+      "cal_ev": 5.96,
+      "cal_roi": 0.9061,
+      "market_ev": -0.43,
+      "market_roi": -0.2156,
+      "hit_prob_cal": 0.263,
+      "recommended": true,
+      "stake": 6.58,
+      "n_bets": 1,
+      "potential": 47.77,
+      "worst_win": 0.0,
+      "note": "两场全中才赢",
+      "source": "calibrated"
+    },
+    {
+      "type": "2串1",
+      "legs": [
+        {
+          "match": "2026-09-20_周日030",
+          "home": "巴拉纳竞技",
+          "away": "巴伊亚",
+          "league": "巴甲",
+          "sel": "draw",
+          "odds": 3.3,
+          "prob": 0.502,
+          "cal_prob": 0.509,
+          "market_prob": 0.269,
+          "source": "fusion",
+          "hit_prob": 0.509
+        },
+        {
+          "match": "2026-09-20_周日006",
+          "home": "佛罗伦萨",
+          "away": "那不勒斯",
+          "league": "意甲",
+          "sel": "away",
+          "odds": 2.06,
+          "prob": 0.447,
+          "cal_prob": 0.516,
+          "market_prob": 0.43,
+          "source": "fusion",
+          "hit_prob": 0.516
+        }
+      ],
+      "total_odds": 6.8,
+      "model_ev": 1.05,
+      "cal_ev": 4.83,
+      "cal_roi": 0.7848,
+      "market_ev": -0.43,
+      "market_roi": -0.2152,
+      "hit_prob_cal": 0.263,
+      "recommended": true,
+      "stake": 6.16,
+      "n_bets": 1,
+      "potential": 41.88,
+      "worst_win": 0.0,
+      "note": "两场全中才赢",
+      "source": "calibrated"
+    },
+    {
+      "type": "2串1",
+      "legs": [
+        {
+          "match": "2026-09-20_周日006",
+          "home": "佛罗伦萨",
+          "away": "那不勒斯",
+          "league": "意甲",
+          "sel": "away",
+          "odds": 2.06,
+          "prob": 0.447,
+          "cal_prob": 0.516,
+          "market_prob": 0.43,
+          "source": "fusion",
+          "hit_prob": 0.516
+        },
+        {
+          "match": "2026-09-20_周日004",
+          "home": "仁川联",
+          "away": "大田市民",
+          "league": "K1联赛",
+          "sel": "away",
+          "odds": 2.2,
+          "prob": 0.425,
+          "cal_prob": 0.516,
+          "market_prob": 0.402,
+          "source": "fusion",
+          "hit_prob": 0.516
+        }
+      ],
+      "total_odds": 4.53,
+      "model_ev": -0.28,
+      "cal_ev": 0.54,
+      "cal_roi": 0.2053,
+      "market_ev": -0.43,
+      "market_roi": -0.216,
+      "hit_prob_cal": 0.266,
+      "recommended": true,
+      "stake": 2.64,
+      "n_bets": 1,
+      "potential": 11.96,
+      "worst_win": 0.0,
+      "note": "两场全中才赢",
+      "source": "calibrated"
+    },
+    {
+      "type": "3串1",
+      "legs": [
+        {
+          "match": "2026-09-20_周日030",
+          "home": "巴拉纳竞技",
+          "away": "巴伊亚",
+          "league": "巴甲",
+          "sel": "draw",
+          "odds": 3.3,
+          "prob": 0.502,
+          "cal_prob": 0.509,
+          "market_prob": 0.269,
+          "source": "fusion",
+          "hit_prob": 0.509
+        },
+        {
+          "match": "2026-09-20_周日006",
+          "home": "佛罗伦萨",
+          "away": "那不勒斯",
+          "league": "意甲",
+          "sel": "away",
+          "odds": 2.06,
+          "prob": 0.447,
+          "cal_prob": 0.516,
+          "market_prob": 0.43,
+          "source": "fusion",
+          "hit_prob": 0.516
+        },
+        {
+          "match": "2026-09-20_周日004",
+          "home": "仁川联",
+          "away": "大田市民",
+          "league": "K1联赛",
+          "sel": "away",
+          "odds": 2.2,
+          "prob": 0.425,
+          "cal_prob": 0.516,
+          "market_prob": 0.402,
+          "source": "fusion",
+          "hit_prob": 0.516
+        }
+      ],
+      "total_odds": 14.96,
+      "model_ev": 0.85,
+      "cal_ev": 3.42,
+      "cal_roi": 1.0249,
+      "market_ev": -0.61,
+      "market_roi": -0.3053,
+      "hit_prob_cal": 0.135,
+      "recommended": true,
+      "stake": 3.34,
+      "n_bets": 1,
+      "potential": 49.95,
+      "worst_win": 0.0,
+      "note": "三场全中才赢",
+      "source": "calibrated"
+    },
+    {
+      "type": "3串4",
+      "legs": [
+        {
+          "match": "2026-09-20_周日030",
+          "home": "巴拉纳竞技",
+          "away": "巴伊亚",
+          "league": "巴甲",
+          "sel": "draw",
+          "odds": 3.3,
+          "prob": 0.502,
+          "cal_prob": 0.509,
+          "market_prob": 0.269,
+          "source": "fusion",
+          "hit_prob": 0.509
+        },
+        {
+          "match": "2026-09-20_周日006",
+          "home": "佛罗伦萨",
+          "away": "那不勒斯",
+          "league": "意甲",
+          "sel": "away",
+          "odds": 2.06,
+          "prob": 0.447,
+          "cal_prob": 0.516,
+          "market_prob": 0.43,
+          "source": "fusion",
+          "hit_prob": 0.516
+        },
+        {
+          "match": "2026-09-20_周日004",
+          "home": "仁川联",
+          "away": "大田市民",
+          "league": "K1联赛",
+          "sel": "away",
+          "odds": 2.2,
+          "prob": 0.425,
+          "cal_prob": 0.516,
+          "market_prob": 0.402,
+          "source": "fusion",
+          "hit_prob": 0.516
+        }
+      ],
+      "total_odds": 8.39,
+      "model_ev": null,
+      "cal_ev": 3.29,
+      "cal_roi": 0.7302,
+      "market_ev": -1.9,
+      "market_roi": -0.238,
+      "hit_prob_cal": 0.135,
+      "recommended": true,
+      "stake": 4.5,
+      "n_bets": 4,
+      "potential": 37.74,
+      "worst_win": 9.06,
+      "note": "容错：错 1 场仍中 1 注 2串1（回 ¥9），全中 ¥67",
+      "source": "calibrated"
+    }
+  ],
+  "score_parlay": [
+    {
+      "type": "比分2串1",
+      "legs": [
+        {
+          "match": "2026-09-20_周日005",
+          "home": "吉尔吉亚",
+          "away": "日本亚",
+          "league": "亚运男足",
+          "score": "1-0",
+          "prob": 0.184,
+          "cal_prob": 0.0989,
+          "odds": 40.0
+        },
+        {
+          "match": "2026-09-20_周日015",
+          "home": "勒沃库森",
+          "away": "莱红牛",
+          "league": "德甲",
+          "score": "1-0",
+          "prob": 0.203,
+          "cal_prob": 0.0989,
+          "odds": 17.0
+        }
+      ],
+      "total_odds": 680.0,
+      "hit_prob": 0.0098,
+      "stake": 2.0,
+      "potential": 1360.0,
+      "worst_win": 0.0,
+      "n_bets": 1,
+      "odds_source": "official",
+      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 680 倍 = EV +565%）"
+    },
+    {
+      "type": "比分2串1",
+      "legs": [
+        {
+          "match": "2026-09-20_周日005",
+          "home": "吉尔吉亚",
+          "away": "日本亚",
+          "league": "亚运男足",
+          "score": "1-0",
+          "prob": 0.184,
+          "cal_prob": 0.0989,
+          "odds": 40.0
+        },
+        {
+          "match": "2026-09-20_周日009",
+          "home": "特温特",
+          "away": "埃因霍温",
+          "league": "荷甲",
+          "score": "0-1",
+          "prob": 0.265,
+          "cal_prob": 0.068,
+          "odds": 19.0
+        }
+      ],
+      "total_odds": 760.0,
+      "hit_prob": 0.0067,
+      "stake": 2.0,
+      "potential": 1520.0,
+      "worst_win": 0.0,
+      "n_bets": 1,
+      "odds_source": "official",
+      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 760 倍 = EV +411%）"
+    },
+    {
+      "type": "比分2串1",
+      "legs": [
+        {
+          "match": "2026-09-20_周日005",
+          "home": "吉尔吉亚",
+          "away": "日本亚",
+          "league": "亚运男足",
+          "score": "1-0",
+          "prob": 0.184,
+          "cal_prob": 0.0989,
+          "odds": 40.0
+        },
+        {
+          "match": "2026-09-20_周日018",
+          "home": "维京",
+          "away": "利勒斯特伦",
+          "league": "挪超",
+          "score": "1-0",
+          "prob": 0.341,
+          "cal_prob": 0.0989,
+          "odds": 12.0
+        }
+      ],
+      "total_odds": 480.0,
+      "hit_prob": 0.0098,
+      "stake": 2.0,
+      "potential": 960.0,
+      "worst_win": 0.0,
+      "n_bets": 1,
+      "odds_source": "official",
+      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 480 倍 = EV +370%）"
+    },
+    {
+      "type": "比分3串1",
+      "legs": [
+        {
+          "match": "2026-09-20_周日005",
+          "home": "吉尔吉亚",
+          "away": "日本亚",
+          "league": "亚运男足",
+          "score": "1-0",
+          "prob": 0.184,
+          "cal_prob": 0.0989,
+          "odds": 40.0
+        },
+        {
+          "match": "2026-09-20_周日015",
+          "home": "勒沃库森",
+          "away": "莱红牛",
+          "league": "德甲",
+          "score": "1-0",
+          "prob": 0.203,
+          "cal_prob": 0.0989,
+          "odds": 17.0
+        },
+        {
+          "match": "2026-09-20_周日018",
+          "home": "维京",
+          "away": "利勒斯特伦",
+          "league": "挪超",
+          "score": "1-0",
+          "prob": 0.341,
+          "cal_prob": 0.0989,
+          "odds": 12.0
+        }
+      ],
+      "total_odds": 8160.0,
+      "hit_prob": 0.001,
+      "stake": 2.0,
+      "potential": 16320.0,
+      "worst_win": 0.0,
+      "n_bets": 1,
+      "odds_source": "official",
+      "note": "三场比分全中才赢（赔率 8160 倍，校准命中 0.10%）"
+    },
+    {
+      "type": "比分3串4(容错)",
+      "legs": [
+        {
+          "match": "2026-09-20_周日005",
+          "home": "吉尔吉亚",
+          "away": "日本亚",
+          "league": "亚运男足",
+          "score": "1-0",
+          "prob": 0.184,
+          "cal_prob": 0.0989,
+          "odds": 40.0
+        },
+        {
+          "match": "2026-09-20_周日015",
+          "home": "勒沃库森",
+          "away": "莱红牛",
+          "league": "德甲",
+          "score": "1-0",
+          "prob": 0.203,
+          "cal_prob": 0.0989,
+          "odds": 17.0
+        },
+        {
+          "match": "2026-09-20_周日018",
+          "home": "维京",
+          "away": "利勒斯特伦",
+          "league": "挪超",
+          "score": "1-0",
+          "prob": 0.341,
+          "cal_prob": 0.0989,
+          "odds": 12.0
+        }
+      ],
+      "total_odds": 8160.0,
+      "hit_prob": 0.001,
+      "stake": 8.0,
+      "potential": 19048.0,
+      "worst_win": 1360.0,
+      "n_bets": 4,
+      "odds_source": "official",
+      "note": "3场出4注（3×2串1+1×3串1）错1场仍中1注2串1≈¥1360，全中≈¥19048"
+    }
+  ],
+  "parlay_calibration": {
+    "overall": 0.5281,
+    "n": 765,
+    "table": {
+      "0.35": 0.418,
+      "0.4": 0.5157,
+      "0.45": 0.4966,
+      "0.5": 0.5091,
+      "0.55": 0.4444,
+      "0.6": 0.6604,
+      "0.65": 0.7436,
+      "0.7": 0.7797
+    },
+    "note": "串关 EV 用账本校准命中率（模型概率高估，0.55-0.60 段仅 31.6% 命中）；推荐=校准EV>0"
+  }
+}
