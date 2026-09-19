@@ -1,54 +1,54 @@
 {
-  "total_matches": 791,
+  "total_matches": 795,
   "date_range": [
     "2026-07-19",
     "2026-09-19"
   ],
   "metrics": {
-    "brier": 0.5975,
-    "weighted_brier": 0.5955,
-    "rps": 0.2049,
-    "weighted_rps": 0.2043,
-    "log_loss": 1.0009,
-    "hit_rate": 0.5284,
-    "ece": 0.0938
+    "brier": 0.5971,
+    "weighted_brier": 0.5952,
+    "rps": 0.2047,
+    "weighted_rps": 0.2041,
+    "log_loss": 1.0003,
+    "hit_rate": 0.5283,
+    "ece": 0.0935
   },
   "draw_analysis": {
-    "actual_draws": 198,
+    "actual_draws": 199,
     "actual_draw_rate": 0.2503,
-    "predicted_draws": 24,
-    "predicted_draw_rate": 0.0303,
+    "predicted_draws": 25,
+    "predicted_draw_rate": 0.0314,
     "max_draw_prob": 0.5025,
-    "avg_draw_prob": 0.2609,
-    "avg_market_draw": 0.2435,
-    "market_high_draw_n": 153,
+    "avg_draw_prob": 0.2611,
+    "avg_market_draw": 0.2436,
+    "market_high_draw_n": 154,
     "market_high_draw_actual": 50,
-    "market_high_draw_rate": 0.3268
+    "market_high_draw_rate": 0.3247
   },
   "strategy_comparison": {
     "model": {
-      "hit_rate": 0.5247,
-      "n": 791
+      "hit_rate": 0.5245,
+      "n": 795
     },
     "market": {
-      "hit_rate": 0.5388,
-      "n": 696
+      "hit_rate": 0.5401,
+      "n": 698
     },
     "hybrid_v2": {
-      "hit_rate": 0.4899,
-      "n": 696
+      "hit_rate": 0.49,
+      "n": 698
     },
     "market_d28": {
       "hit_rate": 0.4928,
-      "n": 696
+      "n": 698
     }
   },
   "by_league": {
     "西甲": {
-      "n": 63,
-      "hit_rate": 0.5397,
-      "brier": 0.5796,
-      "rps": 0.2003
+      "n": 64,
+      "hit_rate": 0.5469,
+      "brier": 0.5733,
+      "rps": 0.1982
     },
     "欧冠": {
       "n": 51,
@@ -99,10 +99,10 @@
       "rps": 0.2461
     },
     "葡超": {
-      "n": 37,
-      "hit_rate": 0.5946,
-      "brier": 0.5211,
-      "rps": 0.1608
+      "n": 38,
+      "hit_rate": 0.5789,
+      "brier": 0.5273,
+      "rps": 0.1601
     },
     "德甲": {
       "n": 33,
@@ -129,22 +129,22 @@
       "rps": 0.199
     },
     "巴甲": {
+      "n": 28,
+      "hit_rate": 0.25,
+      "brier": 0.6793,
+      "rps": 0.1928
+    },
+    "法甲": {
       "n": 27,
-      "hit_rate": 0.2593,
-      "brier": 0.6766,
-      "rps": 0.1907
+      "hit_rate": 0.6296,
+      "brier": 0.5935,
+      "rps": 0.2199
     },
     "沙职": {
       "n": 26,
       "hit_rate": 0.7308,
       "brier": 0.4849,
       "rps": 0.1876
-    },
-    "法甲": {
-      "n": 26,
-      "hit_rate": 0.6154,
-      "brier": 0.5994,
-      "rps": 0.221
     },
     "解放者杯": {
       "n": 16,

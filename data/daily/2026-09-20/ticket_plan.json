@@ -18,10 +18,10 @@
           "sel": "draw",
           "odds": 3.3,
           "prob": 0.502,
-          "cal_prob": 0.5,
+          "cal_prob": 0.504,
           "market_prob": 0.269,
           "source": "fusion",
-          "hit_prob": 0.5
+          "hit_prob": 0.504
         },
         {
           "match": "2026-09-20_周日005",
@@ -29,25 +29,25 @@
           "away": "日本亚",
           "league": "亚运男足",
           "sel": "home",
-          "odds": 2.31,
+          "odds": 2.3,
           "prob": 0.413,
-          "cal_prob": 0.509,
-          "market_prob": 0.413,
+          "cal_prob": 0.506,
+          "market_prob": 0.414,
           "source": "fusion",
-          "hit_prob": 0.509
+          "hit_prob": 0.506
         }
       ],
-      "total_odds": 7.62,
-      "model_ev": 1.16,
-      "cal_ev": 5.86,
-      "cal_roi": 0.9404,
+      "total_odds": 7.59,
+      "model_ev": 1.15,
+      "cal_ev": 5.9,
+      "cal_roi": 0.9372,
       "market_ev": -0.31,
-      "market_roi": -0.1553,
+      "market_roi": -0.1562,
       "hit_prob_cal": 0.255,
       "recommended": true,
-      "stake": 6.23,
+      "stake": 6.3,
       "n_bets": 1,
-      "potential": 47.49,
+      "potential": 47.82,
       "worst_win": 0.0,
       "note": "两场全中才赢",
       "source": "calibrated"
@@ -63,10 +63,10 @@
           "sel": "draw",
           "odds": 3.3,
           "prob": 0.502,
-          "cal_prob": 0.5,
+          "cal_prob": 0.504,
           "market_prob": 0.269,
           "source": "fusion",
-          "hit_prob": 0.5
+          "hit_prob": 0.504
         },
         {
           "match": "2026-09-20_周日004",
@@ -76,23 +76,23 @@
           "sel": "away",
           "odds": 2.2,
           "prob": 0.425,
-          "cal_prob": 0.509,
+          "cal_prob": 0.506,
           "market_prob": 0.402,
           "source": "fusion",
-          "hit_prob": 0.509
+          "hit_prob": 0.506
         }
       ],
       "total_odds": 7.26,
       "model_ev": 1.1,
-      "cal_ev": 5.04,
-      "cal_roi": 0.848,
+      "cal_ev": 5.14,
+      "cal_roi": 0.8529,
       "market_ev": -0.43,
       "market_roi": -0.2156,
       "hit_prob_cal": 0.255,
       "recommended": true,
-      "stake": 5.94,
+      "stake": 6.03,
       "n_bets": 1,
-      "potential": 43.12,
+      "potential": 43.78,
       "worst_win": 0.0,
       "note": "两场全中才赢",
       "source": "calibrated"
@@ -108,10 +108,10 @@
           "sel": "away",
           "odds": 2.2,
           "prob": 0.425,
-          "cal_prob": 0.509,
+          "cal_prob": 0.506,
           "market_prob": 0.402,
           "source": "fusion",
-          "hit_prob": 0.509
+          "hit_prob": 0.506
         },
         {
           "match": "2026-09-20_周日005",
@@ -119,25 +119,25 @@
           "away": "日本亚",
           "league": "亚运男足",
           "sel": "home",
-          "odds": 2.31,
+          "odds": 2.3,
           "prob": 0.413,
-          "cal_prob": 0.509,
-          "market_prob": 0.413,
+          "cal_prob": 0.506,
+          "market_prob": 0.414,
           "source": "fusion",
-          "hit_prob": 0.509
+          "hit_prob": 0.506
         }
       ],
-      "total_odds": 5.08,
+      "total_odds": 5.06,
       "model_ev": -0.22,
-      "cal_ev": 1.08,
-      "cal_roi": 0.3172,
+      "cal_ev": 0.95,
+      "cal_roi": 0.2955,
       "market_ev": -0.31,
-      "market_roi": -0.1561,
-      "hit_prob_cal": 0.259,
+      "market_roi": -0.157,
+      "hit_prob_cal": 0.256,
       "recommended": true,
-      "stake": 3.41,
+      "stake": 3.22,
       "n_bets": 1,
-      "potential": 17.33,
+      "potential": 16.29,
       "worst_win": 0.0,
       "note": "两场全中才赢",
       "source": "calibrated"
@@ -153,10 +153,10 @@
           "sel": "draw",
           "odds": 3.3,
           "prob": 0.502,
-          "cal_prob": 0.5,
+          "cal_prob": 0.504,
           "market_prob": 0.269,
           "source": "fusion",
-          "hit_prob": 0.5
+          "hit_prob": 0.504
         },
         {
           "match": "2026-09-20_周日004",
@@ -166,10 +166,10 @@
           "sel": "away",
           "odds": 2.2,
           "prob": 0.425,
-          "cal_prob": 0.509,
+          "cal_prob": 0.506,
           "market_prob": 0.402,
           "source": "fusion",
-          "hit_prob": 0.509
+          "hit_prob": 0.506
         },
         {
           "match": "2026-09-20_周日005",
@@ -177,25 +177,25 @@
           "away": "日本亚",
           "league": "亚运男足",
           "sel": "home",
-          "odds": 2.31,
+          "odds": 2.3,
           "prob": 0.413,
-          "cal_prob": 0.509,
-          "market_prob": 0.413,
+          "cal_prob": 0.506,
+          "market_prob": 0.414,
           "source": "fusion",
-          "hit_prob": 0.509
+          "hit_prob": 0.506
         }
       ],
-      "total_odds": 16.77,
-      "model_ev": 0.96,
-      "cal_ev": 3.83,
-      "cal_roi": 1.1733,
-      "market_ev": -0.5,
-      "market_roi": -0.2522,
-      "hit_prob_cal": 0.13,
+      "total_odds": 16.7,
+      "model_ev": 0.95,
+      "cal_ev": 3.77,
+      "cal_roi": 1.1565,
+      "market_ev": -0.51,
+      "market_roi": -0.253,
+      "hit_prob_cal": 0.129,
       "recommended": true,
       "stake": 3.26,
       "n_bets": 1,
-      "potential": 54.67,
+      "potential": 54.44,
       "worst_win": 0.0,
       "note": "三场全中才赢",
       "source": "calibrated"
@@ -211,10 +211,10 @@
           "sel": "draw",
           "odds": 3.3,
           "prob": 0.502,
-          "cal_prob": 0.5,
+          "cal_prob": 0.504,
           "market_prob": 0.269,
           "source": "fusion",
-          "hit_prob": 0.5
+          "hit_prob": 0.504
         },
         {
           "match": "2026-09-20_周日004",
@@ -224,10 +224,10 @@
           "sel": "away",
           "odds": 2.2,
           "prob": 0.425,
-          "cal_prob": 0.509,
+          "cal_prob": 0.506,
           "market_prob": 0.402,
           "source": "fusion",
-          "hit_prob": 0.509
+          "hit_prob": 0.506
         },
         {
           "match": "2026-09-20_周日005",
@@ -235,26 +235,26 @@
           "away": "日本亚",
           "league": "亚运男足",
           "sel": "home",
-          "odds": 2.31,
+          "odds": 2.3,
           "prob": 0.413,
-          "cal_prob": 0.509,
-          "market_prob": 0.413,
+          "cal_prob": 0.506,
+          "market_prob": 0.414,
           "source": "fusion",
-          "hit_prob": 0.509
+          "hit_prob": 0.506
         }
       ],
-      "total_odds": 9.18,
+      "total_odds": 9.15,
       "model_ev": null,
-      "cal_ev": 3.6,
-      "cal_roi": 0.8197,
+      "cal_ev": 3.57,
+      "cal_roi": 0.8105,
       "market_ev": -1.56,
-      "market_roi": -0.1948,
-      "hit_prob_cal": 0.13,
+      "market_roi": -0.1955,
+      "hit_prob_cal": 0.129,
       "recommended": true,
-      "stake": 4.39,
+      "stake": 4.4,
       "n_bets": 4,
-      "potential": 40.32,
-      "worst_win": 10.16,
+      "potential": 40.27,
+      "worst_win": 10.12,
       "note": "容错：错 1 场仍中 1 注 2串1（回 ¥10），全中 ¥73",
       "source": "calibrated"
     }
@@ -269,8 +269,8 @@
           "away": "日本亚",
           "league": "亚运男足",
           "score": "1-0",
-          "prob": 0.187,
-          "cal_prob": 0.0985,
+          "prob": 0.183,
+          "cal_prob": 0.0982,
           "odds": 40.0
         },
         {
@@ -279,19 +279,19 @@
           "away": "莱红牛",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.201,
-          "cal_prob": 0.0985,
+          "prob": 0.203,
+          "cal_prob": 0.0982,
           "odds": 17.0
         }
       ],
       "total_odds": 680.0,
-      "hit_prob": 0.0097,
+      "hit_prob": 0.0096,
       "stake": 2.0,
       "potential": 1360.0,
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 680 倍 = EV +560%）"
+      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 680 倍 = EV +555%）"
     },
     {
       "type": "比分2串1",
@@ -302,8 +302,8 @@
           "away": "日本亚",
           "league": "亚运男足",
           "score": "1-0",
-          "prob": 0.187,
-          "cal_prob": 0.0985,
+          "prob": 0.183,
+          "cal_prob": 0.0982,
           "odds": 40.0
         },
         {
@@ -312,19 +312,19 @@
           "away": "埃因霍温",
           "league": "荷甲",
           "score": "0-1",
-          "prob": 0.262,
-          "cal_prob": 0.0675,
+          "prob": 0.27,
+          "cal_prob": 0.0684,
           "odds": 19.0
         }
       ],
       "total_odds": 760.0,
-      "hit_prob": 0.0066,
+      "hit_prob": 0.0067,
       "stake": 2.0,
       "potential": 1520.0,
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 760 倍 = EV +405%）"
+      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 760 倍 = EV +410%）"
     },
     {
       "type": "比分2串1",
@@ -335,8 +335,8 @@
           "away": "日本亚",
           "league": "亚运男足",
           "score": "1-0",
-          "prob": 0.187,
-          "cal_prob": 0.0985,
+          "prob": 0.183,
+          "cal_prob": 0.0982,
           "odds": 40.0
         },
         {
@@ -345,19 +345,19 @@
           "away": "利勒斯特伦",
           "league": "挪超",
           "score": "1-0",
-          "prob": 0.338,
-          "cal_prob": 0.0985,
+          "prob": 0.341,
+          "cal_prob": 0.0982,
           "odds": 12.0
         }
       ],
       "total_odds": 480.0,
-      "hit_prob": 0.0097,
+      "hit_prob": 0.0096,
       "stake": 2.0,
       "potential": 960.0,
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 480 倍 = EV +366%）"
+      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 480 倍 = EV +362%）"
     },
     {
       "type": "比分3串1",
@@ -368,8 +368,8 @@
           "away": "日本亚",
           "league": "亚运男足",
           "score": "1-0",
-          "prob": 0.187,
-          "cal_prob": 0.0985,
+          "prob": 0.183,
+          "cal_prob": 0.0982,
           "odds": 40.0
         },
         {
@@ -378,8 +378,8 @@
           "away": "莱红牛",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.201,
-          "cal_prob": 0.0985,
+          "prob": 0.203,
+          "cal_prob": 0.0982,
           "odds": 17.0
         },
         {
@@ -388,19 +388,19 @@
           "away": "利勒斯特伦",
           "league": "挪超",
           "score": "1-0",
-          "prob": 0.338,
-          "cal_prob": 0.0985,
+          "prob": 0.341,
+          "cal_prob": 0.0982,
           "odds": 12.0
         }
       ],
       "total_odds": 8160.0,
-      "hit_prob": 0.001,
+      "hit_prob": 0.0009,
       "stake": 2.0,
       "potential": 16320.0,
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "三场比分全中才赢（赔率 8160 倍，校准命中 0.10%）"
+      "note": "三场比分全中才赢（赔率 8160 倍，校准命中 0.09%）"
     },
     {
       "type": "比分3串4(容错)",
@@ -411,8 +411,8 @@
           "away": "日本亚",
           "league": "亚运男足",
           "score": "1-0",
-          "prob": 0.187,
-          "cal_prob": 0.0985,
+          "prob": 0.183,
+          "cal_prob": 0.0982,
           "odds": 40.0
         },
         {
@@ -421,8 +421,8 @@
           "away": "莱红牛",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.201,
-          "cal_prob": 0.0985,
+          "prob": 0.203,
+          "cal_prob": 0.0982,
           "odds": 17.0
         },
         {
@@ -431,13 +431,13 @@
           "away": "利勒斯特伦",
           "league": "挪超",
           "score": "1-0",
-          "prob": 0.338,
-          "cal_prob": 0.0985,
+          "prob": 0.341,
+          "cal_prob": 0.0982,
           "odds": 12.0
         }
       ],
       "total_odds": 8160.0,
-      "hit_prob": 0.001,
+      "hit_prob": 0.0009,
       "stake": 8.0,
       "potential": 19048.0,
       "worst_win": 1360.0,
@@ -447,17 +447,17 @@
     }
   ],
   "parlay_calibration": {
-    "overall": 0.5248,
-    "n": 785,
+    "overall": 0.5247,
+    "n": 791,
     "table": {
       "0.35": 0.4146,
-      "0.4": 0.5091,
-      "0.45": 0.4934,
-      "0.5": 0.5,
-      "0.55": 0.4533,
-      "0.6": 0.6545,
+      "0.4": 0.506,
+      "0.45": 0.4967,
+      "0.5": 0.5044,
+      "0.55": 0.4605,
+      "0.6": 0.6429,
       "0.65": 0.75,
-      "0.7": 0.7797
+      "0.7": 0.7667
     },
     "note": "串关 EV 用账本校准命中率（模型概率高估，0.55-0.60 段仅 31.6% 命中）；推荐=校准EV>0"
   }

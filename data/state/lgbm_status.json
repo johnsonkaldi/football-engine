@@ -1,9 +1,9 @@
 {
   "trained": false,
   "ready": false,
-  "all_n": 791,
-  "clean_n": 365,
-  "usable_rows": 780,
+  "all_n": 795,
+  "clean_n": 369,
+  "usable_rows": 784,
   "holdout_n": 0,
   "holdout_brier_lgbm": null,
   "holdout_brier_fusion_v2": null,
