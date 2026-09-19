@@ -62,7 +62,7 @@
           "league": "西甲",
           "sel": "away",
           "odds": 1.45,
-          "prob": 0.658,
+          "prob": 0.657,
           "cal_prob": 0.744,
           "market_prob": 0.657,
           "source": "fusion",
@@ -87,7 +87,7 @@
       "cal_ev": 4.51,
       "cal_roi": 0.6742,
       "market_ev": -0.31,
-      "market_roi": -0.1562,
+      "market_roi": -0.1571,
       "hit_prob_cal": 0.379,
       "recommended": true,
       "stake": 6.69,
@@ -107,7 +107,7 @@
           "league": "西甲",
           "sel": "away",
           "odds": 1.45,
-          "prob": 0.658,
+          "prob": 0.657,
           "cal_prob": 0.744,
           "market_prob": 0.657,
           "source": "fusion",
@@ -132,7 +132,7 @@
       "cal_ev": 0.98,
       "cal_roi": 0.2566,
       "market_ev": -0.31,
-      "market_roi": -0.1556,
+      "market_roi": -0.1565,
       "hit_prob_cal": 0.383,
       "recommended": true,
       "stake": 3.83,
@@ -152,7 +152,7 @@
           "league": "西甲",
           "sel": "away",
           "odds": 1.45,
-          "prob": 0.658,
+          "prob": 0.657,
           "cal_prob": 0.744,
           "market_prob": 0.657,
           "source": "fusion",
@@ -190,7 +190,7 @@
       "cal_ev": 3.42,
       "cal_roi": 0.9513,
       "market_ev": -0.51,
-      "market_roi": -0.2525,
+      "market_roi": -0.2534,
       "hit_prob_cal": 0.195,
       "recommended": true,
       "stake": 3.59,
@@ -210,7 +210,7 @@
           "league": "西甲",
           "sel": "away",
           "odds": 1.45,
-          "prob": 0.658,
+          "prob": 0.657,
           "cal_prob": 0.744,
           "market_prob": 0.657,
           "source": "fusion",
@@ -247,8 +247,8 @@
       "model_ev": null,
       "cal_ev": 2.99,
       "cal_roi": 0.673,
-      "market_ev": -1.56,
-      "market_roi": -0.1951,
+      "market_ev": -1.57,
+      "market_roi": -0.1957,
       "hit_prob_cal": 0.195,
       "recommended": true,
       "stake": 4.44,
@@ -269,7 +269,7 @@
           "away": "国际米兰",
           "league": "意甲",
           "score": "1-0",
-          "prob": 0.204,
+          "prob": 0.203,
           "cal_prob": 0.0989,
           "odds": 12.5
         },
@@ -279,7 +279,7 @@
           "away": "多特蒙德",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.244,
+          "prob": 0.238,
           "cal_prob": 0.0989,
           "odds": 18.0
         }
@@ -302,7 +302,7 @@
           "away": "多特蒙德",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.244,
+          "prob": 0.238,
           "cal_prob": 0.0989,
           "odds": 18.0
         },
@@ -312,7 +312,7 @@
           "away": "SBV精英",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.236,
+          "prob": 0.237,
           "cal_prob": 0.0989,
           "odds": 12.5
         }
@@ -335,7 +335,7 @@
           "away": "多特蒙德",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.244,
+          "prob": 0.238,
           "cal_prob": 0.0989,
           "odds": 18.0
         },
@@ -345,7 +345,7 @@
           "away": "雷恩",
           "league": "法甲",
           "score": "1-0",
-          "prob": 0.24,
+          "prob": 0.238,
           "cal_prob": 0.0989,
           "odds": 11.0
         }
@@ -368,7 +368,7 @@
           "away": "国际米兰",
           "league": "意甲",
           "score": "1-0",
-          "prob": 0.204,
+          "prob": 0.203,
           "cal_prob": 0.0989,
           "odds": 12.5
         },
@@ -378,7 +378,7 @@
           "away": "多特蒙德",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.244,
+          "prob": 0.238,
           "cal_prob": 0.0989,
           "odds": 18.0
         },
@@ -388,7 +388,7 @@
           "away": "SBV精英",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.236,
+          "prob": 0.237,
           "cal_prob": 0.0989,
           "odds": 12.5
         }
@@ -411,7 +411,7 @@
           "away": "国际米兰",
           "league": "意甲",
           "score": "1-0",
-          "prob": 0.204,
+          "prob": 0.203,
           "cal_prob": 0.0989,
           "odds": 12.5
         },
@@ -421,7 +421,7 @@
           "away": "多特蒙德",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.244,
+          "prob": 0.238,
           "cal_prob": 0.0989,
           "odds": 18.0
         },
@@ -431,7 +431,7 @@
           "away": "SBV精英",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.236,
+          "prob": 0.237,
           "cal_prob": 0.0989,
           "odds": 12.5
         }
