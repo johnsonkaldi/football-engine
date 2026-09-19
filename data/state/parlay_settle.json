@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T06:40:00.627967+00:00",
+  "generated_at": "2026-09-19T07:46:17.287507+00:00",
   "parlay": {
     "n_tickets": 97,
     "n_pending": 5,
@@ -10714,8 +10714,8 @@
         "date": "2026-09-19",
         "type": "比分2串1",
         "stake": 2.0,
-        "potential": 468.0,
-        "total_odds": 234.0,
+        "potential": 450.0,
+        "total_odds": 225.0,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -10741,7 +10741,7 @@
             "away": "SBV精英",
             "sel": null,
             "score": "1-0",
-            "odds": 13.0,
+            "odds": 12.5,
             "hit": null
           }
         ]
@@ -10822,8 +10822,8 @@
         "date": "2026-09-19",
         "type": "比分3串1",
         "stake": 2.0,
-        "potential": 5382.0,
-        "total_odds": 2691.0,
+        "potential": 5175.0,
+        "total_odds": 2587.5,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -10859,7 +10859,7 @@
             "away": "SBV精英",
             "sel": null,
             "score": "1-0",
-            "odds": 13.0,
+            "odds": 12.5,
             "hit": null
           }
         ]
@@ -10868,8 +10868,8 @@
         "date": "2026-09-19",
         "type": "比分3串4(容错)",
         "stake": 8.0,
-        "potential": 6563.0,
-        "total_odds": 2691.0,
+        "potential": 6326.5,
+        "total_odds": 2587.5,
         "odds_source": "official",
         "note": "待赛",
         "won": false,
@@ -10905,7 +10905,7 @@
             "away": "SBV精英",
             "sel": null,
             "score": "1-0",
-            "odds": 13.0,
+            "odds": 12.5,
             "hit": null
           }
         ]
@@ -24146,8 +24146,8 @@
             "date": "2026-09-19",
             "type": "比分2串1",
             "stake": 2.0,
-            "potential": 468.0,
-            "total_odds": 234.0,
+            "potential": 450.0,
+            "total_odds": 225.0,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -24173,7 +24173,7 @@
                 "away": "SBV精英",
                 "sel": null,
                 "score": "1-0",
-                "odds": 13.0,
+                "odds": 12.5,
                 "hit": null
               }
             ]
@@ -24254,8 +24254,8 @@
             "date": "2026-09-19",
             "type": "比分3串1",
             "stake": 2.0,
-            "potential": 5382.0,
-            "total_odds": 2691.0,
+            "potential": 5175.0,
+            "total_odds": 2587.5,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -24291,7 +24291,7 @@
                 "away": "SBV精英",
                 "sel": null,
                 "score": "1-0",
-                "odds": 13.0,
+                "odds": 12.5,
                 "hit": null
               }
             ]
@@ -24300,8 +24300,8 @@
             "date": "2026-09-19",
             "type": "比分3串4(容错)",
             "stake": 8.0,
-            "potential": 6563.0,
-            "total_odds": 2691.0,
+            "potential": 6326.5,
+            "total_odds": 2587.5,
             "odds_source": "official",
             "note": "待赛",
             "won": false,
@@ -24337,7 +24337,7 @@
                 "away": "SBV精英",
                 "sel": null,
                 "score": "1-0",
-                "odds": 13.0,
+                "odds": 12.5,
                 "hit": null
               }
             ]
