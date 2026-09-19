@@ -19,7 +19,7 @@
           "odds": 1.45,
           "prob": 0.658,
           "cal_prob": 0.744,
-          "market_prob": 0.658,
+          "market_prob": 0.657,
           "source": "fusion",
           "hit_prob": 0.744
         },
@@ -38,11 +38,11 @@
         }
       ],
       "total_odds": 3.13,
-      "model_ev": -0.2,
+      "model_ev": -0.21,
       "cal_ev": 1.28,
       "cal_roi": 0.201,
       "market_ev": -0.31,
-      "market_roi": -0.1552,
+      "market_roi": -0.156,
       "hit_prob_cal": 0.383,
       "recommended": true,
       "stake": 6.37,
@@ -109,7 +109,7 @@
           "odds": 1.45,
           "prob": 0.658,
           "cal_prob": 0.744,
-          "market_prob": 0.658,
+          "market_prob": 0.657,
           "source": "fusion",
           "hit_prob": 0.744
         },
@@ -132,7 +132,7 @@
       "cal_ev": 0.82,
       "cal_roi": 0.1566,
       "market_ev": -0.31,
-      "market_roi": -0.1553,
+      "market_roi": -0.1562,
       "hit_prob_cal": 0.383,
       "recommended": true,
       "stake": 5.24,
@@ -154,7 +154,7 @@
           "odds": 1.45,
           "prob": 0.658,
           "cal_prob": 0.744,
-          "market_prob": 0.658,
+          "market_prob": 0.657,
           "source": "fusion",
           "hit_prob": 0.744
         },
@@ -186,11 +186,11 @@
         }
       ],
       "total_odds": 6.51,
-      "model_ev": -0.34,
+      "model_ev": -0.35,
       "cal_ev": 1.02,
       "cal_roi": 0.2883,
-      "market_ev": -0.5,
-      "market_roi": -0.252,
+      "market_ev": -0.51,
+      "market_roi": -0.2528,
       "hit_prob_cal": 0.198,
       "recommended": true,
       "stake": 3.53,
@@ -212,7 +212,7 @@
           "odds": 1.45,
           "prob": 0.658,
           "cal_prob": 0.744,
-          "market_prob": 0.658,
+          "market_prob": 0.657,
           "source": "fusion",
           "hit_prob": 0.744
         },
@@ -248,7 +248,7 @@
       "cal_ev": 0.91,
       "cal_roi": 0.2102,
       "market_ev": -1.56,
-      "market_roi": -0.1946,
+      "market_roi": -0.1952,
       "hit_prob_cal": 0.198,
       "recommended": true,
       "stake": 4.32,
@@ -269,8 +269,8 @@
           "away": "多特蒙德",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.239,
-          "cal_prob": 0.099,
+          "prob": 0.242,
+          "cal_prob": 0.0989,
           "odds": 17.0
         },
         {
@@ -279,8 +279,8 @@
           "away": "SBV精英",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.233,
-          "cal_prob": 0.099,
+          "prob": 0.235,
+          "cal_prob": 0.0989,
           "odds": 13.0
         }
       ],
@@ -302,8 +302,8 @@
           "away": "国际米兰",
           "league": "意甲",
           "score": "1-0",
-          "prob": 0.208,
-          "cal_prob": 0.099,
+          "prob": 0.207,
+          "cal_prob": 0.0989,
           "odds": 11.0
         },
         {
@@ -312,8 +312,8 @@
           "away": "多特蒙德",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.239,
-          "cal_prob": 0.099,
+          "prob": 0.242,
+          "cal_prob": 0.0989,
           "odds": 17.0
         }
       ],
@@ -335,8 +335,8 @@
           "away": "多特蒙德",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.239,
-          "cal_prob": 0.099,
+          "prob": 0.242,
+          "cal_prob": 0.0989,
           "odds": 17.0
         },
         {
@@ -345,8 +345,8 @@
           "away": "雷恩",
           "league": "法甲",
           "score": "1-0",
-          "prob": 0.241,
-          "cal_prob": 0.099,
+          "prob": 0.242,
+          "cal_prob": 0.0989,
           "odds": 11.0
         }
       ],
@@ -368,8 +368,8 @@
           "away": "国际米兰",
           "league": "意甲",
           "score": "1-0",
-          "prob": 0.208,
-          "cal_prob": 0.099,
+          "prob": 0.207,
+          "cal_prob": 0.0989,
           "odds": 11.0
         },
         {
@@ -378,8 +378,8 @@
           "away": "多特蒙德",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.239,
-          "cal_prob": 0.099,
+          "prob": 0.242,
+          "cal_prob": 0.0989,
           "odds": 17.0
         },
         {
@@ -388,8 +388,8 @@
           "away": "SBV精英",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.233,
-          "cal_prob": 0.099,
+          "prob": 0.235,
+          "cal_prob": 0.0989,
           "odds": 13.0
         }
       ],
@@ -411,8 +411,8 @@
           "away": "国际米兰",
           "league": "意甲",
           "score": "1-0",
-          "prob": 0.208,
-          "cal_prob": 0.099,
+          "prob": 0.207,
+          "cal_prob": 0.0989,
           "odds": 11.0
         },
         {
@@ -421,8 +421,8 @@
           "away": "多特蒙德",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.239,
-          "cal_prob": 0.099,
+          "prob": 0.242,
+          "cal_prob": 0.0989,
           "odds": 17.0
         },
         {
@@ -431,8 +431,8 @@
           "away": "SBV精英",
           "league": "荷甲",
           "score": "1-0",
-          "prob": 0.233,
-          "cal_prob": 0.099,
+          "prob": 0.235,
+          "cal_prob": 0.0989,
           "odds": 13.0
         }
       ],
@@ -447,13 +447,13 @@
     }
   ],
   "parlay_calibration": {
-    "overall": 0.5288,
-    "n": 764,
+    "overall": 0.5281,
+    "n": 765,
     "table": {
       "0.35": 0.418,
       "0.4": 0.5157,
       "0.45": 0.4966,
-      "0.5": 0.5138,
+      "0.5": 0.5091,
       "0.55": 0.4444,
       "0.6": 0.6604,
       "0.65": 0.7436,
