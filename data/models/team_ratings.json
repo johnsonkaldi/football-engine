@@ -1232,10 +1232,10 @@
     "rest_days": 3
   },
   "阿贾克斯": {
-    "elo": 1776.6,
-    "attack": 1.2355,
-    "defense": 0.4919,
-    "form": 0.5827,
+    "elo": 1764.3,
+    "attack": 1.1854,
+    "defense": 0.5143,
+    "form": 0.4079,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1272,10 +1272,10 @@
     "rest_days": 3
   },
   "SBV精英": {
-    "elo": 1487.0,
-    "attack": 1.0188,
-    "defense": 1.0527,
-    "form": 0.0843,
+    "elo": 1499.3,
+    "attack": 0.9898,
+    "defense": 1.0204,
+    "form": 0.059,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1504,10 +1504,10 @@
     "rest_days": 3
   },
   "多特蒙德": {
-    "elo": 1744.1,
-    "attack": 0.5877,
-    "defense": 0.6012,
-    "form": 0.5199,
+    "elo": 1765.2,
+    "attack": 0.5656,
+    "defense": 0.5426,
+    "form": 0.6639,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1528,10 +1528,10 @@
     "rest_days": 3
   },
   "斯图加特": {
-    "elo": 1794.6,
-    "attack": 1.2252,
-    "defense": 0.9975,
-    "form": -0.0872,
+    "elo": 1773.5,
+    "attack": 1.1057,
+    "defense": 0.9354,
+    "form": -0.361,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2288,10 +2288,10 @@
     "rest_days": 3
   },
   "诺丁汉森林": {
-    "elo": 1780.1,
-    "attack": 0.7772,
-    "defense": 0.6823,
-    "form": 0.1072,
+    "elo": 1751.3,
+    "attack": 0.7014,
+    "defense": 0.651,
+    "form": -0.225,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2384,10 +2384,10 @@
     "rest_days": 3
   },
   "拉齐奥": {
-    "elo": 1709.3,
-    "attack": 0.7324,
-    "defense": 0.6972,
-    "form": 0.4451,
+    "elo": 1718.8,
+    "attack": 0.7314,
+    "defense": 0.6292,
+    "form": 0.6116,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4536,18 +4536,18 @@
     "rest_days": 3
   },
   "昂热": {
-    "elo": 1430.3,
-    "attack": 0.5542,
-    "defense": 1.0888,
-    "form": -0.5414,
+    "elo": 1448.2,
+    "attack": 0.5705,
+    "defense": 0.9826,
+    "form": -0.079,
     "injury": 0.0,
     "rest_days": 3
   },
   "特鲁瓦": {
-    "elo": 1356.3,
-    "attack": 0.7595,
-    "defense": 1.3751,
-    "form": -0.582,
+    "elo": 1338.4,
+    "attack": 0.6854,
+    "defense": 1.3114,
+    "form": -0.7074,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5936,10 +5936,10 @@
     "rest_days": 3
   },
   "威尼斯": {
-    "elo": 1362.0,
-    "attack": 0.5362,
-    "defense": 1.0998,
-    "form": -0.9173,
+    "elo": 1352.5,
+    "attack": 0.4839,
+    "defense": 1.0629,
+    "form": -0.9421,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10200,10 +10200,10 @@
     "rest_days": 3
   },
   "桑坦德竞技": {
-    "elo": 1496.5,
-    "attack": 0.8513,
-    "defense": 1.0215,
-    "form": -0.2061,
+    "elo": 1434.5,
+    "attack": 0.7683,
+    "defense": 1.0978,
+    "form": -0.4443,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10272,10 +10272,10 @@
     "rest_days": 3
   },
   "考文垂": {
-    "elo": 1462.3,
-    "attack": 0.6986,
-    "defense": 0.907,
-    "form": -0.7599,
+    "elo": 1491.1,
+    "attack": 0.6657,
+    "defense": 0.8186,
+    "form": -0.2319,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10336,10 +10336,10 @@
     "rest_days": 3
   },
   "塞尔塔": {
-    "elo": 1458.2,
-    "attack": 0.5692,
-    "defense": 0.6721,
-    "form": -0.4224,
+    "elo": 1520.2,
+    "attack": 0.6896,
+    "defense": 0.6066,
+    "form": 0.0043,
     "injury": 0.0,
     "rest_days": 3
   },

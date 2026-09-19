@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:01:50.646806+00:00",
+  "generated_at": "2026-09-19T20:40:14.425822+00:00",
   "parlay": {
     "n_tickets": 102,
     "n_pending": 10,
@@ -7,8 +7,8 @@
     "n_won": 25,
     "hit_rate": 0.2717,
     "stake": 502.46,
-    "stake_committed": 548.9,
-    "stake_pending": 46.44,
+    "stake_committed": 548.91,
+    "stake_pending": 46.45,
     "return": 579.92,
     "roi": 0.1542,
     "avg_odds": 5.79,
@@ -32,35 +32,35 @@
   },
   "score_parlay": {
     "n_tickets": 182,
-    "n_pending": 10,
-    "n_settled": 172,
+    "n_pending": 6,
+    "n_settled": 176,
     "n_won": 0,
     "hit_rate": 0.0,
-    "stake": 536.0,
+    "stake": 550.0,
     "stake_committed": 568.0,
-    "stake_pending": 32.0,
+    "stake_pending": 18.0,
     "return": 0.0,
     "roi": -1.0,
-    "avg_odds": 794.85,
+    "avg_odds": 811.3,
     "by_type": {
       "比分2串1": {
-        "n": 108,
+        "n": 110,
         "won": 0,
         "roi": -1.0
       },
       "比分3串1": {
-        "n": 32,
+        "n": 33,
         "won": 0,
         "roi": -1.0
       },
       "比分3串4(容错)": {
-        "n": 32,
+        "n": 33,
         "won": 0,
         "roi": -1.0
       }
     },
-    "leg_hit_rate": 0.1046,
-    "n_legs_settled": 411
+    "leg_hit_rate": 0.1026,
+    "n_legs_settled": 419
   },
   "tickets": {
     "parlay": [
@@ -3879,8 +3879,44 @@
       {
         "date": "2026-09-20",
         "type": "2串1",
-        "stake": 6.58,
-        "potential": 47.77,
+        "stake": 6.23,
+        "potential": 47.49,
+        "total_odds": 7.62,
+        "odds_source": null,
+        "note": "待赛",
+        "won": false,
+        "pending": true,
+        "leg_results": [
+          null,
+          null
+        ],
+        "return": 0.0,
+        "legs": [
+          {
+            "match": "2026-09-20_周日030",
+            "home": "巴拉纳竞技",
+            "away": "巴伊亚",
+            "sel": "draw",
+            "score": null,
+            "odds": 3.3,
+            "hit": null
+          },
+          {
+            "match": "2026-09-20_周日005",
+            "home": "吉尔吉亚",
+            "away": "日本亚",
+            "sel": "home",
+            "score": null,
+            "odds": 2.31,
+            "hit": null
+          }
+        ]
+      },
+      {
+        "date": "2026-09-20",
+        "type": "2串1",
+        "stake": 5.94,
+        "potential": 43.12,
         "total_odds": 7.26,
         "odds_source": null,
         "note": "待赛",
@@ -3915,9 +3951,9 @@
       {
         "date": "2026-09-20",
         "type": "2串1",
-        "stake": 6.16,
-        "potential": 41.88,
-        "total_odds": 6.8,
+        "stake": 3.41,
+        "potential": 17.33,
+        "total_odds": 5.08,
         "odds_source": null,
         "note": "待赛",
         "won": false,
@@ -3928,51 +3964,6 @@
         ],
         "return": 0.0,
         "legs": [
-          {
-            "match": "2026-09-20_周日030",
-            "home": "巴拉纳竞技",
-            "away": "巴伊亚",
-            "sel": "draw",
-            "score": null,
-            "odds": 3.3,
-            "hit": null
-          },
-          {
-            "match": "2026-09-20_周日006",
-            "home": "佛罗伦萨",
-            "away": "那不勒斯",
-            "sel": "away",
-            "score": null,
-            "odds": 2.06,
-            "hit": null
-          }
-        ]
-      },
-      {
-        "date": "2026-09-20",
-        "type": "2串1",
-        "stake": 2.64,
-        "potential": 11.96,
-        "total_odds": 4.53,
-        "odds_source": null,
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-09-20_周日006",
-            "home": "佛罗伦萨",
-            "away": "那不勒斯",
-            "sel": "away",
-            "score": null,
-            "odds": 2.06,
-            "hit": null
-          },
           {
             "match": "2026-09-20_周日004",
             "home": "仁川联",
@@ -3980,6 +3971,15 @@
             "sel": "away",
             "score": null,
             "odds": 2.2,
+            "hit": null
+          },
+          {
+            "match": "2026-09-20_周日005",
+            "home": "吉尔吉亚",
+            "away": "日本亚",
+            "sel": "home",
+            "score": null,
+            "odds": 2.31,
             "hit": null
           }
         ]
@@ -3987,9 +3987,9 @@
       {
         "date": "2026-09-20",
         "type": "3串1",
-        "stake": 3.34,
-        "potential": 49.95,
-        "total_odds": 14.96,
+        "stake": 3.26,
+        "potential": 54.67,
+        "total_odds": 16.77,
         "odds_source": null,
         "note": "待赛",
         "won": false,
@@ -4011,21 +4011,21 @@
             "hit": null
           },
           {
-            "match": "2026-09-20_周日006",
-            "home": "佛罗伦萨",
-            "away": "那不勒斯",
-            "sel": "away",
-            "score": null,
-            "odds": 2.06,
-            "hit": null
-          },
-          {
             "match": "2026-09-20_周日004",
             "home": "仁川联",
             "away": "大田市民",
             "sel": "away",
             "score": null,
             "odds": 2.2,
+            "hit": null
+          },
+          {
+            "match": "2026-09-20_周日005",
+            "home": "吉尔吉亚",
+            "away": "日本亚",
+            "sel": "home",
+            "score": null,
+            "odds": 2.31,
             "hit": null
           }
         ]
@@ -4033,9 +4033,9 @@
       {
         "date": "2026-09-20",
         "type": "3串4",
-        "stake": 4.5,
-        "potential": 37.74,
-        "total_odds": 8.39,
+        "stake": 4.39,
+        "potential": 40.32,
+        "total_odds": 9.18,
         "odds_source": null,
         "note": "待赛",
         "won": false,
@@ -4057,21 +4057,21 @@
             "hit": null
           },
           {
-            "match": "2026-09-20_周日006",
-            "home": "佛罗伦萨",
-            "away": "那不勒斯",
-            "sel": "away",
-            "score": null,
-            "odds": 2.06,
-            "hit": null
-          },
-          {
             "match": "2026-09-20_周日004",
             "home": "仁川联",
             "away": "大田市民",
             "sel": "away",
             "score": null,
             "odds": 2.2,
+            "hit": null
+          },
+          {
+            "match": "2026-09-20_周日005",
+            "home": "吉尔吉亚",
+            "away": "日本亚",
+            "sel": "home",
+            "score": null,
+            "odds": 2.31,
             "hit": null
           }
         ]
@@ -10917,12 +10917,12 @@
         "potential": 450.0,
         "total_odds": 225.0,
         "odds_source": "official",
-        "note": "待赛",
+        "note": "两场比分都中才赢（校准命中 1.0% × 赔率 225 倍 = EV +120%）",
         "won": false,
-        "pending": true,
+        "pending": false,
         "leg_results": [
           false,
-          null
+          false
         ],
         "return": 0.0,
         "legs": [
@@ -10942,7 +10942,7 @@
             "sel": null,
             "score": "1-0",
             "odds": 18.0,
-            "hit": null
+            "hit": false
           }
         ]
       },
@@ -10953,12 +10953,12 @@
         "potential": 450.0,
         "total_odds": 225.0,
         "odds_source": "official",
-        "note": "待赛",
+        "note": "两场比分都中才赢（校准命中 1.0% × 赔率 225 倍 = EV +120%）",
         "won": false,
-        "pending": true,
+        "pending": false,
         "leg_results": [
-          null,
-          null
+          false,
+          false
         ],
         "return": 0.0,
         "legs": [
@@ -10969,7 +10969,7 @@
             "sel": null,
             "score": "1-0",
             "odds": 18.0,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-09-19_周六024",
@@ -10978,7 +10978,7 @@
             "sel": null,
             "score": "1-0",
             "odds": 12.5,
-            "hit": null
+            "hit": false
           }
         ]
       },
@@ -10993,7 +10993,7 @@
         "won": false,
         "pending": true,
         "leg_results": [
-          null,
+          false,
           null
         ],
         "return": 0.0,
@@ -11005,7 +11005,7 @@
             "sel": null,
             "score": "1-0",
             "odds": 18.0,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-09-19_周六027",
@@ -11025,13 +11025,13 @@
         "potential": 5625.0,
         "total_odds": 2812.5,
         "odds_source": "official",
-        "note": "待赛",
+        "note": "三场比分全中才赢（赔率 2812 倍，校准命中 0.10%）",
         "won": false,
-        "pending": true,
+        "pending": false,
         "leg_results": [
           false,
-          null,
-          null
+          false,
+          false
         ],
         "return": 0.0,
         "legs": [
@@ -11051,7 +11051,7 @@
             "sel": null,
             "score": "1-0",
             "odds": 18.0,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-09-19_周六024",
@@ -11060,7 +11060,7 @@
             "sel": null,
             "score": "1-0",
             "odds": 12.5,
-            "hit": null
+            "hit": false
           }
         ]
       },
@@ -11071,13 +11071,13 @@
         "potential": 6837.5,
         "total_odds": 2812.5,
         "odds_source": "official",
-        "note": "待赛",
+        "note": "0/4注中（命中0场）",
         "won": false,
-        "pending": true,
+        "pending": false,
         "leg_results": [
           false,
-          null,
-          null
+          false,
+          false
         ],
         "return": 0.0,
         "legs": [
@@ -11097,7 +11097,7 @@
             "sel": null,
             "score": "1-0",
             "odds": 18.0,
-            "hit": null
+            "hit": false
           },
           {
             "match": "2026-09-19_周六024",
@@ -11106,7 +11106,7 @@
             "sel": null,
             "score": "1-0",
             "odds": 12.5,
-            "hit": null
+            "hit": false
           }
         ]
       },
@@ -24527,19 +24527,35 @@
       "score_parlay": {
         "stats": {
           "n_tickets": 5,
-          "n_pending": 5,
-          "n_settled": 0,
+          "n_pending": 1,
+          "n_settled": 4,
           "n_won": 0,
-          "hit_rate": null,
-          "stake": 0,
+          "hit_rate": 0.0,
+          "stake": 14.0,
           "stake_committed": 16.0,
-          "stake_pending": 16.0,
-          "return": 0,
-          "roi": null,
-          "avg_odds": null,
-          "by_type": {},
+          "stake_pending": 2.0,
+          "return": 0.0,
+          "roi": -1.0,
+          "avg_odds": 1518.75,
+          "by_type": {
+            "比分2串1": {
+              "n": 2,
+              "won": 0,
+              "roi": -1.0
+            },
+            "比分3串1": {
+              "n": 1,
+              "won": 0,
+              "roi": -1.0
+            },
+            "比分3串4(容错)": {
+              "n": 1,
+              "won": 0,
+              "roi": -1.0
+            }
+          },
           "leg_hit_rate": 0.0,
-          "n_legs_settled": 3
+          "n_legs_settled": 11
         },
         "tickets": [
           {
@@ -24549,12 +24565,12 @@
             "potential": 450.0,
             "total_odds": 225.0,
             "odds_source": "official",
-            "note": "待赛",
+            "note": "两场比分都中才赢（校准命中 1.0% × 赔率 225 倍 = EV +120%）",
             "won": false,
-            "pending": true,
+            "pending": false,
             "leg_results": [
               false,
-              null
+              false
             ],
             "return": 0.0,
             "legs": [
@@ -24574,7 +24590,7 @@
                 "sel": null,
                 "score": "1-0",
                 "odds": 18.0,
-                "hit": null
+                "hit": false
               }
             ]
           },
@@ -24585,12 +24601,12 @@
             "potential": 450.0,
             "total_odds": 225.0,
             "odds_source": "official",
-            "note": "待赛",
+            "note": "两场比分都中才赢（校准命中 1.0% × 赔率 225 倍 = EV +120%）",
             "won": false,
-            "pending": true,
+            "pending": false,
             "leg_results": [
-              null,
-              null
+              false,
+              false
             ],
             "return": 0.0,
             "legs": [
@@ -24601,7 +24617,7 @@
                 "sel": null,
                 "score": "1-0",
                 "odds": 18.0,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-09-19_周六024",
@@ -24610,7 +24626,7 @@
                 "sel": null,
                 "score": "1-0",
                 "odds": 12.5,
-                "hit": null
+                "hit": false
               }
             ]
           },
@@ -24625,7 +24641,7 @@
             "won": false,
             "pending": true,
             "leg_results": [
-              null,
+              false,
               null
             ],
             "return": 0.0,
@@ -24637,7 +24653,7 @@
                 "sel": null,
                 "score": "1-0",
                 "odds": 18.0,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-09-19_周六027",
@@ -24657,13 +24673,13 @@
             "potential": 5625.0,
             "total_odds": 2812.5,
             "odds_source": "official",
-            "note": "待赛",
+            "note": "三场比分全中才赢（赔率 2812 倍，校准命中 0.10%）",
             "won": false,
-            "pending": true,
+            "pending": false,
             "leg_results": [
               false,
-              null,
-              null
+              false,
+              false
             ],
             "return": 0.0,
             "legs": [
@@ -24683,7 +24699,7 @@
                 "sel": null,
                 "score": "1-0",
                 "odds": 18.0,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-09-19_周六024",
@@ -24692,7 +24708,7 @@
                 "sel": null,
                 "score": "1-0",
                 "odds": 12.5,
-                "hit": null
+                "hit": false
               }
             ]
           },
@@ -24703,13 +24719,13 @@
             "potential": 6837.5,
             "total_odds": 2812.5,
             "odds_source": "official",
-            "note": "待赛",
+            "note": "0/4注中（命中0场）",
             "won": false,
-            "pending": true,
+            "pending": false,
             "leg_results": [
               false,
-              null,
-              null
+              false,
+              false
             ],
             "return": 0.0,
             "legs": [
@@ -24729,7 +24745,7 @@
                 "sel": null,
                 "score": "1-0",
                 "odds": 18.0,
-                "hit": null
+                "hit": false
               },
               {
                 "match": "2026-09-19_周六024",
@@ -24738,7 +24754,7 @@
                 "sel": null,
                 "score": "1-0",
                 "odds": 12.5,
-                "hit": null
+                "hit": false
               }
             ]
           }
@@ -24754,8 +24770,8 @@
           "n_won": 0,
           "hit_rate": null,
           "stake": 0,
-          "stake_committed": 23.22,
-          "stake_pending": 23.22,
+          "stake_committed": 23.23,
+          "stake_pending": 23.23,
           "return": 0,
           "roi": null,
           "avg_odds": null,
@@ -24765,8 +24781,44 @@
           {
             "date": "2026-09-20",
             "type": "2串1",
-            "stake": 6.58,
-            "potential": 47.77,
+            "stake": 6.23,
+            "potential": 47.49,
+            "total_odds": 7.62,
+            "odds_source": null,
+            "note": "待赛",
+            "won": false,
+            "pending": true,
+            "leg_results": [
+              null,
+              null
+            ],
+            "return": 0.0,
+            "legs": [
+              {
+                "match": "2026-09-20_周日030",
+                "home": "巴拉纳竞技",
+                "away": "巴伊亚",
+                "sel": "draw",
+                "score": null,
+                "odds": 3.3,
+                "hit": null
+              },
+              {
+                "match": "2026-09-20_周日005",
+                "home": "吉尔吉亚",
+                "away": "日本亚",
+                "sel": "home",
+                "score": null,
+                "odds": 2.31,
+                "hit": null
+              }
+            ]
+          },
+          {
+            "date": "2026-09-20",
+            "type": "2串1",
+            "stake": 5.94,
+            "potential": 43.12,
             "total_odds": 7.26,
             "odds_source": null,
             "note": "待赛",
@@ -24801,9 +24853,9 @@
           {
             "date": "2026-09-20",
             "type": "2串1",
-            "stake": 6.16,
-            "potential": 41.88,
-            "total_odds": 6.8,
+            "stake": 3.41,
+            "potential": 17.33,
+            "total_odds": 5.08,
             "odds_source": null,
             "note": "待赛",
             "won": false,
@@ -24814,51 +24866,6 @@
             ],
             "return": 0.0,
             "legs": [
-              {
-                "match": "2026-09-20_周日030",
-                "home": "巴拉纳竞技",
-                "away": "巴伊亚",
-                "sel": "draw",
-                "score": null,
-                "odds": 3.3,
-                "hit": null
-              },
-              {
-                "match": "2026-09-20_周日006",
-                "home": "佛罗伦萨",
-                "away": "那不勒斯",
-                "sel": "away",
-                "score": null,
-                "odds": 2.06,
-                "hit": null
-              }
-            ]
-          },
-          {
-            "date": "2026-09-20",
-            "type": "2串1",
-            "stake": 2.64,
-            "potential": 11.96,
-            "total_odds": 4.53,
-            "odds_source": null,
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-09-20_周日006",
-                "home": "佛罗伦萨",
-                "away": "那不勒斯",
-                "sel": "away",
-                "score": null,
-                "odds": 2.06,
-                "hit": null
-              },
               {
                 "match": "2026-09-20_周日004",
                 "home": "仁川联",
@@ -24866,6 +24873,15 @@
                 "sel": "away",
                 "score": null,
                 "odds": 2.2,
+                "hit": null
+              },
+              {
+                "match": "2026-09-20_周日005",
+                "home": "吉尔吉亚",
+                "away": "日本亚",
+                "sel": "home",
+                "score": null,
+                "odds": 2.31,
                 "hit": null
               }
             ]
@@ -24873,9 +24889,9 @@
           {
             "date": "2026-09-20",
             "type": "3串1",
-            "stake": 3.34,
-            "potential": 49.95,
-            "total_odds": 14.96,
+            "stake": 3.26,
+            "potential": 54.67,
+            "total_odds": 16.77,
             "odds_source": null,
             "note": "待赛",
             "won": false,
@@ -24897,21 +24913,21 @@
                 "hit": null
               },
               {
-                "match": "2026-09-20_周日006",
-                "home": "佛罗伦萨",
-                "away": "那不勒斯",
-                "sel": "away",
-                "score": null,
-                "odds": 2.06,
-                "hit": null
-              },
-              {
                 "match": "2026-09-20_周日004",
                 "home": "仁川联",
                 "away": "大田市民",
                 "sel": "away",
                 "score": null,
                 "odds": 2.2,
+                "hit": null
+              },
+              {
+                "match": "2026-09-20_周日005",
+                "home": "吉尔吉亚",
+                "away": "日本亚",
+                "sel": "home",
+                "score": null,
+                "odds": 2.31,
                 "hit": null
               }
             ]
@@ -24919,9 +24935,9 @@
           {
             "date": "2026-09-20",
             "type": "3串4",
-            "stake": 4.5,
-            "potential": 37.74,
-            "total_odds": 8.39,
+            "stake": 4.39,
+            "potential": 40.32,
+            "total_odds": 9.18,
             "odds_source": null,
             "note": "待赛",
             "won": false,
@@ -24943,21 +24959,21 @@
                 "hit": null
               },
               {
-                "match": "2026-09-20_周日006",
-                "home": "佛罗伦萨",
-                "away": "那不勒斯",
-                "sel": "away",
-                "score": null,
-                "odds": 2.06,
-                "hit": null
-              },
-              {
                 "match": "2026-09-20_周日004",
                 "home": "仁川联",
                 "away": "大田市民",
                 "sel": "away",
                 "score": null,
                 "odds": 2.2,
+                "hit": null
+              },
+              {
+                "match": "2026-09-20_周日005",
+                "home": "吉尔吉亚",
+                "away": "日本亚",
+                "sel": "home",
+                "score": null,
+                "odds": 2.31,
                 "hit": null
               }
             ]
