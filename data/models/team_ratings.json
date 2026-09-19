@@ -7096,10 +7096,10 @@
     "rest_days": 3
   },
   "纽约城": {
-    "elo": 1597.2,
-    "attack": 0.7236,
-    "defense": 0.5068,
-    "form": 0.0177,
+    "elo": 1569.0,
+    "attack": 0.653,
+    "defense": 0.4926,
+    "form": -0.2876,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7112,10 +7112,10 @@
     "rest_days": 3
   },
   "纽约红牛": {
-    "elo": 1314.7,
-    "attack": 0.4226,
-    "defense": 0.8237,
-    "form": -0.5703,
+    "elo": 1342.9,
+    "attack": 0.4166,
+    "defense": 0.7434,
+    "form": -0.0992,
     "injury": 0.0,
     "rest_days": 3
   },

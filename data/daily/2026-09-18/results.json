@@ -115,5 +115,14 @@
     "away_team": "埃尔切",
     "half_home_score": 0,
     "half_away_score": 2
+  },
+  {
+    "match_id": "2026-09-18_周五014",
+    "home_score": 0,
+    "away_score": 1,
+    "home_team": "纽约城",
+    "away_team": "纽约红牛",
+    "half_home_score": 0,
+    "half_away_score": 0
   }
 ]

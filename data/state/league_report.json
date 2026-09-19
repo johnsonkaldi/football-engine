@@ -1,8 +1,8 @@
 {
   "n_leagues": 39,
-  "n_matches": 792,
+  "n_matches": 793,
   "external_added": 29,
-  "generated_at": "2026-09-18T23:36:02.162728",
+  "generated_at": "2026-09-19T01:38:18.393218",
   "leagues": [
     {
       "league": "西甲",
@@ -397,11 +397,11 @@
     },
     {
       "league": "美职",
-      "n": 11,
-      "hit_rate": 0.1818,
-      "avg_odds": 2.006,
-      "roi": -0.6764,
-      "avg_confidence": 0.1285,
+      "n": 12,
+      "hit_rate": 0.1667,
+      "avg_odds": 1.979,
+      "roi": -0.7033,
+      "avg_confidence": 0.1341,
       "verdict": "谨慎",
       "recent_n": 5,
       "recent_hits": 0,

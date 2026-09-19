@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-18",
-  "total_matches": 764,
+  "generated_at": "2026-09-19",
+  "total_matches": 765,
   "date_range": [
     "2026-07-19",
     "2026-09-18"
   ],
   "overall": {
-    "hit_rate": 0.5288,
-    "brier_final": 0.595,
-    "brier_model": 0.6203,
-    "brier_market": 0.5823,
+    "hit_rate": 0.5281,
+    "brier_final": 0.5955,
+    "brier_model": 0.621,
+    "brier_market": 0.5828,
     "brier_djyy": 0.646
   },
   "daily": [
@@ -747,21 +747,21 @@
     },
     {
       "date": "2026-09-18",
-      "n": 13,
+      "n": 14,
       "hits": 7,
-      "hit_rate": 0.5385,
-      "cum_hit_rate": 0.5288,
-      "brier_final": 0.5294,
-      "brier_model": 0.5304,
-      "brier_market": 0.564,
+      "hit_rate": 0.5,
+      "cum_hit_rate": 0.5281,
+      "brier_final": 0.5591,
+      "brier_model": 0.5791,
+      "brier_market": 0.5902,
       "brier_djyy": null,
       "pnl": 0.0
     }
   ],
   "rolling7": {
-    "n": 120,
-    "hit_rate": 0.55,
-    "brier_final": 0.5362,
+    "n": 121,
+    "hit_rate": 0.5455,
+    "brier_final": 0.5404,
     "pnl": 197.5
   },
   "prev7": {
@@ -905,16 +905,16 @@
       "brier_final": 0.6251
     },
     {
+      "layer": "美职",
+      "n": 12,
+      "hit_rate": 0.1667,
+      "brier_final": 0.7483
+    },
+    {
       "layer": "美职联",
       "n": 11,
       "hit_rate": 0.4545,
       "brier_final": 0.689
-    },
-    {
-      "layer": "美职",
-      "n": 11,
-      "hit_rate": 0.1818,
-      "brier_final": 0.7304
     },
     {
       "layer": "瑞超",
@@ -1016,9 +1016,9 @@
   "by_odds_band": [
     {
       "layer": "1.5-2.0",
-      "n": 283,
-      "hit_rate": 0.4912,
-      "brier_final": 0.6335
+      "n": 284,
+      "hit_rate": 0.4894,
+      "brier_final": 0.6346
     },
     {
       "layer": "2.0-3.0",
@@ -1042,9 +1042,9 @@
   "by_conf_tier": [
     {
       "layer": "mid",
-      "n": 418,
-      "hit_rate": 0.5024,
-      "brier_final": 0.6199
+      "n": 419,
+      "hit_rate": 0.5012,
+      "brier_final": 0.6207
     },
     {
       "layer": "high",

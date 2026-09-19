@@ -323,5 +323,30 @@
     "red_home": "0",
     "red_away": "1",
     "source": "sina"
+  },
+  {
+    "match_id": "3624511",
+    "match_no": "周五014",
+    "home_team": "纽约城",
+    "away_team": "纽约红牛",
+    "home_score": 0,
+    "away_score": 1,
+    "half_home_score": 0,
+    "half_away_score": 0,
+    "league": "美职联",
+    "match_time": "2026-09-19 07:40:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 1.68,
+    "odds_draw": 3.85,
+    "odds_away": 3.65,
+    "corner_home": "6",
+    "corner_away": "7",
+    "yellow_home": "2",
+    "yellow_away": "3",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]
