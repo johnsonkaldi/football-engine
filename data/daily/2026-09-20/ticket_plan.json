@@ -6,238 +6,40 @@
   "expected_roi": 0.0,
   "bankroll": 3870.7891,
   "breaker_multiplier": 1.0,
-  "parlay": [
-    {
-      "type": "2串1",
-      "legs": [
-        {
-          "match": "2026-09-20_周日030",
-          "home": "巴拉纳竞技",
-          "away": "巴伊亚",
-          "league": "巴甲",
-          "sel": "draw",
-          "odds": 3.2,
-          "prob": 0.502,
-          "cal_prob": 0.5,
-          "market_prob": 0.277,
-          "source": "fusion",
-          "hit_prob": 0.5
-        },
-        {
-          "match": "2026-09-20_周日005",
-          "home": "吉尔吉亚",
-          "away": "日本亚",
-          "league": "亚运男足",
-          "sel": "home",
-          "odds": 2.3,
-          "prob": 0.414,
-          "cal_prob": 0.506,
-          "market_prob": 0.414,
-          "source": "fusion",
-          "hit_prob": 0.506
-        }
-      ],
-      "total_odds": 7.36,
-      "model_ev": 1.06,
-      "cal_ev": 12.01,
-      "cal_roi": 0.8621,
-      "market_ev": -0.31,
-      "market_roi": -0.1568,
-      "hit_prob_cal": 0.253,
-      "recommended": true,
-      "stake": 13.93,
-      "n_bets": 1,
-      "potential": 102.52,
-      "worst_win": 0.0,
-      "note": "两场全中才赢",
-      "source": "calibrated"
-    }
-  ],
+  "parlay": [],
   "score_parlay": [
     {
       "type": "比分2串1",
       "legs": [
         {
-          "match": "2026-09-20_周日005",
-          "home": "吉尔吉亚",
-          "away": "日本亚",
-          "league": "亚运男足",
-          "score": "1-0",
-          "prob": 0.186,
-          "cal_prob": 0.0979,
-          "odds": 75.0
-        },
-        {
-          "match": "2026-09-20_周日015",
-          "home": "勒沃库森",
-          "away": "莱红牛",
-          "league": "德甲",
-          "score": "1-0",
-          "prob": 0.201,
-          "cal_prob": 0.0979,
-          "odds": 17.0
-        }
-      ],
-      "total_odds": 1275.0,
-      "hit_prob": 0.0096,
-      "stake": 2.0,
-      "potential": 2550.0,
-      "worst_win": 0.0,
-      "n_bets": 1,
-      "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 1275 倍 = EV +1123%）"
-    },
-    {
-      "type": "比分2串1",
-      "legs": [
-        {
-          "match": "2026-09-20_周日005",
-          "home": "吉尔吉亚",
-          "away": "日本亚",
-          "league": "亚运男足",
-          "score": "1-0",
-          "prob": 0.186,
-          "cal_prob": 0.0979,
-          "odds": 75.0
-        },
-        {
           "match": "2026-09-20_周日018",
           "home": "维京",
           "away": "利勒斯特伦",
           "league": "挪超",
           "score": "1-0",
-          "prob": 0.339,
+          "prob": 0.34,
           "cal_prob": 0.0979,
           "odds": 13.5
-        }
-      ],
-      "total_odds": 1012.5,
-      "hit_prob": 0.0096,
-      "stake": 2.0,
-      "potential": 2025.0,
-      "worst_win": 0.0,
-      "n_bets": 1,
-      "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 1.0% × 赔率 1012 倍 = EV +871%）"
-    },
-    {
-      "type": "比分2串1",
-      "legs": [
-        {
-          "match": "2026-09-20_周日005",
-          "home": "吉尔吉亚",
-          "away": "日本亚",
-          "league": "亚运男足",
-          "score": "1-0",
-          "prob": 0.186,
-          "cal_prob": 0.0979,
-          "odds": 75.0
         },
         {
-          "match": "2026-09-20_周日009",
-          "home": "特温特",
-          "away": "埃因霍温",
-          "league": "荷甲",
+          "match": "2026-09-20_周日021",
+          "home": "沙尔克04",
+          "away": "埃沃斯堡",
+          "league": "德甲",
           "score": "0-1",
-          "prob": 0.269,
+          "prob": 0.195,
           "cal_prob": 0.0682,
-          "odds": 19.0
+          "odds": 16.0
         }
       ],
-      "total_odds": 1425.0,
+      "total_odds": 216.0,
       "hit_prob": 0.0067,
       "stake": 2.0,
-      "potential": 2850.0,
+      "potential": 432.0,
       "worst_win": 0.0,
       "n_bets": 1,
       "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 1425 倍 = EV +852%）"
-    },
-    {
-      "type": "比分3串1",
-      "legs": [
-        {
-          "match": "2026-09-20_周日005",
-          "home": "吉尔吉亚",
-          "away": "日本亚",
-          "league": "亚运男足",
-          "score": "1-0",
-          "prob": 0.186,
-          "cal_prob": 0.0979,
-          "odds": 75.0
-        },
-        {
-          "match": "2026-09-20_周日015",
-          "home": "勒沃库森",
-          "away": "莱红牛",
-          "league": "德甲",
-          "score": "1-0",
-          "prob": 0.201,
-          "cal_prob": 0.0979,
-          "odds": 17.0
-        },
-        {
-          "match": "2026-09-20_周日018",
-          "home": "维京",
-          "away": "利勒斯特伦",
-          "league": "挪超",
-          "score": "1-0",
-          "prob": 0.339,
-          "cal_prob": 0.0979,
-          "odds": 13.5
-        }
-      ],
-      "total_odds": 17212.5,
-      "hit_prob": 0.0009,
-      "stake": 2.0,
-      "potential": 34425.0,
-      "worst_win": 0.0,
-      "n_bets": 1,
-      "odds_source": "official",
-      "note": "三场比分全中才赢（赔率 17212 倍，校准命中 0.09%）"
-    },
-    {
-      "type": "比分3串4(容错)",
-      "legs": [
-        {
-          "match": "2026-09-20_周日005",
-          "home": "吉尔吉亚",
-          "away": "日本亚",
-          "league": "亚运男足",
-          "score": "1-0",
-          "prob": 0.186,
-          "cal_prob": 0.0979,
-          "odds": 75.0
-        },
-        {
-          "match": "2026-09-20_周日015",
-          "home": "勒沃库森",
-          "away": "莱红牛",
-          "league": "德甲",
-          "score": "1-0",
-          "prob": 0.201,
-          "cal_prob": 0.0979,
-          "odds": 17.0
-        },
-        {
-          "match": "2026-09-20_周日018",
-          "home": "维京",
-          "away": "利勒斯特伦",
-          "league": "挪超",
-          "score": "1-0",
-          "prob": 0.339,
-          "cal_prob": 0.0979,
-          "odds": 13.5
-        }
-      ],
-      "total_odds": 17212.5,
-      "hit_prob": 0.0009,
-      "stake": 8.0,
-      "potential": 39459.0,
-      "worst_win": 2550.0,
-      "n_bets": 4,
-      "odds_source": "official",
-      "note": "3场出4注（3×2串1+1×3串1）错1场仍中1注2串1≈¥2550，全中≈¥39459"
+      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 216 倍 = EV +44%）"
     }
   ],
   "parlay_calibration": {
