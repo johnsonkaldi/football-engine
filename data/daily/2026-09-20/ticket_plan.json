@@ -30,9 +30,9 @@
           "league": "亚运男足",
           "sel": "home",
           "odds": 2.31,
-          "prob": 0.413,
+          "prob": 0.412,
           "cal_prob": 0.506,
-          "market_prob": 0.413,
+          "market_prob": 0.412,
           "source": "fusion",
           "hit_prob": 0.506
         }
@@ -42,7 +42,7 @@
       "cal_ev": 5.83,
       "cal_roi": 0.9286,
       "market_ev": -0.31,
-      "market_roi": -0.1556,
+      "market_roi": -0.1559,
       "hit_prob_cal": 0.253,
       "recommended": true,
       "stake": 6.28,
@@ -120,9 +120,9 @@
           "league": "亚运男足",
           "sel": "home",
           "odds": 2.31,
-          "prob": 0.413,
+          "prob": 0.412,
           "cal_prob": 0.506,
-          "market_prob": 0.413,
+          "market_prob": 0.412,
           "source": "fusion",
           "hit_prob": 0.506
         }
@@ -132,7 +132,7 @@
       "cal_ev": 0.99,
       "cal_roi": 0.3012,
       "market_ev": -0.31,
-      "market_roi": -0.1564,
+      "market_roi": -0.1567,
       "hit_prob_cal": 0.256,
       "recommended": true,
       "stake": 3.3,
@@ -178,9 +178,9 @@
           "league": "亚运男足",
           "sel": "home",
           "odds": 2.31,
-          "prob": 0.413,
+          "prob": 0.412,
           "cal_prob": 0.506,
-          "market_prob": 0.413,
+          "market_prob": 0.412,
           "source": "fusion",
           "hit_prob": 0.506
         }
@@ -189,8 +189,8 @@
       "model_ev": 0.95,
       "cal_ev": 3.74,
       "cal_roi": 1.1469,
-      "market_ev": -0.5,
-      "market_roi": -0.2525,
+      "market_ev": -0.51,
+      "market_roi": -0.2528,
       "hit_prob_cal": 0.128,
       "recommended": true,
       "stake": 3.26,
@@ -236,9 +236,9 @@
           "league": "亚运男足",
           "sel": "home",
           "odds": 2.31,
-          "prob": 0.413,
+          "prob": 0.412,
           "cal_prob": 0.506,
-          "market_prob": 0.413,
+          "market_prob": 0.412,
           "source": "fusion",
           "hit_prob": 0.506
         }
@@ -248,7 +248,7 @@
       "cal_ev": 3.53,
       "cal_roi": 0.8034,
       "market_ev": -1.56,
-      "market_roi": -0.195,
+      "market_roi": -0.1952,
       "hit_prob_cal": 0.128,
       "recommended": true,
       "stake": 4.4,
@@ -279,7 +279,7 @@
           "away": "莱红牛",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.198,
+          "prob": 0.205,
           "cal_prob": 0.0979,
           "odds": 17.0
         }
@@ -312,7 +312,7 @@
           "away": "埃因霍温",
           "league": "荷甲",
           "score": "0-1",
-          "prob": 0.266,
+          "prob": 0.268,
           "cal_prob": 0.0682,
           "odds": 19.0
         }
@@ -345,7 +345,7 @@
           "away": "利勒斯特伦",
           "league": "挪超",
           "score": "1-0",
-          "prob": 0.342,
+          "prob": 0.339,
           "cal_prob": 0.0979,
           "odds": 12.0
         }
@@ -378,7 +378,7 @@
           "away": "莱红牛",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.198,
+          "prob": 0.205,
           "cal_prob": 0.0979,
           "odds": 17.0
         },
@@ -388,7 +388,7 @@
           "away": "利勒斯特伦",
           "league": "挪超",
           "score": "1-0",
-          "prob": 0.342,
+          "prob": 0.339,
           "cal_prob": 0.0979,
           "odds": 12.0
         }
@@ -421,7 +421,7 @@
           "away": "莱红牛",
           "league": "德甲",
           "score": "1-0",
-          "prob": 0.198,
+          "prob": 0.205,
           "cal_prob": 0.0979,
           "odds": 17.0
         },
@@ -431,7 +431,7 @@
           "away": "利勒斯特伦",
           "league": "挪超",
           "score": "1-0",
-          "prob": 0.342,
+          "prob": 0.339,
           "cal_prob": 0.0979,
           "odds": 12.0
         }
