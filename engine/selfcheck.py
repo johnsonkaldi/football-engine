@@ -154,8 +154,19 @@ def main() -> int:
     }, ensure_ascii=False, indent=2), encoding="utf-8")
 
     # 关键字段全缺 = 数据流断裂（波胆/总进球/半全场/让球/新浪/市场）
+    # 2026-09-21: 小样本日（<5 场）不视为断裂——8/13 原型事故是 207 场 0% 抓取；
+    # 周一仅 1 场且新浪恰好无该场时 0/1 全缺属覆盖噪声，误报会阻断整条流水线
+    # （连正常数据一起提交不了）。告警仍保留展示，仅不触发阻断。
     _critical_fields = ("crs_odds", "ttg_odds", "hafu_odds", "handicap", "sina_odds", "market_fair")
-    _critical = [a for a in all_alerts if "全缺" in a and any(f in a for f in _critical_fields)]
+
+    def _alert_day_n(a: str) -> int:
+        import re
+        m = re.search(r"全缺（0/(\d+)）", a)
+        return int(m.group(1)) if m else 0
+
+    _critical = [a for a in all_alerts
+                 if "全缺" in a and any(f in a for f in _critical_fields)
+                 and _alert_day_n(a) >= 5]
 
     if all_alerts:
         print(f"数据完整性自检: {len(all_alerts)} 条告警")
