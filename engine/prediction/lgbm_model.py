@@ -99,9 +99,15 @@ class LGBMModel:
             self._is_trained = False
 
     def save(self):
-        """保存模型到文件"""
-        if self._model and self.model_path.parent.exists():
-            self.model_path.parent.mkdir(parents=True, exist_ok=True)
+        """保存模型到文件（2026-09-21 修复：train 产出 LGBMClassifier（sklearn 接口，
+        无 save_model），须经 booster_ 导出为 Booster 文本格式——与 _load 的
+        lgb.Booster(model_file=...) 对称；原生 Booster 对象仍直接 save_model）"""
+        if not self._model:
+            return
+        self.model_path.parent.mkdir(parents=True, exist_ok=True)
+        if hasattr(self._model, "booster_"):
+            self._model.booster_.save_model(str(self.model_path))
+        else:
             self._model.save_model(str(self.model_path))
 
     def train(self, features: np.ndarray, labels: np.ndarray,

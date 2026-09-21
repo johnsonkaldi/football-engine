@@ -23,7 +23,7 @@ import json
 import math
 from pathlib import Path
 
-from engine.prediction.lgbm_model import build_features
+from engine.prediction.lgbm_model import FEATURE_NAMES, build_features
 
 DEFAULTS = {
     "min_train_samples": 300,   # 全量已结算样本门槛（特征/标签全链有效）
@@ -121,10 +121,12 @@ def shadow_train(all_records: list[dict], clean_records: list[dict],
             trainer = LGBMModel(model_path, config=lgbm_cfg)
         import numpy as np
 
-        keys = sorted(rows[0]["features"].keys())
+        # 2026-09-21: 用 FEATURE_NAMES 权威列序（与 predict_single 内部一致），
+        # 缺键以 0.0 容错——避免首行键集与后续行不一致时 KeyError 整轮失败
+        keys = list(FEATURE_NAMES)
 
         def _matrix(rs):
-            X = np.array([[r["features"][k] for k in keys] for r in rs])
+            X = np.array([[float(r["features"].get(k, 0.0)) for k in keys] for r in rs])
             y = np.array([r["label"] for r in rs])
             return X, y
 
