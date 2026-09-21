@@ -3,8 +3,10 @@
   "checked_days": [
     "2026-09-21"
   ],
-  "n_alerts": 1,
+  "n_alerts": 3,
   "alerts": [
-    "⚠ 2026-09-21: predictions.json 不存在"
+    "⚠ 2026-09-21: sina_odds 全缺（0/1）——数据流可能断裂",
+    "⚠ 2026-09-21: market_fair 全缺（0/1）——数据流可能断裂",
+    "⚠ 2026-09-21: market_fair 覆盖率不足（0/1）——市场源缺失"
   ]
 }
