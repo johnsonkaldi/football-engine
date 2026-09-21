@@ -1,8 +1,8 @@
 {
   "n_leagues": 39,
-  "n_matches": 853,
+  "n_matches": 854,
   "external_added": 29,
-  "generated_at": "2026-09-21T15:20:42.883614",
+  "generated_at": "2026-09-21T17:03:44.322325",
   "leagues": [
     {
       "league": "西甲",
@@ -515,6 +515,23 @@
       "recent10_roi": 0.8067
     },
     {
+      "league": "亚运女足",
+      "n": 3,
+      "hit_rate": 0.3333,
+      "avg_odds": 2.31,
+      "roi": -0.23,
+      "avg_confidence": 0.0887,
+      "verdict": "谨慎",
+      "recent_n": 3,
+      "recent_hits": 1,
+      "recent_hit_rate": 0.3333,
+      "recent_roi": -0.23,
+      "recent10_n": 3,
+      "recent10_hits": 1,
+      "recent10_hit_rate": 0.3333,
+      "recent10_roi": -0.23
+    },
+    {
       "league": "韩职",
       "n": 3,
       "hit_rate": 0.3333,
@@ -547,23 +564,6 @@
       "recent10_hits": 1,
       "recent10_hit_rate": 0.3333,
       "recent10_roi": -0.4333
-    },
-    {
-      "league": "亚运女足",
-      "n": 2,
-      "hit_rate": 0.0,
-      "avg_odds": 2.31,
-      "roi": -1.0,
-      "avg_confidence": 0.0887,
-      "verdict": "样本不足",
-      "recent_n": 2,
-      "recent_hits": 0,
-      "recent_hit_rate": 0.0,
-      "recent_roi": -1.0,
-      "recent10_n": 2,
-      "recent10_hits": 0,
-      "recent10_hit_rate": 0.0,
-      "recent10_roi": -1.0
     },
     {
       "league": "英社区盾",

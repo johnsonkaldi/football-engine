@@ -1,0 +1,60 @@
+{
+  "stable": [],
+  "value": [],
+  "lottery": [],
+  "total_stake": 0,
+  "expected_roi": 0.0,
+  "bankroll": 3870.7891,
+  "breaker_multiplier": 1.0,
+  "parlay": [],
+  "score_parlay": [
+    {
+      "type": "比分2串1",
+      "legs": [
+        {
+          "match": "2026-09-22_周二002",
+          "home": "米尔顿",
+          "away": "克劳利",
+          "league": "英锦标赛",
+          "score": "1-0",
+          "prob": 0.197,
+          "cal_prob": 0.0973,
+          "odds": 12.0
+        },
+        {
+          "match": "2026-09-22_周二004",
+          "home": "维冈",
+          "away": "布莱克浦",
+          "league": "英锦标赛",
+          "score": "1-0",
+          "prob": 0.173,
+          "cal_prob": 0.0973,
+          "odds": 12.0
+        }
+      ],
+      "total_odds": 144.0,
+      "hit_prob": 0.0095,
+      "stake": 2.0,
+      "potential": 288.0,
+      "worst_win": 0.0,
+      "n_bets": 1,
+      "odds_source": "official",
+      "note": "两场比分都中才赢（校准命中 0.9% × 赔率 144 倍 = EV +36%）"
+    }
+  ],
+  "parlay_calibration": {
+    "overall": 0.5212,
+    "n": 825,
+    "table": {
+      "0.35": 0.4173,
+      "0.4": 0.497,
+      "0.45": 0.4938,
+      "0.5": 0.4876,
+      "0.55": 0.4557,
+      "0.6": 0.6429,
+      "0.65": 0.75,
+      "0.7": 0.7778
+    },
+    "note": "串关 EV 用账本校准命中率（模型概率高估，0.55-0.60 段仅 31.6% 命中）；推荐=校准EV>0"
+  }
+}

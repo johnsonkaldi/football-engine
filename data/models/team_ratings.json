@@ -10600,10 +10600,10 @@
     "rest_days": 3
   },
   "中国女足": {
-    "elo": 1564.5,
-    "attack": 1.0084,
-    "defense": 0.8815,
-    "form": 0.21,
+    "elo": 1599.5,
+    "attack": 1.086,
+    "defense": 0.8307,
+    "form": 0.447,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10779,6 +10779,14 @@
     "elo": 1484.7,
     "attack": 0.9025,
     "defense": 1.0081,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "菲律宾女足": {
+    "elo": 1465.0,
+    "attack": 0.9377,
+    "defense": 1.0784,
     "form": -0.3,
     "injury": 0.0,
     "rest_days": 3

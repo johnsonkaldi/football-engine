@@ -41,7 +41,7 @@
   "K1联赛": {
     "base_goals": 1.35,
     "home_adv_weight": 1.0,
-    "market_blend_weight": 0.33,
+    "market_blend_weight": 0.38,
     "xg_calibration": 0.95,
     "draw_baseline": 0.33,
     "draw_predictions": 0,
@@ -366,7 +366,7 @@
   "法甲": {
     "base_goals": 1.3,
     "home_adv_weight": 1.05,
-    "market_blend_weight": 0.10000000000000002,
+    "market_blend_weight": 0.1,
     "xg_calibration": 1.0,
     "draw_baseline": 0.25,
     "draw_predictions": 0,
@@ -475,10 +475,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 2,
-    "total_hits": 0,
+    "total_predictions": 3,
+    "total_hits": 1,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-17"
+    "last_updated": "2026-09-21"
   },
   "亚运男足": {
     "base_goals": 1.35,

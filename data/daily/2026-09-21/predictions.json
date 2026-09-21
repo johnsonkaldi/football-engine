@@ -364,6 +364,21 @@
       "best_edge": 0.1056,
       "recommended": false
     },
-    "kelly_edge": -0.0467
+    "kelly_edge": -0.0467,
+    "pnl": 0.0,
+    "actual_result": "5-1",
+    "actual_home_score": 5,
+    "actual_away_score": 1,
+    "direction_correct": true,
+    "predicted_score": "0-0",
+    "score_correct": false,
+    "score_rank": 0,
+    "score_top3_hit": false,
+    "score_top5_hit": false,
+    "score_top8_hit": false,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 0,
+    "market_signal_dir": null,
+    "market_signal_hit": null
   }
 ]
