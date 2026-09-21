@@ -1,0 +1,237 @@
+{
+  "date": "2026-09-20",
+  "n_matches": 30,
+  "hit_rate": 0.4333,
+  "hits": 13,
+  "source_brier": {
+    "model": 0.6467,
+    "market": 0.5949,
+    "djyy": null,
+    "final": 0.6138
+  },
+  "by_league": {
+    "亚运男足": {
+      "n": 2,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.7506
+    },
+    "日职": {
+      "n": 2,
+      "hit_rate": 0.5,
+      "wilson_lower": 0.0945,
+      "avg_brier": 0.5765
+    },
+    "K1联赛": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.7616
+    },
+    "意甲": {
+      "n": 5,
+      "hit_rate": 0.4,
+      "wilson_lower": 0.1176,
+      "avg_brier": 0.627
+    },
+    "英冠": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.307
+    },
+    "西甲": {
+      "n": 5,
+      "hit_rate": 0.6,
+      "wilson_lower": 0.2307,
+      "avg_brier": 0.5832
+    },
+    "荷甲": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.7548
+    },
+    "英超": {
+      "n": 4,
+      "hit_rate": 0.5,
+      "wilson_lower": 0.15,
+      "avg_brier": 0.6047
+    },
+    "德甲": {
+      "n": 3,
+      "hit_rate": 0.3333,
+      "wilson_lower": 0.0615,
+      "avg_brier": 0.7525
+    },
+    "瑞典超": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.5529
+    },
+    "挪超": {
+      "n": 1,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.2065,
+      "avg_brier": 0.1076
+    },
+    "法甲": {
+      "n": 2,
+      "hit_rate": 0.5,
+      "wilson_lower": 0.0945,
+      "avg_brier": 0.5179
+    },
+    "葡超": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.7523
+    },
+    "巴甲": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.7597
+    }
+  },
+  "by_confidence_tier": {
+    "mid": {
+      "n": 17,
+      "hit_rate": 0.2941,
+      "wilson_lower": 0.1328,
+      "avg_brier": 0.6887
+    },
+    "high": {
+      "n": 9,
+      "hit_rate": 0.6667,
+      "wilson_lower": 0.3542,
+      "avg_brier": 0.4517
+    },
+    "low": {
+      "n": 4,
+      "hit_rate": 0.5,
+      "wilson_lower": 0.15,
+      "avg_brier": 0.6602
+    }
+  },
+  "by_odds_band": {
+    "2.0-3.0": {
+      "n": 8,
+      "hit_rate": 0.25,
+      "wilson_lower": 0.0715,
+      "avg_brier": 0.7063
+    },
+    "1.5-2.0": {
+      "n": 15,
+      "hit_rate": 0.4,
+      "wilson_lower": 0.1982,
+      "avg_brier": 0.6794
+    },
+    "1.0-1.5": {
+      "n": 6,
+      "hit_rate": 0.8333,
+      "wilson_lower": 0.4365,
+      "avg_brier": 0.302
+    },
+    "3.0+": {
+      "n": 1,
+      "hit_rate": 0.0,
+      "wilson_lower": 0.0,
+      "avg_brier": 0.7597
+    }
+  },
+  "score_stats": {
+    "top1": 2,
+    "top3": 9,
+    "top5": 13,
+    "top8": 20,
+    "any": 20
+  },
+  "score_rank_hist": {
+    "2": 5,
+    "3": 2,
+    "5": 4,
+    "1": 2,
+    "8": 3,
+    "6": 4
+  },
+  "score_source_stats": {
+    "djyy": {
+      "n": 0,
+      "hits": 0
+    },
+    "mc": {
+      "n": 20,
+      "hits": 13
+    }
+  },
+  "market_signal_stats": {
+    "n": 29,
+    "hits": 11
+  },
+  "layered": {
+    "log_loss_final": 1.0202,
+    "rps_final": 0.2163,
+    "rps_market": 0.2086,
+    "goal_framework": {
+      "n": 30,
+      "hits": 17
+    },
+    "prob_bands": {
+      "40-50%": {
+        "n": 10,
+        "hit_rate": 0.3
+      },
+      "50-60%": {
+        "n": 10,
+        "hit_rate": 0.3
+      },
+      "60%+": {
+        "n": 6,
+        "hit_rate": 0.8333
+      },
+      "<40%": {
+        "n": 4,
+        "hit_rate": 0.5
+      }
+    },
+    "freshness_groups": {
+      "ok": {
+        "n": 16,
+        "hit_rate": 0.3125
+      },
+      "watch": {
+        "n": 14,
+        "hit_rate": 0.5714
+      }
+    }
+  },
+  "biases": [
+    {
+      "dimension": "league",
+      "key": "意甲",
+      "outcome": "home",
+      "predicted_avg": 0.4147,
+      "actual_rate": 0.8,
+      "gap": -0.3853,
+      "n": 5,
+      "severity": "critical",
+      "suggested_action": "increase home_adv_weight"
+    },
+    {
+      "dimension": "league",
+      "key": "西甲",
+      "outcome": "home",
+      "predicted_avg": 0.3926,
+      "actual_rate": 0.6,
+      "gap": -0.2074,
+      "n": 5,
+      "severity": "critical",
+      "suggested_action": "increase home_adv_weight"
+    }
+  ],
+  "total_pnl": 0.0,
+  "generated_at": "2026-09-21T08:35:16.757719",
+  "sha256": "8abf2f86522a697db466d0a950f424ef"
+}

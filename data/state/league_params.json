@@ -7,10 +7,10 @@
     "draw_baseline": 0.12,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 24,
-    "total_hits": 15,
+    "total_predictions": 25,
+    "total_hits": 16,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-19"
+    "last_updated": "2026-09-21"
   },
   "欧冠": {
     "base_goals": 1.4,
@@ -41,15 +41,15 @@
   "K1联赛": {
     "base_goals": 1.35,
     "home_adv_weight": 1.0,
-    "market_blend_weight": 0.28,
+    "market_blend_weight": 0.33,
     "xg_calibration": 0.95,
     "draw_baseline": 0.33,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 22,
+    "total_predictions": 23,
     "total_hits": 10,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-19"
+    "last_updated": "2026-09-21"
   },
   "芬超": {
     "base_goals": 1.35,
@@ -72,10 +72,10 @@
     "draw_baseline": 0.43,
     "draw_predictions": 2,
     "draw_hits": 0,
-    "total_predictions": 24,
-    "total_hits": 11,
+    "total_predictions": 25,
+    "total_hits": 12,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-19"
+    "last_updated": "2026-09-21"
   },
   "美职联": {
     "base_goals": 1.35,
@@ -96,12 +96,12 @@
     "market_blend_weight": 0.28,
     "xg_calibration": 0.71,
     "draw_baseline": 0.6,
-    "draw_predictions": 26,
+    "draw_predictions": 27,
     "draw_hits": 9,
-    "total_predictions": 18,
+    "total_predictions": 19,
     "total_hits": 3,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-19"
+    "last_updated": "2026-09-21"
   },
   "欧罗巴": {
     "base_goals": 1.35,
@@ -137,10 +137,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 29,
-    "total_hits": 19,
+    "total_predictions": 31,
+    "total_hits": 20,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-19"
+    "last_updated": "2026-09-21"
   },
   "荷甲": {
     "base_goals": 1.35,
@@ -150,10 +150,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 40,
+    "total_predictions": 41,
     "total_hits": 26,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-19"
+    "last_updated": "2026-09-21"
   },
   "荷乙": {
     "base_goals": 1.35,
@@ -202,10 +202,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 4,
     "draw_hits": 0,
-    "total_predictions": 39,
+    "total_predictions": 40,
     "total_hits": 22,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-19"
+    "last_updated": "2026-09-21"
   },
   "日乙": {
     "base_goals": 1.35,
@@ -306,10 +306,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 31,
-    "total_hits": 13,
+    "total_predictions": 32,
+    "total_hits": 14,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-19"
+    "last_updated": "2026-09-21"
   },
   "西甲": {
     "base_goals": 1.35,
@@ -319,10 +319,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 64,
-    "total_hits": 35,
+    "total_predictions": 69,
+    "total_hits": 38,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-19"
+    "last_updated": "2026-09-21"
   },
   "美职": {
     "base_goals": 1.35,
@@ -366,15 +366,15 @@
   "法甲": {
     "base_goals": 1.3,
     "home_adv_weight": 1.05,
-    "market_blend_weight": 0.15000000000000002,
+    "market_blend_weight": 0.10000000000000002,
     "xg_calibration": 1.0,
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 27,
-    "total_hits": 17,
+    "total_predictions": 29,
+    "total_hits": 18,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-19"
+    "last_updated": "2026-09-21"
   },
   "英超": {
     "base_goals": 1.45,
@@ -384,10 +384,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 92,
-    "total_hits": 17,
+    "total_predictions": 96,
+    "total_hits": 19,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-19"
+    "last_updated": "2026-09-21"
   },
   "意甲": {
     "base_goals": 1.25,
@@ -397,10 +397,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 45,
-    "total_hits": 26,
+    "total_predictions": 50,
+    "total_hits": 28,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-19"
+    "last_updated": "2026-09-21"
   },
   "德超杯": {
     "base_goals": 1.35,
@@ -436,10 +436,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 33,
-    "total_hits": 17,
+    "total_predictions": 36,
+    "total_hits": 18,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-19"
+    "last_updated": "2026-09-21"
   },
   "意大利杯": {
     "base_goals": 1.35,
@@ -488,10 +488,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 4,
+    "total_predictions": 6,
     "total_hits": 4,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-18"
+    "last_updated": "2026-09-21"
   },
   "亚冠乙": {
     "base_goals": 1.35,
