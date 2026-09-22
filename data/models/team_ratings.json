@@ -10790,5 +10790,53 @@
     "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
+  },
+  "米尔顿凯恩斯": {
+    "elo": 1533.9,
+    "attack": 1.0432,
+    "defense": 0.9377,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "克劳利": {
+    "elo": 1466.1,
+    "attack": 0.9377,
+    "defense": 1.0432,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "诺茨郡": {
+    "elo": 1513.0,
+    "attack": 0.9729,
+    "defense": 0.9377,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "格林斯比": {
+    "elo": 1487.0,
+    "attack": 0.9377,
+    "defense": 0.9729,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "维冈竞技": {
+    "elo": 1513.0,
+    "attack": 1.0081,
+    "defense": 0.9729,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "布莱克浦": {
+    "elo": 1487.0,
+    "attack": 0.9729,
+    "defense": 1.0081,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
   }
 }

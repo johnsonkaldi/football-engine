@@ -7,5 +7,32 @@
     "away_team": "沙特U23",
     "half_home_score": 0,
     "half_away_score": 0
+  },
+  {
+    "match_id": "2026-09-22_周二002",
+    "home_score": 4,
+    "away_score": 1,
+    "home_team": "米尔顿凯恩斯",
+    "away_team": "克劳利",
+    "half_home_score": 2,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-09-22_周二003",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "诺茨郡",
+    "away_team": "格林斯比",
+    "half_home_score": 1,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-09-22_周二004",
+    "home_score": 3,
+    "away_score": 2,
+    "home_team": "维冈竞技",
+    "away_team": "布莱克浦",
+    "half_home_score": 1,
+    "half_away_score": 0
   }
 ]
