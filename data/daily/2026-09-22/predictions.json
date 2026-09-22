@@ -461,7 +461,22 @@
     "play_ev": {
       "ttg": 0.2084
     },
-    "kelly_edge": -0.1155
+    "kelly_edge": -0.1155,
+    "pnl": 0.0,
+    "actual_result": "2-0",
+    "actual_home_score": 2,
+    "actual_away_score": 0,
+    "direction_correct": true,
+    "predicted_score": "2-0",
+    "score_correct": true,
+    "score_rank": 1,
+    "score_top3_hit": true,
+    "score_top5_hit": true,
+    "score_top8_hit": true,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 1,
+    "market_signal_dir": "home",
+    "market_signal_hit": true
   },
   {
     "match_id": "2026-09-22_周二002",

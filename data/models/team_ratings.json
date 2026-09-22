@@ -10632,10 +10632,10 @@
     "rest_days": 3
   },
   "韩国U23": {
-    "elo": 1549.3,
-    "attack": 1.0432,
-    "defense": 0.9377,
-    "form": 0.3,
+    "elo": 1570.4,
+    "attack": 1.0119,
+    "defense": 0.8463,
+    "form": 0.51,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10720,10 +10720,10 @@
     "rest_days": 3
   },
   "沙特U23": {
-    "elo": 1519.7,
-    "attack": 0.9729,
-    "defense": 0.9025,
-    "form": 0.3,
+    "elo": 1498.6,
+    "attack": 0.878,
+    "defense": 0.8849,
+    "form": -0.09,
     "injury": 0.0,
     "rest_days": 3
   },
