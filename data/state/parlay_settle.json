@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T10:00:46.616195+00:00",
+  "generated_at": "2026-09-23T11:33:36.498313+00:00",
   "parlay": {
     "n_tickets": 97,
     "n_pending": 0,
@@ -31,14 +31,14 @@
     }
   },
   "score_parlay": {
-    "n_tickets": 179,
-    "n_pending": 1,
+    "n_tickets": 178,
+    "n_pending": 0,
     "n_settled": 178,
     "n_won": 0,
     "hit_rate": 0.0,
     "stake": 554.0,
-    "stake_committed": 556.0,
-    "stake_pending": 2.0,
+    "stake_committed": 554.0,
+    "stake_pending": 0,
     "return": 0.0,
     "roi": -1.0,
     "avg_odds": 804.51,
@@ -10943,42 +10943,6 @@
             "score": "0-1",
             "odds": 16.0,
             "hit": false
-          }
-        ]
-      },
-      {
-        "date": "2026-09-23",
-        "type": "比分2串1",
-        "stake": 2.0,
-        "potential": 540.0,
-        "total_odds": 270.0,
-        "odds_source": "official",
-        "note": "待赛",
-        "won": false,
-        "pending": true,
-        "leg_results": [
-          null,
-          null
-        ],
-        "return": 0.0,
-        "legs": [
-          {
-            "match": "2026-09-23_周三002",
-            "home": "日本亚",
-            "away": "泰国亚",
-            "sel": null,
-            "score": "1-0",
-            "odds": 15.0,
-            "hit": null
-          },
-          {
-            "match": "2026-09-23_周三003",
-            "home": "西雅图",
-            "away": "皇家盐湖城",
-            "sel": null,
-            "score": "0-1",
-            "odds": 18.0,
-            "hit": null
           }
         ]
       }
@@ -24511,68 +24475,6 @@
                 "score": "0-1",
                 "odds": 16.0,
                 "hit": false
-              }
-            ]
-          }
-        ]
-      }
-    },
-    "2026-09-23": {
-      "parlay": {
-        "stats": null,
-        "tickets": []
-      },
-      "score_parlay": {
-        "stats": {
-          "n_tickets": 1,
-          "n_pending": 1,
-          "n_settled": 0,
-          "n_won": 0,
-          "hit_rate": null,
-          "stake": 0,
-          "stake_committed": 2.0,
-          "stake_pending": 2.0,
-          "return": 0,
-          "roi": null,
-          "avg_odds": null,
-          "by_type": {},
-          "leg_hit_rate": null,
-          "n_legs_settled": 0
-        },
-        "tickets": [
-          {
-            "date": "2026-09-23",
-            "type": "比分2串1",
-            "stake": 2.0,
-            "potential": 540.0,
-            "total_odds": 270.0,
-            "odds_source": "official",
-            "note": "待赛",
-            "won": false,
-            "pending": true,
-            "leg_results": [
-              null,
-              null
-            ],
-            "return": 0.0,
-            "legs": [
-              {
-                "match": "2026-09-23_周三002",
-                "home": "日本亚",
-                "away": "泰国亚",
-                "sel": null,
-                "score": "1-0",
-                "odds": 15.0,
-                "hit": null
-              },
-              {
-                "match": "2026-09-23_周三003",
-                "home": "西雅图",
-                "away": "皇家盐湖城",
-                "sel": null,
-                "score": "0-1",
-                "odds": 18.0,
-                "hit": null
               }
             ]
           }

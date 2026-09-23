@@ -7,41 +7,7 @@
   "bankroll": 3870.7891,
   "breaker_multiplier": 1.0,
   "parlay": [],
-  "score_parlay": [
-    {
-      "type": "比分2串1",
-      "legs": [
-        {
-          "match": "2026-09-23_周三002",
-          "home": "日本亚",
-          "away": "泰国亚",
-          "league": "亚运男足",
-          "score": "1-0",
-          "prob": 0.186,
-          "cal_prob": 0.0973,
-          "odds": 15.0
-        },
-        {
-          "match": "2026-09-23_周三003",
-          "home": "西雅图",
-          "away": "皇家盐湖城",
-          "league": "美职",
-          "score": "0-1",
-          "prob": 0.249,
-          "cal_prob": 0.0681,
-          "odds": 18.0
-        }
-      ],
-      "total_odds": 270.0,
-      "hit_prob": 0.0066,
-      "stake": 2.0,
-      "potential": 540.0,
-      "worst_win": 0.0,
-      "n_bets": 1,
-      "odds_source": "official",
-      "note": "两场比分都中才赢（校准命中 0.7% × 赔率 270 倍 = EV +79%）"
-    }
-  ],
+  "score_parlay": [],
   "parlay_calibration": {
     "overall": 0.5229,
     "n": 830,
