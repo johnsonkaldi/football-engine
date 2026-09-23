@@ -10656,10 +10656,10 @@
     "rest_days": 3
   },
   "中国U23": {
-    "elo": 1515.4,
-    "attack": 0.878,
-    "defense": 0.8463,
-    "form": 0.21,
+    "elo": 1511.8,
+    "attack": 0.7924,
+    "defense": 0.7638,
+    "form": 0.147,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10672,10 +10672,10 @@
     "rest_days": 3
   },
   "日本U23": {
-    "elo": 1627.3,
-    "attack": 1.1243,
-    "defense": 0.8145,
-    "form": 0.51,
+    "elo": 1648.0,
+    "attack": 1.1202,
+    "defense": 0.7351,
+    "form": 0.657,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10834,6 +10834,22 @@
   "布莱克浦": {
     "elo": 1487.0,
     "attack": 0.9729,
+    "defense": 1.0081,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "阿联酋U23": {
+    "elo": 1503.6,
+    "attack": 0.9025,
+    "defense": 0.9025,
+    "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "泰国U23": {
+    "elo": 1479.3,
+    "attack": 0.9025,
     "defense": 1.0081,
     "form": -0.3,
     "injury": 0.0,

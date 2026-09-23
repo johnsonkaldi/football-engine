@@ -1,8 +1,8 @@
 {
   "n_leagues": 40,
-  "n_matches": 858,
+  "n_matches": 860,
   "external_added": 29,
-  "generated_at": "2026-09-23T15:02:35.843716",
+  "generated_at": "2026-09-23T19:04:10.855031",
   "leagues": [
     {
       "league": "西甲",
@@ -447,6 +447,23 @@
       "recent10_roi": 0.2022
     },
     {
+      "league": "亚运男足",
+      "n": 9,
+      "hit_rate": 0.6667,
+      "avg_odds": 1.857,
+      "roi": 0.17,
+      "avg_confidence": 0.144,
+      "verdict": "观望",
+      "recent_n": 5,
+      "recent_hits": 2,
+      "recent_hit_rate": 0.4,
+      "recent_roi": -0.308,
+      "recent10_n": 9,
+      "recent10_hits": 6,
+      "recent10_hit_rate": 0.6667,
+      "recent10_roi": 0.17
+    },
+    {
       "league": "瑞超",
       "n": 9,
       "hit_rate": 0.5556,
@@ -479,23 +496,6 @@
       "recent10_hits": 3,
       "recent10_hit_rate": 0.375,
       "recent10_roi": -0.305
-    },
-    {
-      "league": "亚运男足",
-      "n": 7,
-      "hit_rate": 0.7143,
-      "avg_odds": 1.793,
-      "roi": 0.1743,
-      "avg_confidence": 0.1542,
-      "verdict": "观望",
-      "recent_n": 5,
-      "recent_hits": 3,
-      "recent_hit_rate": 0.6,
-      "recent_roi": -0.026,
-      "recent10_n": 7,
-      "recent10_hits": 5,
-      "recent10_hit_rate": 0.7143,
-      "recent10_roi": 0.1743
     },
     {
       "league": "德国杯",
