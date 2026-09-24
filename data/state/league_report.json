@@ -1,8 +1,8 @@
 {
-  "n_leagues": 40,
-  "n_matches": 861,
+  "n_leagues": 41,
+  "n_matches": 864,
   "external_added": 29,
-  "generated_at": "2026-09-24T15:57:31.646173",
+  "generated_at": "2026-09-24T19:23:31.664147",
   "leagues": [
     {
       "league": "西甲",
@@ -513,6 +513,23 @@
       "recent10_hits": 3,
       "recent10_hit_rate": 1.0,
       "recent10_roi": 0.8067
+    },
+    {
+      "league": "国际赛",
+      "n": 3,
+      "hit_rate": 0.6667,
+      "avg_odds": 1.747,
+      "roi": 0.23,
+      "avg_confidence": 0.1978,
+      "verdict": "观望",
+      "recent_n": 3,
+      "recent_hits": 2,
+      "recent_hit_rate": 0.6667,
+      "recent_roi": 0.23,
+      "recent10_n": 3,
+      "recent10_hits": 2,
+      "recent10_hit_rate": 0.6667,
+      "recent10_roi": 0.23
     },
     {
       "league": "英锦标赛",

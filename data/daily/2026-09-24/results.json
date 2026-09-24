@@ -1,0 +1,29 @@
+[
+  {
+    "match_id": "2026-09-24_周四001",
+    "home_score": 3,
+    "away_score": 1,
+    "home_team": "日本",
+    "away_team": "乌拉圭",
+    "half_home_score": 1,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "2026-09-24_周四002",
+    "home_score": 3,
+    "away_score": 0,
+    "home_team": "韩国",
+    "away_team": "厄瓜多尔",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "2026-09-24_周四003",
+    "home_score": 3,
+    "away_score": 0,
+    "home_team": "中国",
+    "away_team": "马尔代夫",
+    "half_home_score": 0,
+    "half_away_score": 0
+  }
+]

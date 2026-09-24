@@ -1,0 +1,72 @@
+{
+  "stable": [],
+  "value": [],
+  "lottery": [],
+  "total_stake": 0,
+  "expected_roi": 0.0,
+  "bankroll": 3870.7891,
+  "breaker_multiplier": 1.0,
+  "parlay": [
+    {
+      "type": "2串1",
+      "legs": [
+        {
+          "match": "2026-09-25_周五005",
+          "home": "韩国女",
+          "away": "乌兹别女",
+          "league": "亚运女足",
+          "sel": "home",
+          "odds": 2.31,
+          "prob": 0.412,
+          "cal_prob": 0.5,
+          "market_prob": 0.412,
+          "source": "fusion",
+          "hit_prob": 0.5
+        },
+        {
+          "match": "2026-09-25_周五002",
+          "home": "中国女",
+          "away": "越南女",
+          "league": "亚运女足",
+          "sel": "home",
+          "odds": 2.31,
+          "prob": 0.412,
+          "cal_prob": 0.5,
+          "market_prob": 0.412,
+          "source": "fusion",
+          "hit_prob": 0.5
+        }
+      ],
+      "total_odds": 5.34,
+      "model_ev": -0.19,
+      "cal_ev": 4.65,
+      "cal_roi": 0.334,
+      "market_ev": -0.19,
+      "market_roi": -0.0927,
+      "hit_prob_cal": 0.25,
+      "recommended": true,
+      "stake": 13.93,
+      "n_bets": 1,
+      "potential": 74.33,
+      "worst_win": 0.0,
+      "note": "两场全中才赢",
+      "source": "calibrated"
+    }
+  ],
+  "score_parlay": [],
+  "parlay_calibration": {
+    "overall": 0.5234,
+    "n": 833,
+    "table": {
+      "0.35": 0.4219,
+      "0.4": 0.5,
+      "0.45": 0.4908,
+      "0.5": 0.4918,
+      "0.55": 0.4557,
+      "0.6": 0.6429,
+      "0.65": 0.75,
+      "0.7": 0.7846
+    },
+    "note": "串关 EV 用账本校准命中率（模型概率高估，0.55-0.60 段仅 31.6% 命中）；推荐=校准EV>0"
+  }
+}
