@@ -40,10 +40,10 @@
     "rest_days": 3
   },
   "荷兰": {
-    "elo": 1938.7,
-    "attack": 1.7757,
-    "defense": 0.7229,
-    "form": 0.4428,
+    "elo": 1934.9,
+    "attack": 1.6378,
+    "defense": 0.6876,
+    "form": 0.31,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -72,10 +72,10 @@
     "rest_days": 3
   },
   "希腊": {
-    "elo": 1649.2,
-    "attack": 1.1269,
-    "defense": 0.7764,
-    "form": -0.3987,
+    "elo": 1667.3,
+    "attack": 1.0874,
+    "defense": 0.7359,
+    "form": 0.0209,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -208,18 +208,18 @@
     "rest_days": 3
   },
   "德国": {
-    "elo": 1920.4,
-    "attack": 1.8079,
-    "defense": 0.8062,
-    "form": 0.2656,
+    "elo": 1924.2,
+    "attack": 1.6668,
+    "defense": 0.7628,
+    "form": 0.1859,
     "injury": 0.0,
     "rest_days": 3
   },
   "葡萄牙": {
-    "elo": 1950.8,
-    "attack": 1.5918,
-    "defense": 0.6147,
-    "form": 0.1378,
+    "elo": 1953.4,
+    "attack": 1.4718,
+    "defense": 0.5548,
+    "form": 0.3965,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2296,10 +2296,10 @@
     "rest_days": 3
   },
   "挪威": {
-    "elo": 1908.0,
-    "attack": 1.7797,
-    "defense": 0.8365,
-    "form": 0.4129,
+    "elo": 1917.5,
+    "attack": 1.7117,
+    "defense": 0.8253,
+    "form": 0.589,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2456,10 +2456,10 @@
     "rest_days": 3
   },
   "爱尔兰": {
-    "elo": 1623.0,
-    "attack": 0.9566,
-    "defense": 0.7951,
-    "form": 0.4416,
+    "elo": 1606.0,
+    "attack": 0.8633,
+    "defense": 0.7528,
+    "form": 0.0091,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2472,10 +2472,10 @@
     "rest_days": 3
   },
   "丹麦": {
-    "elo": 1823.6,
-    "attack": 1.3969,
-    "defense": 0.6687,
-    "form": 0.4199,
+    "elo": 1814.1,
+    "attack": 1.3311,
+    "defense": 0.7091,
+    "form": -0.0061,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2704,10 +2704,10 @@
     "rest_days": 3
   },
   "塞尔维亚": {
-    "elo": 1629.7,
-    "attack": 0.8791,
-    "defense": 1.0843,
-    "form": -0.4271,
+    "elo": 1611.6,
+    "attack": 0.8286,
+    "defense": 1.049,
+    "form": -0.599,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2872,10 +2872,10 @@
     "rest_days": 3
   },
   "威尔士": {
-    "elo": 1594.1,
-    "attack": 1.1146,
-    "defense": 0.9196,
-    "form": -0.239,
+    "elo": 1591.5,
+    "attack": 1.0059,
+    "defense": 0.8651,
+    "form": -0.4673,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4768,10 +4768,10 @@
     "rest_days": 3
   },
   "科索沃": {
-    "elo": 1535.5,
-    "attack": 0.7475,
-    "defense": 1.1146,
-    "form": -0.2233,
+    "elo": 1552.5,
+    "attack": 0.7098,
+    "defense": 1.0059,
+    "form": 0.1437,
     "injury": 0.0,
     "rest_days": 3
   },

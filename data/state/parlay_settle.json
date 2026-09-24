@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T20:01:26.934965+00:00",
+  "generated_at": "2026-09-24T22:37:57.182555+00:00",
   "parlay": {
     "n_tickets": 98,
     "n_pending": 1,
@@ -3880,8 +3880,8 @@
         "date": "2026-09-25",
         "type": "2串1",
         "stake": 13.93,
-        "potential": 74.33,
-        "total_odds": 5.34,
+        "potential": 74.01,
+        "total_odds": 5.31,
         "odds_source": null,
         "note": "待赛",
         "won": false,
@@ -3898,7 +3898,7 @@
             "away": "乌兹别女",
             "sel": "home",
             "score": null,
-            "odds": 2.31,
+            "odds": 2.3,
             "hit": null
           },
           {
@@ -24538,8 +24538,8 @@
             "date": "2026-09-25",
             "type": "2串1",
             "stake": 13.93,
-            "potential": 74.33,
-            "total_odds": 5.34,
+            "potential": 74.01,
+            "total_odds": 5.31,
             "odds_source": null,
             "note": "待赛",
             "won": false,
@@ -24556,7 +24556,7 @@
                 "away": "乌兹别女",
                 "sel": "home",
                 "score": null,
-                "odds": 2.31,
+                "odds": 2.3,
                 "hit": null
               },
               {
