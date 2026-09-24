@@ -6928,10 +6928,10 @@
     "rest_days": 3
   },
   "皇家盐湖城": {
-    "elo": 1440.2,
-    "attack": 0.7436,
-    "defense": 0.8993,
-    "form": -0.3219,
+    "elo": 1421.3,
+    "attack": 0.6711,
+    "defense": 0.882,
+    "form": -0.5253,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10852,6 +10852,14 @@
     "attack": 0.9025,
     "defense": 1.0081,
     "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "西雅图海湾人": {
+    "elo": 1518.9,
+    "attack": 0.9729,
+    "defense": 0.9025,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
   }
