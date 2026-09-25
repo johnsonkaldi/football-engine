@@ -6,53 +6,7 @@
   "expected_roi": 0.0,
   "bankroll": 3870.7891,
   "breaker_multiplier": 1.0,
-  "parlay": [
-    {
-      "type": "2串1",
-      "legs": [
-        {
-          "match": "2026-09-25_周五005",
-          "home": "韩国女",
-          "away": "乌兹别女",
-          "league": "亚运女足",
-          "sel": "home",
-          "odds": 2.31,
-          "prob": 0.413,
-          "cal_prob": 0.497,
-          "market_prob": 0.413,
-          "source": "fusion",
-          "hit_prob": 0.497
-        },
-        {
-          "match": "2026-09-25_周五002",
-          "home": "中国女",
-          "away": "越南女",
-          "league": "亚运女足",
-          "sel": "home",
-          "odds": 2.32,
-          "prob": 0.411,
-          "cal_prob": 0.497,
-          "market_prob": 0.411,
-          "source": "fusion",
-          "hit_prob": 0.497
-        }
-      ],
-      "total_odds": 5.36,
-      "model_ev": -0.18,
-      "cal_ev": 4.52,
-      "cal_roi": 0.3243,
-      "market_ev": -0.18,
-      "market_roi": -0.0918,
-      "hit_prob_cal": 0.247,
-      "recommended": true,
-      "stake": 13.93,
-      "n_bets": 1,
-      "potential": 74.65,
-      "worst_win": 0.0,
-      "note": "两场全中才赢",
-      "source": "calibrated"
-    }
-  ],
+  "parlay": [],
   "score_parlay": [],
   "parlay_calibration": {
     "overall": 0.5256,
