@@ -1,8 +1,8 @@
 {
   "n_leagues": 42,
-  "n_matches": 876,
+  "n_matches": 882,
   "external_added": 29,
-  "generated_at": "2026-09-25T20:30:14.316114",
+  "generated_at": "2026-09-25T23:34:32.067911",
   "leagues": [
     {
       "league": "西甲",
@@ -396,6 +396,23 @@
       "recent10_roi": -0.696
     },
     {
+      "league": "欧国联",
+      "n": 12,
+      "hit_rate": 0.6667,
+      "avg_odds": 1.701,
+      "roi": 0.0933,
+      "avg_confidence": 0.1674,
+      "verdict": "观望",
+      "recent_n": 5,
+      "recent_hits": 3,
+      "recent_hit_rate": 0.6,
+      "recent_roi": -0.184,
+      "recent10_n": 10,
+      "recent10_hits": 6,
+      "recent10_hit_rate": 0.6,
+      "recent10_roi": -0.023
+    },
+    {
       "league": "巴西杯",
       "n": 12,
       "hit_rate": 0.4167,
@@ -448,20 +465,20 @@
     },
     {
       "league": "荷乙",
-      "n": 9,
-      "hit_rate": 0.6667,
-      "avg_odds": 1.888,
-      "roi": 0.2022,
-      "avg_confidence": 0.1483,
+      "n": 10,
+      "hit_rate": 0.6,
+      "avg_odds": 1.879,
+      "roi": 0.082,
+      "avg_confidence": 0.146,
       "verdict": "观望",
       "recent_n": 5,
-      "recent_hits": 4,
-      "recent_hit_rate": 0.8,
-      "recent_roi": 0.576,
-      "recent10_n": 9,
+      "recent_hits": 3,
+      "recent_hit_rate": 0.6,
+      "recent_roi": 0.15,
+      "recent10_n": 10,
       "recent10_hits": 6,
-      "recent10_hit_rate": 0.6667,
-      "recent10_roi": 0.2022
+      "recent10_hit_rate": 0.6,
+      "recent10_roi": 0.082
     },
     {
       "league": "瑞超",
@@ -496,23 +513,6 @@
       "recent10_hits": 3,
       "recent10_hit_rate": 0.375,
       "recent10_roi": -0.305
-    },
-    {
-      "league": "欧国联",
-      "n": 7,
-      "hit_rate": 0.7143,
-      "avg_odds": 1.843,
-      "roi": 0.2914,
-      "avg_confidence": 0.1729,
-      "verdict": "观望",
-      "recent_n": 5,
-      "recent_hits": 3,
-      "recent_hit_rate": 0.6,
-      "recent_roi": 0.138,
-      "recent10_n": 7,
-      "recent10_hits": 5,
-      "recent10_hit_rate": 0.7143,
-      "recent10_roi": 0.2914
     },
     {
       "league": "亚运女足",
