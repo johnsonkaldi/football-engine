@@ -17,7 +17,7 @@
           "league": "亚运女足",
           "sel": "home",
           "odds": 2.31,
-          "prob": 0.412,
+          "prob": 0.413,
           "cal_prob": 0.497,
           "market_prob": 0.412,
           "source": "fusion",
@@ -38,7 +38,7 @@
         }
       ],
       "total_odds": 5.34,
-      "model_ev": -0.19,
+      "model_ev": -0.18,
       "cal_ev": 4.44,
       "cal_roi": 0.3186,
       "market_ev": -0.19,
