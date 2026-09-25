@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T01:34:37.115823+00:00",
+  "generated_at": "2026-09-25T05:44:13.506931+00:00",
   "parlay": {
     "n_tickets": 98,
     "n_pending": 1,
@@ -3880,8 +3880,8 @@
         "date": "2026-09-25",
         "type": "2串1",
         "stake": 13.93,
-        "potential": 74.33,
-        "total_odds": 5.34,
+        "potential": 74.65,
+        "total_odds": 5.36,
         "odds_source": null,
         "note": "待赛",
         "won": false,
@@ -3893,21 +3893,21 @@
         "return": 0.0,
         "legs": [
           {
-            "match": "2026-09-25_周五002",
-            "home": "中国女",
-            "away": "越南女",
-            "sel": "home",
-            "score": null,
-            "odds": 2.31,
-            "hit": null
-          },
-          {
             "match": "2026-09-25_周五005",
             "home": "韩国女",
             "away": "乌兹别女",
             "sel": "home",
             "score": null,
             "odds": 2.31,
+            "hit": null
+          },
+          {
+            "match": "2026-09-25_周五002",
+            "home": "中国女",
+            "away": "越南女",
+            "sel": "home",
+            "score": null,
+            "odds": 2.32,
             "hit": null
           }
         ]
@@ -24538,8 +24538,8 @@
             "date": "2026-09-25",
             "type": "2串1",
             "stake": 13.93,
-            "potential": 74.33,
-            "total_odds": 5.34,
+            "potential": 74.65,
+            "total_odds": 5.36,
             "odds_source": null,
             "note": "待赛",
             "won": false,
@@ -24551,21 +24551,21 @@
             "return": 0.0,
             "legs": [
               {
-                "match": "2026-09-25_周五002",
-                "home": "中国女",
-                "away": "越南女",
-                "sel": "home",
-                "score": null,
-                "odds": 2.31,
-                "hit": null
-              },
-              {
                 "match": "2026-09-25_周五005",
                 "home": "韩国女",
                 "away": "乌兹别女",
                 "sel": "home",
                 "score": null,
                 "odds": 2.31,
+                "hit": null
+              },
+              {
+                "match": "2026-09-25_周五002",
+                "home": "中国女",
+                "away": "越南女",
+                "sel": "home",
+                "score": null,
+                "odds": 2.32,
                 "hit": null
               }
             ]
