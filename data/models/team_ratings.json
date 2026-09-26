@@ -1248,10 +1248,10 @@
     "rest_days": 3
   },
   "赫拉克勒斯": {
-    "elo": 1222.3,
-    "attack": 0.7496,
-    "defense": 1.6058,
-    "form": -0.3577,
+    "elo": 1266.8,
+    "attack": 0.7469,
+    "defense": 1.4492,
+    "form": 0.0496,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2736,10 +2736,10 @@
     "rest_days": 3
   },
   "苏格兰": {
-    "elo": 1694.2,
-    "attack": 1.1104,
-    "defense": 0.9605,
-    "form": -0.2389,
+    "elo": 1688.5,
+    "attack": 1.0021,
+    "defense": 0.8669,
+    "form": -0.1672,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9472,18 +9472,18 @@
     "rest_days": 3
   },
   "RB大宫松鼠": {
-    "elo": 1512.0,
-    "attack": 0.8624,
-    "defense": 0.8338,
-    "form": 0.147,
+    "elo": 1545.8,
+    "attack": 0.9542,
+    "defense": 0.7877,
+    "form": 0.4029,
     "injury": 0.0,
     "rest_days": 3
   },
   "新泻天鹅": {
-    "elo": 1487.0,
-    "attack": 0.9025,
-    "defense": 0.9377,
-    "form": -0.3,
+    "elo": 1490.5,
+    "attack": 0.8849,
+    "defense": 0.9166,
+    "form": -0.21,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10096,10 +10096,10 @@
     "rest_days": 3
   },
   "富山胜利": {
-    "elo": 1564.5,
-    "attack": 1.0432,
-    "defense": 0.9025,
-    "form": 0.3,
+    "elo": 1558.8,
+    "attack": 1.047,
+    "defense": 0.9201,
+    "form": 0.21,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10296,10 +10296,10 @@
     "rest_days": 3
   },
   "甲府风林": {
-    "elo": 1480.2,
-    "attack": 0.8849,
-    "defense": 0.945,
-    "form": 0.09,
+    "elo": 1405.0,
+    "attack": 0.7877,
+    "defense": 1.1044,
+    "form": -0.4659,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10560,10 +10560,10 @@
     "rest_days": 3
   },
   "仙台七夕": {
-    "elo": 1497.0,
-    "attack": 0.9377,
-    "defense": 0.9377,
-    "form": 0.0,
+    "elo": 1531.4,
+    "attack": 0.9166,
+    "defense": 0.8463,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10656,26 +10656,26 @@
     "rest_days": 3
   },
   "中国U23": {
-    "elo": 1511.8,
-    "attack": 0.7924,
-    "defense": 0.7638,
-    "form": 0.147,
+    "elo": 1542.0,
+    "attack": 0.8207,
+    "defense": 0.6893,
+    "form": 0.4029,
     "injury": 0.0,
     "rest_days": 3
   },
   "朝鲜U23": {
-    "elo": 1487.0,
-    "attack": 0.9377,
-    "defense": 0.9729,
-    "form": -0.3,
+    "elo": 1480.2,
+    "attack": 0.8463,
+    "defense": 0.9132,
+    "form": -0.51,
     "injury": 0.0,
     "rest_days": 3
   },
   "日本U23": {
-    "elo": 1648.0,
-    "attack": 1.1202,
-    "defense": 0.7351,
-    "form": 0.657,
+    "elo": 1654.8,
+    "attack": 1.0462,
+    "defense": 0.6634,
+    "form": 0.7599,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10752,9 +10752,9 @@
     "rest_days": 3
   },
   "藤枝FC": {
-    "elo": 1497.5,
-    "attack": 0.9377,
-    "defense": 0.9377,
+    "elo": 1500.4,
+    "attack": 0.8815,
+    "defense": 0.8815,
     "form": 0.0,
     "injury": 0.0,
     "rest_days": 3
@@ -10848,10 +10848,10 @@
     "rest_days": 3
   },
   "泰国U23": {
-    "elo": 1479.3,
-    "attack": 0.9025,
-    "defense": 1.0081,
-    "form": -0.3,
+    "elo": 1449.1,
+    "attack": 0.8145,
+    "defense": 1.0154,
+    "form": -0.51,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10900,6 +10900,118 @@
     "attack": 1.1136,
     "defense": 1.0081,
     "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "中国亚": {
+    "elo": 1533.9,
+    "attack": 1.0081,
+    "defense": 0.9025,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "泰国亚": {
+    "elo": 1466.1,
+    "attack": 0.9025,
+    "defense": 1.0081,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "磐城FC": {
+    "elo": 1465.6,
+    "attack": 0.9025,
+    "defense": 0.9729,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "横滨FC": {
+    "elo": 1505.7,
+    "attack": 1.0081,
+    "defense": 1.0081,
+    "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "秋田闪电": {
+    "elo": 1497.0,
+    "attack": 0.9729,
+    "defense": 0.9729,
+    "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "新潟天鹅": {
+    "elo": 1503.0,
+    "attack": 0.9729,
+    "defense": 0.9729,
+    "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "大宫松鼠": {
+    "elo": 1541.4,
+    "attack": 1.0784,
+    "defense": 0.9377,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "大分三神": {
+    "elo": 1494.1,
+    "attack": 0.8814,
+    "defense": 0.8814,
+    "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "藤枝MYFC": {
+    "elo": 1503.0,
+    "attack": 0.9377,
+    "defense": 0.9377,
+    "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "日本亚": {
+    "elo": 1513.0,
+    "attack": 0.9377,
+    "defense": 0.9025,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "朝鲜亚": {
+    "elo": 1487.0,
+    "attack": 0.9025,
+    "defense": 0.9377,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "秋田蓝色闪电": {
+    "elo": 1496.5,
+    "attack": 0.9729,
+    "defense": 0.9729,
+    "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "斯洛文尼亚": {
+    "elo": 1505.7,
+    "attack": 0.9025,
+    "defense": 0.9025,
+    "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "维特斯": {
+    "elo": 1455.5,
+    "attack": 0.9025,
+    "defense": 0.9729,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   }

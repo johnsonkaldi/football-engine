@@ -115,5 +115,60 @@
     "away_team": "阿尔梅勒城",
     "half_home_score": 1,
     "half_away_score": 1
+  },
+  {
+    "match_id": "周五001",
+    "home_team": "乌兹别亚",
+    "away_team": "沙特亚",
+    "home_score": 3,
+    "away_score": 0,
+    "competition": "亚运男足",
+    "match_date": "2026-09-25",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周五002",
+    "home_team": "中国女",
+    "away_team": "越南女",
+    "home_score": 0,
+    "away_score": 0,
+    "competition": "亚运女足",
+    "match_date": "2026-09-25",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周五004",
+    "home_team": "韩国亚",
+    "away_team": "越南亚",
+    "home_score": 4,
+    "away_score": 0,
+    "competition": "亚运男足",
+    "match_date": "2026-09-25",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周五005",
+    "home_team": "韩国女",
+    "away_team": "乌兹别女",
+    "home_score": 6,
+    "away_score": 3,
+    "competition": "亚运女足",
+    "match_date": "2026-09-25",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周五013",
+    "home_team": "多德勒支",
+    "away_team": "阿尔梅勒",
+    "home_score": 3,
+    "away_score": 2,
+    "competition": "荷乙",
+    "match_date": "2026-09-25",
+    "match_no": "",
+    "status": "完赛"
   }
 ]
