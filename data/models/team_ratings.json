@@ -2544,10 +2544,10 @@
     "rest_days": 3
   },
   "爱沙尼亚": {
-    "elo": 1239.1,
-    "attack": 0.3239,
-    "defense": 1.8763,
-    "form": -0.9989,
+    "elo": 1250.5,
+    "attack": 0.3275,
+    "defense": 1.7285,
+    "form": -0.6992,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2792,10 +2792,10 @@
     "rest_days": 3
   },
   "法罗群岛": {
-    "elo": 1220.9,
-    "attack": 0.353,
-    "defense": 1.4722,
-    "form": -0.526,
+    "elo": 1224.5,
+    "attack": 0.3538,
+    "defense": 1.3638,
+    "form": -0.3682,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2856,10 +2856,10 @@
     "rest_days": 3
   },
   "冰岛": {
-    "elo": 1485.0,
-    "attack": 0.9894,
-    "defense": 1.3506,
-    "form": -0.6261,
+    "elo": 1473.6,
+    "attack": 0.9281,
+    "defense": 1.2541,
+    "form": -0.4383,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3088,10 +3088,10 @@
     "rest_days": 3
   },
   "卢森堡": {
-    "elo": 1343.2,
-    "attack": 0.4283,
-    "defense": 1.4145,
-    "form": -0.3643,
+    "elo": 1363.2,
+    "attack": 0.4569,
+    "defense": 1.3118,
+    "form": 0.045,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -3152,18 +3152,18 @@
     "rest_days": 3
   },
   "哈萨克斯坦": {
-    "elo": 1364.5,
-    "attack": 0.5086,
-    "defense": 1.5654,
-    "form": -0.5867,
+    "elo": 1360.9,
+    "attack": 0.4942,
+    "defense": 1.448,
+    "form": -0.4107,
     "injury": 0.0,
     "rest_days": 3
   },
   "保加利亚": {
-    "elo": 1367.5,
-    "attack": 0.5353,
-    "defense": 1.6062,
-    "form": -0.3662,
+    "elo": 1347.5,
+    "attack": 0.5183,
+    "defense": 1.52,
+    "form": -0.5563,
     "injury": 0.0,
     "rest_days": 3
   },
