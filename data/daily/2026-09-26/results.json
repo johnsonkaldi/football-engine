@@ -187,5 +187,14 @@
     "away_team": "西班牙",
     "half_home_score": 2,
     "half_away_score": 1
+  },
+  {
+    "match_id": "3867366",
+    "home_score": 4,
+    "away_score": 1,
+    "home_team": "美国",
+    "away_team": "秘鲁",
+    "half_home_score": 1,
+    "half_away_score": 1
   }
 ]

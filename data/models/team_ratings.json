@@ -184,10 +184,10 @@
     "rest_days": 3
   },
   "美国": {
-    "elo": 1768.5,
-    "attack": 1.378,
-    "defense": 1.0828,
-    "form": -0.0915,
+    "elo": 1786.6,
+    "attack": 1.3844,
+    "defense": 1.0124,
+    "form": 0.2359,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -1112,10 +1112,10 @@
     "rest_days": 3
   },
   "秘鲁": {
-    "elo": 1610.7,
-    "attack": 0.5913,
-    "defense": 0.9463,
-    "form": -0.3485,
+    "elo": 1592.6,
+    "attack": 0.5688,
+    "defense": 0.9948,
+    "form": -0.5439,
     "injury": 0.0,
     "rest_days": 3
   },
