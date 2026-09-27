@@ -6504,10 +6504,10 @@
     "rest_days": 3
   },
   "洛杉矶FC": {
-    "elo": 1689.4,
-    "attack": 0.7246,
-    "defense": 0.2929,
-    "form": -0.0935,
+    "elo": 1666.2,
+    "attack": 0.654,
+    "defense": 0.2995,
+    "form": -0.3654,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6928,10 +6928,10 @@
     "rest_days": 3
   },
   "皇家盐湖城": {
-    "elo": 1421.3,
-    "attack": 0.6711,
-    "defense": 0.882,
-    "form": -0.5253,
+    "elo": 1475.7,
+    "attack": 0.7112,
+    "defense": 0.796,
+    "form": -0.0677,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7120,18 +7120,18 @@
     "rest_days": 3
   },
   "新英格兰": {
-    "elo": 1597.0,
-    "attack": 0.8085,
-    "defense": 0.5007,
-    "form": 0.3648,
+    "elo": 1542.6,
+    "attack": 0.7297,
+    "defense": 0.5574,
+    "form": -0.0446,
     "injury": 0.0,
     "rest_days": 3
   },
   "多伦多FC": {
-    "elo": 1508.3,
-    "attack": 0.9377,
-    "defense": 0.9377,
-    "form": 0.0,
+    "elo": 1487.0,
+    "attack": 0.8463,
+    "defense": 0.9166,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7152,10 +7152,10 @@
     "rest_days": 3
   },
   "纳什维尔": {
-    "elo": 1536.5,
-    "attack": 0.3845,
-    "defense": 0.4171,
-    "form": -0.0591,
+    "elo": 1557.8,
+    "attack": 0.4174,
+    "defense": 0.3764,
+    "form": 0.2586,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7216,10 +7216,10 @@
     "rest_days": 3
   },
   "科罗拉多急流": {
-    "elo": 1514.2,
-    "attack": 0.3978,
-    "defense": 0.4417,
-    "form": -0.2491,
+    "elo": 1494.9,
+    "attack": 0.4294,
+    "defense": 0.5042,
+    "form": -0.4744,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7232,10 +7232,10 @@
     "rest_days": 3
   },
   "洛杉矶银河": {
-    "elo": 1377.2,
-    "attack": 0.4624,
-    "defense": 0.5898,
-    "form": -0.0479,
+    "elo": 1396.5,
+    "attack": 0.5229,
+    "defense": 0.6027,
+    "form": 0.2665,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7248,34 +7248,34 @@
     "rest_days": 3
   },
   "圣何塞地震": {
-    "elo": 1485.8,
-    "attack": 0.7063,
-    "defense": 0.7063,
-    "form": 0.0,
+    "elo": 1536.6,
+    "attack": 0.7761,
+    "defense": 0.6422,
+    "form": 0.51,
     "injury": 0.0,
     "rest_days": 3
   },
   "奥兰多城": {
-    "elo": 1696.5,
-    "attack": 0.7944,
-    "defense": 0.3975,
-    "form": 0.3861,
+    "elo": 1659.1,
+    "attack": 0.7873,
+    "defense": 0.4995,
+    "form": -0.0297,
     "injury": 0.0,
     "rest_days": 3
   },
   "波特兰伐木者": {
-    "elo": 1546.4,
-    "attack": 0.8031,
-    "defense": 0.6182,
-    "form": 0.9176,
+    "elo": 1518.0,
+    "attack": 0.76,
+    "defense": 0.6635,
+    "form": 0.3423,
     "injury": 0.0,
     "rest_days": 3
   },
   "达拉斯FC": {
-    "elo": 1455.3,
-    "attack": 0.8406,
-    "defense": 0.9994,
-    "form": -0.21,
+    "elo": 1478.5,
+    "attack": 0.7938,
+    "defense": 0.902,
+    "form": 0.153,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7976,10 +7976,10 @@
     "rest_days": 3
   },
   "洛城银河": {
-    "elo": 1506.0,
-    "attack": 0.6374,
-    "defense": 0.6374,
-    "form": 0.0,
+    "elo": 1519.8,
+    "attack": 0.6808,
+    "defense": 0.6456,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10216,10 +10216,10 @@
     "rest_days": 3
   },
   "费城联合": {
-    "elo": 1524.0,
-    "attack": 1.0081,
-    "defense": 0.9729,
-    "form": 0.3,
+    "elo": 1561.4,
+    "attack": 1.0506,
+    "defense": 0.9484,
+    "form": 0.51,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10248,10 +10248,10 @@
     "rest_days": 3
   },
   "科罗拉多": {
-    "elo": 1522.6,
-    "attack": 0.9377,
-    "defense": 0.9025,
-    "form": 0.3,
+    "elo": 1508.8,
+    "attack": 0.9166,
+    "defense": 0.9201,
+    "form": -0.09,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11020,6 +11020,30 @@
     "attack": 0.9377,
     "defense": 0.9377,
     "form": 0.0,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "费城": {
+    "elo": 1523.5,
+    "attack": 1.0432,
+    "defense": 0.9729,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "奥兰多": {
+    "elo": 1476.5,
+    "attack": 0.9729,
+    "defense": 1.0432,
+    "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "波特兰伐木工": {
+    "elo": 1477.7,
+    "attack": 0.9377,
+    "defense": 1.0081,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   }
