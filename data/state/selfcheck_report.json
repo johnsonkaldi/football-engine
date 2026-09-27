@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-27",
+  "generated_at": "2026-09-28",
   "checked_days": [
-    "2026-09-27"
+    "2026-09-28"
   ],
   "n_alerts": 1,
   "alerts": [
-    "⚠ 2026-09-27: predictions.json 不存在"
+    "⚠ 2026-09-28: predictions.json 不存在"
   ]
 }

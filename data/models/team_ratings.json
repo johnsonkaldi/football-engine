@@ -256,10 +256,10 @@
     "rest_days": 3
   },
   "中国": {
-    "elo": 1409.8,
-    "attack": 0.5539,
-    "defense": 1.26,
-    "form": 0.0,
+    "elo": 1363.7,
+    "attack": 0.4999,
+    "defense": 1.2427,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2808,10 +2808,10 @@
     "rest_days": 3
   },
   "新西兰": {
-    "elo": 1437.2,
-    "attack": 0.6397,
-    "defense": 1.3061,
-    "form": -0.7312,
+    "elo": 1483.3,
+    "attack": 0.6829,
+    "defense": 1.1788,
+    "form": -0.2118,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6696,10 +6696,10 @@
     "rest_days": 3
   },
   "江原FC": {
-    "elo": 1366.9,
-    "attack": 0.3616,
-    "defense": 0.6497,
-    "form": -0.1769,
+    "elo": 1369.0,
+    "attack": 0.3263,
+    "defense": 0.5864,
+    "form": -0.1238,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -6712,10 +6712,10 @@
     "rest_days": 3
   },
   "仁川联": {
-    "elo": 1478.3,
-    "attack": 0.5406,
-    "defense": 0.5905,
-    "form": -0.3128,
+    "elo": 1476.2,
+    "attack": 0.4879,
+    "defense": 0.5329,
+    "form": -0.219,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10048,10 +10048,10 @@
     "rest_days": 3
   },
   "登博思": {
-    "elo": 1523.9,
-    "attack": 1.0216,
-    "defense": 0.9198,
-    "form": 0.363,
+    "elo": 1509.8,
+    "attack": 0.922,
+    "defense": 0.8653,
+    "form": -0.0459,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11044,6 +11044,14 @@
     "attack": 0.9377,
     "defense": 1.0081,
     "form": -0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "格拉夫夏普": {
+    "elo": 1514.1,
+    "attack": 0.9377,
+    "defense": 0.9025,
+    "form": 0.3,
     "injury": 0.0,
     "rest_days": 3
   }
