@@ -135,7 +135,7 @@
     "half_away_score": 1
   },
   {
-    "match_id": "3703603",
+    "match_id": "周六011",
     "home_score": 1,
     "away_score": 1,
     "home_team": "冰岛",
@@ -144,7 +144,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3703607",
+    "match_id": "周六012",
     "home_score": 1,
     "away_score": 2,
     "home_team": "保加利亚",
@@ -153,7 +153,7 @@
     "half_away_score": 1
   },
   {
-    "match_id": "3748344",
+    "match_id": "周六013",
     "home_score": 2,
     "away_score": 0,
     "home_team": "罗达JC",
@@ -162,7 +162,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3703612",
+    "match_id": "周六014",
     "home_score": 1,
     "away_score": 2,
     "home_team": "捷克",
@@ -171,7 +171,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3703611",
+    "match_id": "周六015",
     "home_score": 0,
     "away_score": 3,
     "home_team": "北马其顿",
@@ -180,7 +180,7 @@
     "half_away_score": 2
   },
   {
-    "match_id": "3703608",
+    "match_id": "周六016",
     "home_score": 2,
     "away_score": 3,
     "home_team": "英格兰",
@@ -196,5 +196,41 @@
     "away_team": "秘鲁",
     "half_home_score": 1,
     "half_away_score": 1
+  },
+  {
+    "match_id": "周六008",
+    "home_score": 0,
+    "away_score": 0,
+    "home_team": "斯洛文尼",
+    "away_team": "苏格兰",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "周六009",
+    "home_score": 2,
+    "away_score": 0,
+    "home_team": "赫拉克勒",
+    "away_team": "维迪斯",
+    "half_home_score": 2,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "周六010",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "法罗群岛",
+    "away_team": "哈萨克",
+    "half_home_score": 1,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "3867367",
+    "home_score": 1,
+    "away_score": 0,
+    "home_team": "加拿大",
+    "away_team": "智利",
+    "half_home_score": 1,
+    "half_away_score": 0
   }
 ]
