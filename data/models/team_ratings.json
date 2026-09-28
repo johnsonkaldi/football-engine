@@ -3528,10 +3528,10 @@
     "rest_days": 3
   },
   "格拉夫": {
-    "elo": 1349.8,
-    "attack": 0.934,
-    "defense": 1.5492,
-    "form": -0.3922,
+    "elo": 1370.1,
+    "attack": 0.8781,
+    "defense": 1.3982,
+    "form": 0.0255,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10048,10 +10048,10 @@
     "rest_days": 3
   },
   "登博思": {
-    "elo": 1509.8,
-    "attack": 0.922,
-    "defense": 0.8653,
-    "form": -0.0459,
+    "elo": 1489.5,
+    "attack": 0.8321,
+    "defense": 0.8161,
+    "form": -0.3321,
     "injury": 0.0,
     "rest_days": 3
   },
