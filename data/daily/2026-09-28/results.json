@@ -1,0 +1,20 @@
+[
+  {
+    "match_id": "3801197",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "日本",
+    "away_team": "委内瑞拉",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "3867385",
+    "home_score": 1,
+    "away_score": 4,
+    "home_team": "韩国",
+    "away_team": "乌拉圭",
+    "half_home_score": 0,
+    "half_away_score": 3
+  }
+]

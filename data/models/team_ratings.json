@@ -88,10 +88,10 @@
     "rest_days": 3
   },
   "日本": {
-    "elo": 1934.6,
-    "attack": 1.6309,
-    "defense": 0.5213,
-    "form": 0.3397,
+    "elo": 1938.7,
+    "attack": 1.5423,
+    "defense": 0.5057,
+    "form": 0.5378,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -112,10 +112,10 @@
     "rest_days": 3
   },
   "乌拉圭": {
-    "elo": 1771.9,
-    "attack": 0.7892,
-    "defense": 0.6973,
-    "form": -0.5098,
+    "elo": 1820.0,
+    "attack": 0.853,
+    "defense": 0.6645,
+    "form": -0.0569,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -232,10 +232,10 @@
     "rest_days": 3
   },
   "韩国": {
-    "elo": 1761.9,
-    "attack": 1.2186,
-    "defense": 0.6345,
-    "form": 0.1476,
+    "elo": 1713.8,
+    "attack": 1.135,
+    "defense": 0.7134,
+    "form": -0.1967,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -2576,10 +2576,10 @@
     "rest_days": 3
   },
   "委内瑞拉": {
-    "elo": 1666.0,
-    "attack": 0.8522,
-    "defense": 1.0011,
-    "form": 0.0862,
+    "elo": 1661.9,
+    "attack": 0.8043,
+    "defense": 0.9739,
+    "form": -0.2397,
     "injury": 0.0,
     "rest_days": 3
   },
