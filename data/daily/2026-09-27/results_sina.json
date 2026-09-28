@@ -198,5 +198,30 @@
     "red_home": "0",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3624508",
+    "match_no": "周日009",
+    "home_team": "哥伦布机员",
+    "away_team": "迈阿密国际",
+    "home_score": 2,
+    "away_score": 1,
+    "half_home_score": 1,
+    "half_away_score": 1,
+    "league": "美职联",
+    "match_time": "2026-09-28 07:10:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 2.74,
+    "odds_draw": 3.98,
+    "odds_away": 1.95,
+    "corner_home": "9",
+    "corner_away": "1",
+    "yellow_home": "5",
+    "yellow_away": "4",
+    "red_home": "0",
+    "red_away": "1",
+    "source": "sina"
   }
 ]

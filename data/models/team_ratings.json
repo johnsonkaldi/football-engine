@@ -6240,10 +6240,10 @@
     "rest_days": 3
   },
   "迈阿密国际": {
-    "elo": 1598.4,
-    "attack": 0.6364,
-    "defense": 0.4743,
-    "form": 0.2353,
+    "elo": 1582.4,
+    "attack": 0.6095,
+    "defense": 0.4984,
+    "form": -0.1353,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -7088,10 +7088,10 @@
     "rest_days": 3
   },
   "哥伦布机员": {
-    "elo": 1533.4,
-    "attack": 0.6732,
-    "defense": 0.6087,
-    "form": 0.2691,
+    "elo": 1549.4,
+    "attack": 0.6779,
+    "defense": 0.5845,
+    "form": 0.4884,
     "injury": 0.0,
     "rest_days": 3
   },
