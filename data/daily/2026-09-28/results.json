@@ -1,6 +1,6 @@
 [
   {
-    "match_id": "3801197",
+    "match_id": "周一001",
     "home_score": 2,
     "away_score": 1,
     "home_team": "日本",
@@ -9,7 +9,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3867385",
+    "match_id": "周一002",
     "home_score": 1,
     "away_score": 4,
     "home_team": "韩国",
@@ -18,7 +18,7 @@
     "half_away_score": 3
   },
   {
-    "match_id": "3703880",
+    "match_id": "周一003",
     "home_score": 2,
     "away_score": 3,
     "home_team": "亚美尼亚",
@@ -27,7 +27,7 @@
     "half_away_score": 2
   },
   {
-    "match_id": "3703873",
+    "match_id": "周一004",
     "home_score": 1,
     "away_score": 4,
     "home_team": "土耳其",
@@ -36,7 +36,7 @@
     "half_away_score": 3
   },
   {
-    "match_id": "3703872",
+    "match_id": "周一005",
     "home_score": 0,
     "away_score": 1,
     "home_team": "比利时",
@@ -45,7 +45,7 @@
     "half_away_score": 0
   },
   {
-    "match_id": "3703878",
+    "match_id": "周一006",
     "home_score": 2,
     "away_score": 4,
     "home_team": "罗马尼亚",
@@ -54,7 +54,7 @@
     "half_away_score": 3
   },
   {
-    "match_id": "3703879",
+    "match_id": "周一007",
     "home_score": 3,
     "away_score": 1,
     "home_team": "瑞典",
@@ -63,7 +63,7 @@
     "half_away_score": 1
   },
   {
-    "match_id": "3703877",
+    "match_id": "周一008",
     "home_score": 0,
     "away_score": 0,
     "home_team": "北爱尔兰",
