@@ -1,14 +1,14 @@
 {
   "generated_at": "2026-09-29",
-  "total_matches": 854,
+  "total_matches": 856,
   "date_range": [
     "2026-07-19",
-    "2026-09-25"
+    "2026-09-29"
   ],
   "overall": {
-    "hit_rate": 0.5258,
-    "brier_final": 0.5956,
-    "brier_model": 0.6229,
+    "hit_rate": 0.5269,
+    "brier_final": 0.5954,
+    "brier_model": 0.6228,
     "brier_market": 0.5818,
     "brier_djyy": 0.646
   },
@@ -840,21 +840,33 @@
       "brier_market": 0.5619,
       "brier_djyy": null,
       "pnl": 0.0
+    },
+    {
+      "date": "2026-09-29",
+      "n": 2,
+      "hits": 2,
+      "hit_rate": 1.0,
+      "cum_hit_rate": 0.5269,
+      "brier_final": 0.5196,
+      "brier_model": 0.5513,
+      "brier_market": null,
+      "brier_djyy": null,
+      "pnl": 0.0
     }
   ],
   "rolling7": {
-    "n": 89,
-    "hit_rate": 0.5056,
-    "brier_final": 0.5441,
+    "n": 61,
+    "hit_rate": 0.5574,
+    "brier_final": 0.527,
     "pnl": 0.0
   },
   "prev7": {
     "n": 121,
     "hit_rate": 0.5455,
-    "brier_final": 0.5404,
+    "brier_final": 0.5408,
     "pnl": 197.5
   },
-  "verdict": "命中率下降 -4pt",
+  "verdict": "持平（±3pt 内）",
   "by_league": [
     {
       "layer": "西甲",
@@ -1038,9 +1050,9 @@
     },
     {
       "layer": "亚运女足",
-      "n": 5,
-      "hit_rate": 0.4,
-      "brier_final": 0.674
+      "n": 7,
+      "hit_rate": 0.5714,
+      "brier_final": 0.6299
     },
     {
       "layer": "国际赛",
@@ -1124,9 +1136,9 @@
     },
     {
       "layer": "2.0-3.0",
-      "n": 257,
-      "hit_rate": 0.428,
-      "brier_final": 0.6595
+      "n": 259,
+      "hit_rate": 0.4324,
+      "brier_final": 0.6584
     },
     {
       "layer": "1.0-1.5",
@@ -1144,9 +1156,9 @@
   "by_conf_tier": [
     {
       "layer": "mid",
-      "n": 467,
-      "hit_rate": 0.4882,
-      "brier_final": 0.6251
+      "n": 469,
+      "hit_rate": 0.4904,
+      "brier_final": 0.6247
     },
     {
       "layer": "high",

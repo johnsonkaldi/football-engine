@@ -1,0 +1,65 @@
+[
+  {
+    "match_id": "2026-09-29_周二001",
+    "home_score": 2,
+    "away_score": 0,
+    "home_team": "朝鲜女足",
+    "away_team": "中国女足",
+    "half_home_score": 0,
+    "half_away_score": 0
+  },
+  {
+    "match_id": "周二003",
+    "home_score": 1,
+    "away_score": 2,
+    "home_team": "藤枝MYFC",
+    "away_team": "大阪樱花",
+    "half_home_score": 0,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "周二004",
+    "home_score": 0,
+    "away_score": 2,
+    "home_team": "枥木城",
+    "away_team": "广岛三箭",
+    "half_home_score": 0,
+    "half_away_score": 2
+  },
+  {
+    "match_id": "周二005",
+    "home_score": 2,
+    "away_score": 3,
+    "home_team": "富山胜利",
+    "away_team": "浦和红钻",
+    "half_home_score": 0,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "周二006",
+    "home_score": 1,
+    "away_score": 2,
+    "home_team": "山形山神",
+    "away_team": "横滨水手",
+    "half_home_score": 0,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "3861372",
+    "home_score": 1,
+    "away_score": 2,
+    "home_team": "藤枝FC",
+    "away_team": "大阪樱花",
+    "half_home_score": 0,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "2026-09-29_周二007",
+    "home_score": 2,
+    "away_score": 0,
+    "home_team": "日本女足",
+    "away_team": "韩国女足",
+    "half_home_score": 0,
+    "half_away_score": 0
+  }
+]

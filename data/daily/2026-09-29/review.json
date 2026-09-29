@@ -1,0 +1,85 @@
+{
+  "date": "2026-09-29",
+  "n_matches": 2,
+  "hit_rate": 1.0,
+  "hits": 2,
+  "source_brier": {
+    "model": 0.5513,
+    "market": null,
+    "djyy": null,
+    "final": 0.5196
+  },
+  "by_league": {
+    "亚运女足": {
+      "n": 2,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.3424,
+      "avg_brier": 0.5196
+    }
+  },
+  "by_confidence_tier": {
+    "mid": {
+      "n": 2,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.3424,
+      "avg_brier": 0.5196
+    }
+  },
+  "by_odds_band": {
+    "2.0-3.0": {
+      "n": 2,
+      "hit_rate": 1.0,
+      "wilson_lower": 0.3424,
+      "avg_brier": 0.5196
+    }
+  },
+  "score_stats": {
+    "top1": 0,
+    "top3": 0,
+    "top5": 2,
+    "top8": 2,
+    "any": 2
+  },
+  "score_rank_hist": {
+    "5": 2
+  },
+  "score_source_stats": {
+    "djyy": {
+      "n": 0,
+      "hits": 0
+    },
+    "mc": {
+      "n": 2,
+      "hits": 2
+    }
+  },
+  "market_signal_stats": {
+    "n": 2,
+    "hits": 2
+  },
+  "layered": {
+    "log_loss_final": 0.8855,
+    "rps_final": 0.2252,
+    "rps_market": 0.0,
+    "goal_framework": {
+      "n": 2,
+      "hits": 0
+    },
+    "prob_bands": {
+      "40-50%": {
+        "n": 2,
+        "hit_rate": 1.0
+      }
+    },
+    "freshness_groups": {
+      "watch": {
+        "n": 2,
+        "hit_rate": 1.0
+      }
+    }
+  },
+  "biases": [],
+  "total_pnl": 0.0,
+  "generated_at": "2026-09-29T19:19:58.005889",
+  "sha256": "9d8056e232b9deac0fe7ac4f49a6bbe0"
+}

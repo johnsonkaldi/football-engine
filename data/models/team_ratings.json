@@ -1,9 +1,9 @@
 {
   "巴西": {
-    "elo": 1995.6,
-    "attack": 1.3577,
-    "defense": 0.6737,
-    "form": 0.1823,
+    "elo": 2012.8,
+    "attack": 1.3661,
+    "defense": 0.6784,
+    "form": 0.4276,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -24,10 +24,10 @@
     "rest_days": 3
   },
   "澳大利亚": {
-    "elo": 1782.8,
-    "attack": 1.0435,
-    "defense": 0.5612,
-    "form": -0.0378,
+    "elo": 1765.6,
+    "attack": 1.0121,
+    "defense": 0.6472,
+    "form": -0.3265,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -4800,10 +4800,10 @@
     "rest_days": 3
   },
   "广岛三箭": {
-    "elo": 1637.9,
-    "attack": 1.1953,
-    "defense": 0.7891,
-    "form": 0.6765,
+    "elo": 1661.7,
+    "attack": 1.1491,
+    "defense": 0.7122,
+    "form": 0.7735,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -5656,10 +5656,10 @@
     "rest_days": 3
   },
   "浦和红钻": {
-    "elo": 1358.8,
-    "attack": 0.7413,
-    "defense": 1.2277,
-    "form": -0.3775,
+    "elo": 1385.1,
+    "attack": 0.7746,
+    "defense": 1.1784,
+    "form": 0.0358,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9416,10 +9416,10 @@
     "rest_days": 3
   },
   "横滨水手": {
-    "elo": 1510.1,
-    "attack": 0.9802,
-    "defense": 0.9415,
-    "form": 0.09,
+    "elo": 1528.7,
+    "attack": 0.955,
+    "defense": 0.8849,
+    "form": 0.363,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9456,10 +9456,10 @@
     "rest_days": 3
   },
   "大阪樱花": {
-    "elo": 1507.5,
-    "attack": 0.7955,
-    "defense": 0.8478,
-    "form": 0.1119,
+    "elo": 1544.1,
+    "attack": 0.7818,
+    "defense": 0.7575,
+    "form": 0.5648,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -9616,18 +9616,18 @@
     "rest_days": 3
   },
   "山形山神": {
-    "elo": 1501.8,
-    "attack": 0.9132,
-    "defense": 0.8849,
-    "form": -0.09,
+    "elo": 1483.2,
+    "attack": 0.8593,
+    "defense": 0.869,
+    "form": -0.363,
     "injury": 0.0,
     "rest_days": 3
   },
   "枥木市FC": {
-    "elo": 1512.5,
-    "attack": 0.8849,
-    "defense": 0.878,
-    "form": 0.09,
+    "elo": 1488.7,
+    "attack": 0.7986,
+    "defense": 0.8628,
+    "form": -0.237,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10096,10 +10096,10 @@
     "rest_days": 3
   },
   "富山胜利": {
-    "elo": 1558.8,
-    "attack": 1.047,
-    "defense": 0.9201,
-    "form": 0.21,
+    "elo": 1532.5,
+    "attack": 1.0153,
+    "defense": 0.9359,
+    "form": -0.153,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10600,10 +10600,10 @@
     "rest_days": 3
   },
   "中国女足": {
-    "elo": 1592.4,
-    "attack": 0.9801,
-    "defense": 0.7497,
-    "form": 0.3129,
+    "elo": 1561.3,
+    "attack": 0.8845,
+    "defense": 0.747,
+    "form": -0.081,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10752,10 +10752,10 @@
     "rest_days": 3
   },
   "藤枝FC": {
-    "elo": 1500.4,
-    "attack": 0.8815,
-    "defense": 0.8815,
-    "form": 0.0,
+    "elo": 1482.6,
+    "attack": 0.8307,
+    "defense": 0.8659,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10896,10 +10896,10 @@
     "rest_days": 3
   },
   "韩国女足": {
-    "elo": 1533.9,
-    "attack": 1.1136,
-    "defense": 1.0081,
-    "form": 0.3,
+    "elo": 1507.7,
+    "attack": 1.005,
+    "defense": 0.9802,
+    "form": -0.09,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -10968,10 +10968,10 @@
     "rest_days": 3
   },
   "藤枝MYFC": {
-    "elo": 1503.0,
-    "attack": 0.9377,
-    "defense": 0.9377,
-    "form": 0.0,
+    "elo": 1484.2,
+    "attack": 0.8815,
+    "defense": 0.9166,
+    "form": -0.3,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -11050,6 +11050,22 @@
   "格拉夫夏普": {
     "elo": 1514.1,
     "attack": 0.9377,
+    "defense": 0.9025,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "朝鲜女足": {
+    "elo": 1531.1,
+    "attack": 0.9729,
+    "defense": 0.9025,
+    "form": 0.3,
+    "injury": 0.0,
+    "rest_days": 3
+  },
+  "日本女足": {
+    "elo": 1526.2,
+    "attack": 0.9729,
     "defense": 0.9025,
     "form": 0.3,
     "injury": 0.0,

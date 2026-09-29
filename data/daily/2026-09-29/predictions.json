@@ -304,7 +304,22 @@
     "direction": "home",
     "direction_prob": 0.4123,
     "direction_margin": 0.0879,
-    "kelly_edge": -0.0476
+    "kelly_edge": -0.0476,
+    "pnl": 0.0,
+    "actual_result": "2-0",
+    "actual_home_score": 2,
+    "actual_away_score": 0,
+    "direction_correct": true,
+    "predicted_score": "0-0",
+    "score_correct": false,
+    "score_rank": 5,
+    "score_top3_hit": false,
+    "score_top5_hit": true,
+    "score_top8_hit": true,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 5,
+    "market_signal_dir": "home",
+    "market_signal_hit": true
   },
   {
     "match_id": "2026-09-29_周二007",
@@ -611,6 +626,21 @@
     "direction": "home",
     "direction_prob": 0.4127,
     "direction_margin": 0.0883,
-    "kelly_edge": -0.0467
+    "kelly_edge": -0.0467,
+    "pnl": 0.0,
+    "actual_result": "2-0",
+    "actual_home_score": 2,
+    "actual_away_score": 0,
+    "direction_correct": true,
+    "predicted_score": "0-0",
+    "score_correct": false,
+    "score_rank": 5,
+    "score_top3_hit": false,
+    "score_top5_hit": true,
+    "score_top8_hit": true,
+    "djyy_score_rank": 0,
+    "mc_score_rank": 5,
+    "market_signal_dir": "home",
+    "market_signal_hit": true
   }
 ]
