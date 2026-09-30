@@ -1,47 +1,48 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "n_matches": 2,
-  "hit_rate": 1.0,
-  "hits": 2,
+  "hit_rate": 0.5,
+  "hits": 1,
   "source_brier": {
-    "model": 0.5513,
+    "model": 0.6707,
     "market": null,
     "djyy": null,
-    "final": 0.5196
+    "final": 0.6649
   },
   "by_league": {
-    "亚运女足": {
+    "亚运男足": {
       "n": 2,
-      "hit_rate": 1.0,
-      "wilson_lower": 0.3424,
-      "avg_brier": 0.5196
+      "hit_rate": 0.5,
+      "wilson_lower": 0.0945,
+      "avg_brier": 0.6649
     }
   },
   "by_confidence_tier": {
     "mid": {
       "n": 2,
-      "hit_rate": 1.0,
-      "wilson_lower": 0.3424,
-      "avg_brier": 0.5196
+      "hit_rate": 0.5,
+      "wilson_lower": 0.0945,
+      "avg_brier": 0.6649
     }
   },
   "by_odds_band": {
     "2.0-3.0": {
       "n": 2,
-      "hit_rate": 1.0,
-      "wilson_lower": 0.3424,
-      "avg_brier": 0.5196
+      "hit_rate": 0.5,
+      "wilson_lower": 0.0945,
+      "avg_brier": 0.6649
     }
   },
   "score_stats": {
     "top1": 0,
     "top3": 0,
-    "top5": 2,
+    "top5": 1,
     "top8": 2,
     "any": 2
   },
   "score_rank_hist": {
-    "5": 2
+    "7": 1,
+    "4": 1
   },
   "score_source_stats": {
     "djyy": {
@@ -50,36 +51,36 @@
     },
     "mc": {
       "n": 2,
-      "hits": 2
+      "hits": 1
     }
   },
   "market_signal_stats": {
     "n": 2,
-    "hits": 2
+    "hits": 0
   },
   "layered": {
-    "log_loss_final": 0.8855,
-    "rps_final": 0.2252,
+    "log_loss_final": 1.1023,
+    "rps_final": 0.1809,
     "rps_market": 0.0,
     "goal_framework": {
       "n": 2,
-      "hits": 0
+      "hits": 1
     },
     "prob_bands": {
       "40-50%": {
         "n": 2,
-        "hit_rate": 1.0
+        "hit_rate": 0.5
       }
     },
     "freshness_groups": {
       "watch": {
         "n": 2,
-        "hit_rate": 1.0
+        "hit_rate": 0.5
       }
     }
   },
   "biases": [],
   "total_pnl": 0.0,
-  "generated_at": "2026-09-30T17:01:19.813663",
-  "sha256": "ab48e35d3b036c1e496feed1e9fe0160"
+  "generated_at": "2026-09-30T17:00:52.087343",
+  "sha256": "4031a1b20bc1250026c26f9e11e203d7"
 }

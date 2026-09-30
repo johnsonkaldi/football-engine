@@ -1,0 +1,20 @@
+[
+  {
+    "match_id": "2026-09-30_周三001",
+    "home_score": 2,
+    "away_score": 1,
+    "home_team": "韩国U23",
+    "away_team": "中国U23",
+    "half_home_score": 1,
+    "half_away_score": 1
+  },
+  {
+    "match_id": "2026-09-30_周三002",
+    "home_score": 1,
+    "away_score": 1,
+    "home_team": "乌兹U23",
+    "away_team": "日本U23",
+    "half_home_score": 1,
+    "half_away_score": 0
+  }
+]
