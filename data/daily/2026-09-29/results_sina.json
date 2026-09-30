@@ -348,5 +348,30 @@
     "red_home": "0",
     "red_away": "0",
     "source": "sina"
+  },
+  {
+    "match_id": "3867399",
+    "match_no": "周二015",
+    "home_team": "美国",
+    "away_team": "智利",
+    "home_score": 4,
+    "away_score": 2,
+    "half_home_score": 1,
+    "half_away_score": 1,
+    "league": "国际友谊",
+    "match_time": "2026-09-30 08:00:00",
+    "status": "完赛",
+    "status_detail": "完赛",
+    "note": "",
+    "odds_home": 1.29,
+    "odds_draw": 4.65,
+    "odds_away": 7.2,
+    "corner_home": "5",
+    "corner_away": "13",
+    "yellow_home": "1",
+    "yellow_away": "2",
+    "red_home": "0",
+    "red_away": "0",
+    "source": "sina"
   }
 ]
