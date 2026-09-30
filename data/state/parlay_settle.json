@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T02:11:59.310292+00:00",
+  "generated_at": "2026-09-30T05:30:08.995868+00:00",
   "parlay": {
     "n_tickets": 99,
     "n_pending": 1,
@@ -3916,7 +3916,7 @@
         "date": "2026-09-30",
         "type": "2串1",
         "stake": 13.93,
-        "potential": 72.73,
+        "potential": 72.72,
         "total_odds": 5.22,
         "odds_source": null,
         "note": "待赛",
@@ -3934,7 +3934,7 @@
             "away": "日本亚",
             "sel": "away",
             "score": null,
-            "odds": 2.27,
+            "odds": 2.26,
             "hit": null
           },
           {
@@ -3943,7 +3943,7 @@
             "away": "中国亚运男足",
             "sel": "home",
             "score": null,
-            "odds": 2.3,
+            "odds": 2.31,
             "hit": null
           }
         ]
@@ -24640,7 +24640,7 @@
             "date": "2026-09-30",
             "type": "2串1",
             "stake": 13.93,
-            "potential": 72.73,
+            "potential": 72.72,
             "total_odds": 5.22,
             "odds_source": null,
             "note": "待赛",
@@ -24658,7 +24658,7 @@
                 "away": "日本亚",
                 "sel": "away",
                 "score": null,
-                "odds": 2.27,
+                "odds": 2.26,
                 "hit": null
               },
               {
@@ -24667,7 +24667,7 @@
                 "away": "中国亚运男足",
                 "sel": "home",
                 "score": null,
-                "odds": 2.3,
+                "odds": 2.31,
                 "hit": null
               }
             ]
