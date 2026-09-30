@@ -1,9 +1,9 @@
 {
   "巴西": {
-    "elo": 2103.1,
-    "attack": 1.4127,
-    "defense": 0.7045,
-    "form": 0.9769,
+    "elo": 2109.4,
+    "attack": 1.4157,
+    "defense": 0.7062,
+    "form": 0.9838,
     "injury": 0.0,
     "rest_days": 3
   },
@@ -24,10 +24,10 @@
     "rest_days": 3
   },
   "澳大利亚": {
-    "elo": 1675.3,
-    "attack": 0.837,
-    "defense": 1.1273,
-    "form": -0.9728,
+    "elo": 1669.0,
+    "attack": 0.8258,
+    "defense": 1.1581,
+    "form": -0.981,
     "injury": 0.0,
     "rest_days": 3
   },
