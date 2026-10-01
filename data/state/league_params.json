@@ -527,10 +527,10 @@
     "draw_baseline": 0.25,
     "draw_predictions": 0,
     "draw_hits": 0,
-    "total_predictions": 17,
-    "total_hits": 15,
+    "total_predictions": 18,
+    "total_hits": 16,
     "avg_overround": 0.0,
-    "last_updated": "2026-09-30"
+    "last_updated": "2026-10-01"
   },
   "欧国联": {
     "base_goals": 1.35,
