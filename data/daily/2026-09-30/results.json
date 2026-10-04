@@ -16,5 +16,27 @@
     "away_team": "日本U23",
     "half_home_score": 1,
     "half_away_score": 0
+  },
+  {
+    "match_id": "周三001",
+    "home_team": "韩国亚",
+    "away_team": "中国亚",
+    "home_score": 2,
+    "away_score": 1,
+    "competition": "亚运男足",
+    "match_date": "2026-09-30",
+    "match_no": "",
+    "status": "完赛"
+  },
+  {
+    "match_id": "周三002",
+    "home_team": "乌兹别亚",
+    "away_team": "日本亚",
+    "home_score": 1,
+    "away_score": 1,
+    "competition": "亚运男足",
+    "match_date": "2026-09-30",
+    "match_no": "",
+    "status": "完赛"
   }
 ]
